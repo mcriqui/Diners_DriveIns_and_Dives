@@ -22,7 +22,7 @@ for index, episode in enumerate(episodes):
     number_of_reviews = episodes[index][7]
     longitude = episodes[index][8]
     latitude = episodes[index][9]
-    print longitude, latitude
+    print longitude, latitude, business_id
 
     if rating == '5':
         item = {

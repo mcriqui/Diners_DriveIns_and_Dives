@@ -1,846 +1,837 @@
 Season,Show Title,Resturant,City,State,Business ID,Rating,# of Reviews,Latitude,Longitude
-1,Classics,Mac and Ernies,Tarpley,Texas,Mac-and-Ernies-Tarpley,4,36,-99.2764299,29.6571703
-1,Classics,Brints Diner,Wichita,Kansas,Brints-Diner-Wichita,3.5,26,-97.336111,37.688889
-1,Classics,Mad Greeks Diner,Baker,California,The-Mad-Greek-Baker,3,905,-116.073907,35.267516
-1,Thats Italian,Four Kegs Sports Pub,Las Vegas,Nevada,Four-Kegs-Sports-Bar-Las-Vegas,4,291,-115.1398296,36.1699412
-1,Thats Italian,Hullabaloo Diner,Wellborn,Texas,Hullabaloo-Diner-Wellborn,3.5,96,-82.8192807,30.2304453
-1,Thats Italian,Pizza Palace,Knoxville,Tennessee,Pizza-Palace-Knoxville,3.5,76,-83.9207392,35.9606384
+1,Classics,Mac and Ernies,Tarpley,Texas,Mac-and-Ernies-Tarpley,4,36,-99.2754974,29.6577301
+1,Classics,Brints Diner,Wichita,Kansas,Brints-Diner-Wichita,3.5,26,-97.2791519,37.6728706
+1,Classics,Mad Greeks Diner,Baker,California,The-Mad-Greek-Baker,3,905,-116.0741119,35.2667809
+1,Thats Italian,Four Kegs Sports Pub,Las Vegas,Nevada,Four-Kegs-Sports-Bar-Las-Vegas,4,291,-115.2232617765,36.1759036894
+1,Thats Italian,Hullabaloo Diner,Wellborn,Texas,Hullabaloo-Diner-Wellborn,3.5,96,-96.300819,30.532119
+1,Thats Italian,Pizza Palace,Knoxville,Tennessee,Pizza-Palace-Knoxville,3.5,76,-83.885887,35.994728
 1,Blue Plate Special,The Penguin,Charlotte,North Carolina,The-Penguin-Charlotte,Closed,Closed,-80.8431267,35.2270869
-1,Blue Plate Special,Patricks Roadhouse,Santa Monica,California,Patricks-Roadhouse-Santa-Monica,3.5,310,-118.4911912,34.0194543
+1,Blue Plate Special,Patricks Roadhouse,Santa Monica,California,Patricks-Roadhouse-Santa-Monica,3.5,310,-118.518482,34.02798
 1,Blue Plate Special,Frosted Mug,Alsip,Illinois,Frosted-Mug-Alsip,Closed,Closed,-87.7386619,41.6689223
-1,Breakfast,The Coffee Cup,Boulder City,Nevada,The-Coffee-Cup-Boulder-City,4,273,-105.2705456,40.0149856
-1,Breakfast,Franks Diner,Kenosha,Wisconsin,Franks-Diner-Kenosha,4,192,-87.8211854,42.5847425
-1,Breakfast,Gaffey Street Diner,San Pedro,California,Gaffey-Street-Diner-San-Pedro,3.5,372,-118.292246,33.736062
-1,BBQ,Louie Mueller BBQ,Taylor,Texas,Louie-Mueller-BBQ-Taylor,4,283,-83.2696509,42.240872
-1,BBQ,Barbecue King Drive-In,Charlotte,North Carolina,Bar-B-Q-King-Charlotte,3.5,81,-80.8431267,35.2270869
-1,Local Legends,Eveready Diner,Hyde Park,New York,Eveready-Diner-Hyde-Park,3.5,142,-73.9015246,41.7667602
-1,Local Legends,Leos BBQ,Oklahoma City,Oklahoma,Leos-BBQ-Oklahoma-City,4,80,-97.5164276,35.4675602
-1,Local Legends,A1 Diner,Gardiner,Maine,A1-Diner-Gardiner,4,50,-69.7753222,44.2300698
-1,Burgers,Triple XXX Restaurant,West Lafayette,Indiana,Triple-XXX-Restaurant-West-Lafayette,3.5,207,-86.9080655,40.4258686
-1,Burgers,Hackneys,Glenview,Illinois,Hackneys-Glenview,3,137,-87.7878408,42.0697509
-1,Burgers,Squeeze Inn,Sacramento,California,Squeeze-Inn-Sacramento,3.5,1339,-121.4943996,38.5815719
-1,House Specials,Red Arrow Diner,Manchester,New Hampshire,The-Red-Arrow-Diner-Manchester-2,4,263,-71.454789,42.99564
-1,House Specials,Hanks Creekside Restaurant,Santa Rosa,California,Hanks-Creekside-Restaurant-Santa-Rosa,4,238,-122.7140548,38.440429
-1,House Specials,Voulas Offshore Cafe,Seattle,Washington,Voulas-Offshore-Cafe-Seattle,4,420,-122.3320708,47.6062095
-1,Retro,Southside Soda Shop and Diner,Goshen,Indiana,South-side-Soda-Shop-Goshen-2,4,50,-85.8344383,41.5822716
-1,Retro,Taylors Automatic Refresher,Saint Helena,California,Taylors-Automatic-Refresher-Saint-Helena,4,1229,-122.4703868,38.5052429
-1,Retro,Byways Cafe,Portland,Oregon,Byways-Cafe-Portland,4,402,-122.6764816,45.5230622
-1,Worth the Trip,Big Star Diner,Bainbridge Island,Washington,Big-Star-Diner-Bainbridge-Island,3.5,108,-122.5212448,47.6262081
-1,Worth the Trip,Harolds Cafe,Gaffney,South Carolina,Harolds-Restaurant-Gaffney,2.5,19,-81.6498195,35.0717945
-1,Worth the Trip,Mo Gridders BBQ,Bronx,New York,MoGridders-BBQ-Bronx,3,34,-73.8654295,40.8370495
-1,Diners A-Plenty,Kellys Diner,Somerville,Massachusetts,Kellys-Diner-Somerville,4,173,-71.0994968,42.3875968
-1,Diners A-Plenty,Bay Way Diner,Linden,New Jersey,Bayway-Diner-Linden,3,9,-74.2445902,40.6220478
-1,Diners A-Plenty,Beacon Drive-In,Spartanburg,South Carolina,Beacon-Drive-In-Spartanburg,3,122,-81.9320482,34.9495672
-1,American Cookin,Rosies Diner,Rockford,Michigan,Rosies-Diner-Rockford,3,23,-89.0939952,42.2711311
-1,American Cookin,Dari-ette Drive-In,Saint Paul,Minnesota,Dari-ette-Drive-In-Saint-Paul,3.5,51,-93.0899578,44.9537029
-1,American Cookin,The Russian River Pub,Forestville,California,Russian-River-Pub-Forestville,4.5,118,-69.087641,48.7391752
-1,American Cookin,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2650108,44.977753
-2,Totally Fried,Falafels Drive-In,San Jose,California,Falafels-Drive-In-San-Jose,4,3404,-121.8863286,37.3382082
-2,Totally Fried,Ramona Cafe,Ramona,California,Ramona-Cafe-Ramona-2,3,146,-116.8792553,33.0413604
-2,Totally Fried,Silk City Diner,Philadelphia,Pennsylvania,Silk-City-Diner-And-Lounge-Philadelphia,4,557,-75.1652215,39.9525839
-2,Route 66,Emma Jeans Holland Burger Cafe,Victorville,California,Emma-Jeans-Holland-Burger-Cafe-Victorville,4.5,170,-117.2927641,34.5362184
-2,Route 66,The Rock Cafe,Stroud,Oklahoma,Rock-Cafe-Stroud,3.5,52,-96.658073,35.74868
-2,Route 66,Cafe on the Route,Baxter Springs,Kansas,Cafe-on-the-Route-Baxter-Springs,4.5,17,-94.7355042,37.0236759
-2,Seaside Eats,Evelyns Drive-In,Tiverton,Rhode Island,Evelyns-Drive-In-Tiverton,3,87,-71.213423,41.625921
-2,Seaside Eats,Hodads,Ocean Beach,California,Hodads-Ocean-Beach,4,3962,-117.2470353,32.7494988
-2,Seaside Eats,Keegans Seafood Grille,Indian Rocks Beach,Florida,Keegans-Seafood-Grille-Indian-Rocks-Beach,4,250,-82.846561,27.8960019
-2,Local Flavor,Clantons Cafe,Vinita,Oklahoma,Clantons-Cafe-Vinita,4,41,-95.1541339,36.6386937
-2,Local Flavor,Mikes Chili Parlor,Seattle,Washington,Mikes-Chili-Parlor-Seattle,3.5,222,-122.3320708,47.6062095
-2,Local Flavor,Duartes Tavern,Pescadero,California,Duartes-Tavern-Pescadero,3.5,828,-122.3830152,37.2551636
+1,Breakfast,The Coffee Cup,Boulder City,Nevada,The-Coffee-Cup-Boulder-City,4,273,-114.83812,35.977749
+1,Breakfast,Franks Diner,Kenosha,Wisconsin,Franks-Diner-Kenosha,4,192,-87.817512,42.583549
+1,Breakfast,Gaffey Street Diner,San Pedro,California,Gaffey-Street-Diner-San-Pedro,3.5,372,-118.2926636,33.745121
+1,BBQ,Louie Mueller BBQ,Taylor,Texas,Louie-Mueller-BBQ-Taylor,4,283,-97.4111633301,30.5688686371
+1,BBQ,Barbecue King Drive-In,Charlotte,North Carolina,Bar-B-Q-King-Charlotte,3.5,81,-80.8889465,35.2245598
+1,Local Legends,Eveready Diner,Hyde Park,New York,Eveready-Diner-Hyde-Park,3.5,142,-73.9305193888,41.7767411856
+1,Local Legends,Leos BBQ,Oklahoma City,Oklahoma,Leos-BBQ-Oklahoma-City,4,80,-97.4941443537,35.5075197834
+1,Local Legends,A1 Diner,Gardiner,Maine,A1-Diner-Gardiner,4,50,-69.7744528949,44.2300584912
+1,Burgers,Triple XXX Restaurant,West Lafayette,Indiana,Triple-XXX-Restaurant-West-Lafayette,3.5,207,-86.905380249,40.4228591919
+1,Burgers,Hackneys,Glenview,Illinois,Hackneys-Glenview,3,137,-87.7962036,42.0806808
+1,Burgers,Squeeze Inn,Sacramento,California,Squeeze-Inn-Sacramento,3.5,1339,-121.4087219238,38.5268821716
+1,House Specials,Red Arrow Diner,Manchester,New Hampshire,The-Red-Arrow-Diner-Manchester-2,4,263,-71.4614334,42.9933395
+1,House Specials,Hanks Creekside Restaurant,Santa Rosa,California,Hanks-Creekside-Restaurant-Santa-Rosa,4,238,-122.688922,38.44969
+1,House Specials,Voulas Offshore Cafe,Seattle,Washington,Voulas-Offshore-Cafe-Seattle,4,420,-122.3213662952,47.6545346528
+1,Retro,Southside Soda Shop and Diner,Goshen,Indiana,South-side-Soda-Shop-Goshen-2,4,50,-85.829788,41.571739
+1,Retro,Taylors Automatic Refresher,Saint Helena,California,Taylors-Automatic-Refresher-Saint-Helena,4,1229,-122.4653638755,38.5020262225
+1,Retro,Byways Cafe,Portland,Oregon,Byways-Cafe-Portland,4,402,-122.6835235208,45.5264599621
+1,Worth the Trip,Big Star Diner,Bainbridge Island,Washington,Big-Star-Diner-Bainbridge-Island,3.5,108,-122.5215836,47.6267815
+1,Worth the Trip,Harolds Cafe,Gaffney,South Carolina,Harolds-Restaurant-Gaffney,2.5,19,-81.6460555047,35.0765582174
+1,Worth the Trip,Mo Gridders BBQ,Bronx,New York,MoGridders-BBQ-Bronx,3,34,-73.8836975,40.8120918
+1,Diners A-Plenty,Kellys Diner,Somerville,Massachusetts,Kellys-Diner-Somerville,4,173,-71.1115599253,42.3996181931
+1,Diners A-Plenty,Bay Way Diner,Linden,New Jersey,Bayway-Diner-Linden,3,9,-74.234977,40.620699
+1,Diners A-Plenty,Beacon Drive-In,Spartanburg,South Carolina,Beacon-Drive-In-Spartanburg,3,122,-81.9431534,34.940361
+1,American Cookin,Rosies Diner,Rockford,Michigan,Rosies-Diner-Rockford,3,23,-85.558655,43.176105
+1,American Cookin,Dari-ette Drive-In,Saint Paul,Minnesota,Dari-ette-Drive-In-Saint-Paul,3.5,51,-93.039901,44.96286
+1,American Cookin,The Russian River Pub,Forestville,California,Russian-River-Pub-Forestville,4.5,118,-122.9412689209,38.5043144226
+1,American Cookin,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2356491,44.9810104
+2,Totally Fried,Falafels Drive-In,San Jose,California,Falafels-Drive-In-San-Jose,4,3404,-121.935028,37.323654
+2,Totally Fried,Ramona Cafe,Ramona,California,Ramona-Cafe-Ramona-2,3,146,-116.8626317,33.0451026
+2,Totally Fried,Silk City Diner,Philadelphia,Pennsylvania,Silk-City-Diner-And-Lounge-Philadelphia,4,557,-75.1459351,39.9612617
+2,Route 66,Emma Jeans Holland Burger Cafe,Victorville,California,Emma-Jeans-Holland-Burger-Cafe-Victorville,4.5,170,-117.3135654661,34.5613744066
+2,Route 66,The Rock Cafe,Stroud,Oklahoma,Rock-Cafe-Stroud,3.5,52,-96.6544571,35.7487183
+2,Route 66,Cafe on the Route,Baxter Springs,Kansas,Cafe-on-the-Route-Baxter-Springs,4.5,17,-94.7353193164,37.0245768875
+2,Seaside Eats,Evelyns Drive-In,Tiverton,Rhode Island,Evelyns-Drive-In-Tiverton,3,87,-71.2001724,41.6161804
+2,Seaside Eats,Hodads,Ocean Beach,California,Hodads-Ocean-Beach,4,3962,-117.2512891889,32.7470690757
+2,Seaside Eats,Keegans Seafood Grille,Indian Rocks Beach,Florida,Keegans-Seafood-Grille-Indian-Rocks-Beach,4,250,-82.8479385,27.8987103
+2,Local Flavor,Clantons Cafe,Vinita,Oklahoma,Clantons-Cafe-Vinita,4,41,-95.1517865807,36.6377205402
+2,Local Flavor,Mikes Chili Parlor,Seattle,Washington,Mikes-Chili-Parlor-Seattle,3.5,222,-122.3757477,47.6627884
+2,Local Flavor,Duartes Tavern,Pescadero,California,Duartes-Tavern-Pescadero,3.5,828,-122.3823547363,37.2519989014
 2,Viewers Choice,Bobbys Hawaiian Style Restaurant,Everett,Washington,Bobbys-Hawaiian-Style-Restaurant-Everett,Closed,Closed,-122.2020794,47.9789848
-2,Viewers Choice,Ted Peters Famous Smoked Fish,South Pasadena,Florida,Ted-Peters-Famous-Smoked-Fish-South-Pasadena,4,152,-118.1503488,34.1161196
-2,Viewers Choice,Psycho Suzies Motor Lounge,Minneapolis,Minnesota,Psycho-Suzis-Motor-Lounge-Minneapolis-2,3.5,551,-93.2650108,44.977753
-2,Real Deal BBQ,Jay Bees Bar-B-Que,Gardena,California,Jay-Bees-Bar-B-Q-Gardena-3,3.5,318,-118.3089624,33.8883487
-2,Real Deal BBQ,Smoque,Chicago,Illinois,Smoque-Chicago,4.5,39,-87.6297982,41.8781136
-2,Real Deal BBQ,BBQ Shack,Paola,Kansas,The-BBQ-Shack-Paola,3.5,12,-94.879129,38.572235
-2,Talkin Turkey,Mikes City Diner,Boston,Massachusetts,Mikes-City-Diner-Boston,4,369,-71.0588801,42.3600825
-2,Talkin Turkey,Willie Birds Restaurant,Santa Rosa,California,Willie-Birds-Restaurant-Santa-Rosa,3.5,145,-122.7140548,38.440429
-2,Talkin Turkey,Alpine Steakhouse,Sarasota,Florida,Alpine-Steakhouse-Sarasota,3.5,46,-82.5306527,27.3364347
-2,One of a Kind,JT Farnhams Seafood and Grill,Essex,Massachusetts,JT-Farnhams-Essex-2,3.5,161,-70.782932,42.631958
-2,One of a Kind,Joes Gizzard City,Potterville,Michigan,Joes-Gizzard-City-Potterville,3,49,-84.738874,42.6292029
-2,One of a Kind,Grubstake Diner,San Francisco,California,Grubstake-San-Francisco,3.5,893,-122.4194155,37.7749295
-2,One of a Kind,Los Tapatios,San Jose,California,Los-Tapatios-San-Jose,3,7,-121.8863286,37.3382082
-2,Family Owned,El Indio,San Diego,California,El-Indio-San-Diego,3.5,998,-117.1610838,32.715738
-2,Family Owned,Charlies Diner,Spencer,Massachusetts,Charlies-Diner-Spencer,3.5,23,-95.144318,43.1450748
-2,Family Owned,Paradise Pup,Des Plaines,Illinois,Paradise-Pup-Des-Plaines,4.5,503,-87.8833991,42.0333623
-2,Open 24/7,Studio Diner,San Diego,California,Studio-Diner-San-Diego,3.5,1222,-117.1610838,32.715738
-2,Open 24/7,White Palace Grill,Chicago,Illinois,White-Palace-Grill-Chicago,3.5,362,-87.6297982,41.8781136
-2,Open 24/7,The Dining Car and Market,Philadelphia,Pennsylvania,The-Dining-Car-and-Market-Philadelphia,3.5,102,-75.1652215,39.9525839
-2,Off the Hook Specials,Schooner or Later,Long Beach,California,Schooner-or-Later-Long-Beach,3.5,1025,-118.1937395,33.7700504
-2,Off the Hook Specials,Grinders,Kansas City,Missouri,Grinders-Kansas-City,4,306,-94.5785667,39.0997265
-2,Off the Hook Specials,The Fly Trap,Ferndale,Michigan,The-Fly-Trap-Ferndale,4,508,-83.1346478,42.4605917
+2,Viewers Choice,Ted Peters Famous Smoked Fish,South Pasadena,Florida,Ted-Peters-Famous-Smoked-Fish-South-Pasadena,4,152,-82.735603,27.755415
+2,Viewers Choice,Psycho Suzies Motor Lounge,Minneapolis,Minnesota,Psycho-Suzis-Motor-Lounge-Minneapolis-2,3.5,551,-93.272247,45.007526
+2,Real Deal BBQ,Jay Bees Bar-B-Que,Gardena,California,Jay-Bees-Bar-B-Q-Gardena-3,3.5,318,-118.2655081898,33.8870286942
+2,Real Deal BBQ,Smoque,Chicago,Illinois,Smoque-Chicago,4.5,39,-87.6443319,41.9350455
+2,Real Deal BBQ,BBQ Shack,Paola,Kansas,The-BBQ-Shack-Paola,3.5,12,-94.8575423,38.5701462
+2,Talkin Turkey,Mikes City Diner,Boston,Massachusetts,Mikes-City-Diner-Boston,4,369,-71.0760727,42.3369865
+2,Talkin Turkey,Willie Birds Restaurant,Santa Rosa,California,Willie-Birds-Restaurant-Santa-Rosa,3.5,145,-122.7130814,38.4260712
+2,Talkin Turkey,Alpine Steakhouse,Sarasota,Florida,Alpine-Steakhouse-Sarasota,3.5,46,-82.531085,27.288137
+2,One of a Kind,JT Farnhams Seafood and Grill,Essex,Massachusetts,JT-Farnhams-Essex-2,3.5,161,-70.762848,42.63303
+2,One of a Kind,Joes Gizzard City,Potterville,Michigan,Joes-Gizzard-City-Potterville,3,49,-84.7424919731,42.6295702376
+2,One of a Kind,Grubstake Diner,San Francisco,California,Grubstake-San-Francisco,3.5,893,-122.4208659,37.7895257
+2,One of a Kind,Los Tapatios,San Jose,California,Los-Tapatios-San-Jose,3,7,-121.8360058218,37.3756954819
+2,Family Owned,El Indio,San Diego,California,El-Indio-San-Diego,3.5,998,-117.1800995,32.7423401
+2,Family Owned,Charlies Diner,Spencer,Massachusetts,Charlies-Diner-Spencer,3.5,23,-72.01063559,42.2370492806
+2,Family Owned,Paradise Pup,Des Plaines,Illinois,Paradise-Pup-Des-Plaines,4.5,503,-87.8761289596,42.0221052426
+2,Open 24/7,Studio Diner,San Diego,California,Studio-Diner-San-Diego,3.5,1222,-117.1271391931,32.825126772
+2,Open 24/7,White Palace Grill,Chicago,Illinois,White-Palace-Grill-Chicago,3.5,362,-87.638954,41.867554
+2,Open 24/7,The Dining Car and Market,Philadelphia,Pennsylvania,The-Dining-Car-and-Market-Philadelphia,3.5,102,-75.0113297,40.050251
+2,Off the Hook Specials,Schooner or Later,Long Beach,California,Schooner-or-Later-Long-Beach,3.5,1025,-118.1084460124,33.7520965701
+2,Off the Hook Specials,Grinders,Kansas City,Missouri,Grinders-Kansas-City,4,306,-94.5781174,39.0914383
+2,Off the Hook Specials,The Fly Trap,Ferndale,Michigan,The-Fly-Trap-Ferndale,4,508,-83.1350174,42.4622116
 2,Off the Hook Specials,Gailwood Cook Shack,Chicago,Illinois,Gailwood-Cook-Shack-Chicago,Closed,Closed,-87.6297982,41.8781136
 2,Burgers Rings and Fries,Joes Cable Car,San Francisco,California,Joes-Cable-Car-San-Francisco,Closed,Closed,-122.4194155,37.7749295
-2,Burgers Rings and Fries,The Nook,Saint Paul,Minnesota,The-Nook-Saint-Paul,4.5,517,-93.0899578,44.9537029
-2,Burgers Rings and Fries,Krazy Jims Blimpy Burger,Ann Arbor,Michigan,Krazy-Jims-Blimpy-Burger-Ann-Arbor,4,234,-83.7430378,42.2808256
-2,The New Jersey Diner Tour,Mustache Bills,Barnegat Light,New Jersey,Mustache-Bills-Diner-Barnegat-Light,4,47,-74.1062466,39.7576202
-2,The New Jersey Diner Tour,Tick Tock Diner,Clifton,New Jersey,Tick-Tock-Diner-Clifton,3,278,-74.1637553,40.8584328
-2,The New Jersey Diner Tour,White Manna Hamburgers,Hackensack,New Jersey,White-Manna-Hackensack,4,547,-74.0434736,40.8859325
-2,The New Jersey Diner Tour,The Ritz Diner,Livingston,New Jersey,Ritz-Diner-Livingston,2.5,106,-74.330084,40.786287
-2,The New Jersey Diner Tour,Hightstown Diner,Hightstown,New Jersey,Hightstown-Diner-Hightstown,3,44,-74.5232089,40.2695538
-2,The New Jersey Diner Tour,Skylark Diner,Edison,New Jersey,Skylark-Diner-Edison,3.5,314,-74.4120953,40.5187154
-2,The New Jersey Diner Tour,Jefferson Diner,Lake Hopatcong,New Jersey,Jefferson-Diner-Lake-Hopatcong,3.5,129,-74.6327236,40.9503131
-3,Big Breakfast,Brownstone Diner,Jersey City,New Jersey,Brownstone-Diner-And-Pancake-Factory-Jersey-City,3.5,767,-74.0776417,40.7281575
+2,Burgers Rings and Fries,The Nook,Saint Paul,Minnesota,The-Nook-Saint-Paul,4.5,517,-93.1567078,44.9265518
+2,Burgers Rings and Fries,Krazy Jims Blimpy Burger,Ann Arbor,Michigan,Krazy-Jims-Blimpy-Burger-Ann-Arbor,4,234,-83.7442899495,42.2747898102
+2,The New Jersey Diner Tour,Mustache Bills,Barnegat Light,New Jersey,Mustache-Bills-Diner-Barnegat-Light,4,47,-74.1066132,39.7578087
+2,The New Jersey Diner Tour,Tick Tock Diner,Clifton,New Jersey,Tick-Tock-Diner-Clifton,3,278,-74.152092,40.836945
+2,The New Jersey Diner Tour,White Manna Hamburgers,Hackensack,New Jersey,White-Manna-Hackensack,4,547,-74.0385056,40.8892899
+2,The New Jersey Diner Tour,The Ritz Diner,Livingston,New Jersey,Ritz-Diner-Livingston,2.5,106,-74.312019,40.796241
+2,The New Jersey Diner Tour,Hightstown Diner,Hightstown,New Jersey,Hightstown-Diner-Hightstown,3,44,-74.5255203247,40.2678108215
+2,The New Jersey Diner Tour,Skylark Diner,Edison,New Jersey,Skylark-Diner-Edison,3.5,314,-74.3910346999,40.507739824
+2,The New Jersey Diner Tour,Jefferson Diner,Lake Hopatcong,New Jersey,Jefferson-Diner-Lake-Hopatcong,3.5,129,-74.5971603,40.9625015
+3,Big Breakfast,Brownstone Diner,Jersey City,New Jersey,Brownstone-Diner-And-Pancake-Factory-Jersey-City,3.5,767,-74.0486069,40.7167702
 3,Big Breakfast,39th Street Mamas,Kansas City,Missouri,39th-Street-Mamas-Kansas-City,Closed,Closed,-94.5785667,39.0997265
-3,Big Breakfast,Matts Big Breakfast,Phoenix,Arizona,Matts-Big-Breakfast-Phoenix,4,728,-112.0740373,33.4483771
-3,Like Mamma Made,Robertos Mexican Food,Phoenix,Arizona,Robertos-Mexican-Food-Phoenix,4,148,-112.0740373,33.4483771
-3,Like Mamma Made,Smokey Valley Truck Stop,Olive Hill,Kentucky,Smokey-Valley-Truck-Stop-Olive-Hill,3.5,22,-83.1740654,38.3000809
-3,Like Mamma Made,Sweetie Pies,Saint Louis,Missouri,Sweetie-Pies-Saint-Louis,3.5,19,-90.1994042,38.6270025
-3,Regional Favorites,Charlie Parkers,Springfield,Illinois,Charlie-Parkers-Springfield,4,124,-72.589811,42.1014831
-3,Regional Favorites,Tecolote Cafe,Santa Fe,New Mexico,Tecolote-Cafe-Santa-Fe,4,186,-105.937799,35.6869752
-3,Regional Favorites,Virginia Diner,Wakefield,Virginia,Virginia-Diner-Wakefield,3.5,62,-76.989683,36.968206
-3,Neighborhood Joints,Thee Pitts Again,Glendale,Arizona,Thee-Pitts-Again-Glendale,3,197,-118.255075,34.1425078
-3,Neighborhood Joints,Iron Barley,Saint Louis,Missouri,Iron-Barley-Eating-Establishment-Saint-Louis,4,275,-90.1994042,38.6270025
-3,Neighborhood Joints,Daddypops,Hatboro,Pennsylvania,Daddypops-Hatboro,4,89,-75.1068388,40.1742757
-3,Neighborhood Joints,The Village Cafe,Richmond,Virginia,The-Village-Cafe-Richmond,3.5,144,-77.4360481,37.5407246
-3,A World of Flavors,Chino Bandido,Phoenix,Arizona,Chino-Bandido-Phoenix,4,830,-112.0740373,33.4483771
-3,A World of Flavors,Marietta Diner,Marietta,Georgia,Marietta-Diner-Marietta,4,579,-84.5499327,33.952602
-3,A World of Flavors,YJs Snack Bar,Kansas City,Missouri,YJs-Snack-Bar-Kansas-City,4,100,-94.5785667,39.0997265
-3,Something Different,Scullys Tavern,Miami,Florida,Scullys-Tavern-Miami,4,117,-80.1917902,25.7616798
-3,Something Different,Dots Back Inn,Richmond,Virginia,Dots-Back-Inn-Richmond,4,184,-77.4360481,37.5407246
-3,Something Different,Hillbilly Hot Dogs,Lesage,West Virginia,Hillbilly-Hot-Dogs-Lesage,4.5,47,-82.2984823,38.5064731
-3,American Classics,11th Street Diner,Miami Beach,Florida,11th-Street-Diner-Miami-Beach,3.5,285,-80.1300455,25.790654
-3,American Classics,Bobo Drive-In,Topeka,Kansas,Bobos-Drive-In-Topeka,3.5,51,-95.6890185,39.0558235
-3,American Classics,Little Tea Shop,Memphis,Tennessee,Little-Tea-Shop-Memphis,4.5,73,-90.0489801,35.1495343
-3,Real Deal Fast Food,Panini Petes,Fairhope,Alabama,Panini-Petes-Fairhope,4,77,-87.9033261,30.5229719
-3,Real Deal Fast Food,Joes Farm Grill,Gilbert,Arizona,Joes-Farm-Grill-Gilbert,4,968,-111.789027,33.3528264
-3,Real Deal Fast Food,Marias Taco Express,Austin,Texas,Marias-Taco-Express-Austin,3.5,17,-97.7430608,30.267153
-3,The Memphis BBQ Tour,Cozy Corner,Memphis,Tennessee,Cozy-Corner-Memphis,4.5,270,-90.0489801,35.1495343
-3,The Memphis BBQ Tour,Leonards BBQ,Memphis,Tennessee,Leonards-Pit-Barbecue-Memphis,3.5,76,-90.0489801,35.1495343
-3,The Memphis BBQ Tour,Marlowes Ribs,Memphis,Tennessee,Marlowes-BBQ-Restaurant-Memphis,4,127,-90.0489801,35.1495343
-3,The Memphis BBQ Tour,Toms Bar-B-Q,Memphis,Tennessee,Toms-Barbecue-and-Deli-Memphis-3,4.5,165,-90.0489801,35.1495343
-3,Comfort Food,Grampas Bakery and Restaurant,Dania Beach,Florida,Grampas-Bakery-and-Restaurant-Dania-Beach,3.5,240,-80.1439343,26.052311
-3,Comfort Food,Blue Moon Cafe,Baltimore,Maryland,Blue-Moon-Cafe-Baltimore,4,923,-76.6121893,39.2903848
-3,Comfort Food,Central City Cafe,Huntington,West Virginia,Central-City-Cafe-Huntington,3.5,5,-82.445154,38.4192496
-3,Comfort Food,Tip Top Cafe,San Antonio,Texas,Tip-Top-Cafe-San-Antonio,3.5,163,-98.4936282,29.4241219
-3,Where The Locals Go,Matthews Cafeteria,Tucker,Georgia,Matthews-Cafeteria-Tucker,3.5,130,-84.2171424,33.8545479
-3,Where The Locals Go,The Rivershack Tavern,Jefferson,Louisiana,Rivershack-Tavern-Jefferson,4,85,-90.15313,29.966037
-3,Where The Locals Go,Monte Carlo Steak House,Albuquerque,New Mexico,Monte-Carlo-Steak-House-Albuquerque,3.5,95,-106.6055534,35.0853336
-3,All Kinds of BBQ,The Joint,New Orleans,Louisiana,The-Joint-New-Orleans,4.5,569,-90.0715323,29.9510658
-3,All Kinds of BBQ,The Shed,Ocean Springs,Mississippi,The-Shed-Ocean-Springs,4,305,-88.8278057,30.4113097
-3,All Kinds of BBQ,Texas Pride BBQ,Adkins,Texas,Texas-Pride-BBQ-Adkins,3.5,166,-98.2372329,29.3930129
-3,In the Family,Bennys Seafood Restaurant,South Miami,Florida,Bennys-Seafood-Restaurant-Miami-3,3.5,61,-80.2907618,25.7050697
-3,In the Family,Chaps Pit Beef,Baltimore,Maryland,Chaps-Pit-Beef-Baltimore,4,554,-76.6121893,39.2903848
-3,In the Family,Burger Bar,Roy,Utah,Burger-Bar-Roy,3.5,95,-112.026331,41.161611
-4,Brain Freeze,Doumars,Norfolk,Virginia,Doumars-Cones-and-Barbecue-Norfolk,4,275,-76.2858726,36.8507689
-4,Brain Freeze,Aunt Lenas Creamery,Chandler,Arizona,Aunt-Lenas-Creamery-Chandler,2.5,2,-111.8412502,33.3061605
-4,Brain Freeze,The Creole Creamery,New Orleans,Louisiana,The-Creole-Creamery-New-Orleans,4.5,40,-90.0715323,29.9510658
-4,Diners You Sent Me To,Town Talk Diner,Minneapolis,Minnesota,Town-Talk-Diner-Minneapolis,3.5,97,-93.2650108,44.977753
-4,Diners You Sent Me To,Blue Plate Diner,Salt Lake City,Utah,Blue-Plate-Diner-Salt-Lake-City,3.5,316,-111.8910474,40.7607793
-4,Diners You Sent Me To,Broadway Diner,Baltimore,Maryland,Broadway-Diner-Baltimore,4,178,-76.6121893,39.2903848
-4,Bar Food,The Highlander,Atlanta,Georgia,The-Highlander-Atlanta,3.5,248,-84.3879824,33.7489954
-4,Bar Food,Gumbo Shack,Fairhope,Alabama,The-Gumbo-Shack-Fairhope,3,55,-87.9033261,30.5229719
-4,Bar Food,Starlite Lounge,Pittsburgh,Pennsylvania,Starlite-Lounge-Pittsburgh,2.5,12,-79.9958864,40.4406248
-4,Burgers and Dogs,The Wienery,Minneapolis,Minnesota,The-Wienery-Minneapolis,4,154,-93.2650108,44.977753
-4,Burgers and Dogs,Casino El Camino,Austin,Texas,Casino-El-Camino-Austin,4,771,-97.7430608,30.267153
-4,Burgers and Dogs,GandA Restaurant,Baltimore,Maryland,GandA-Restaurant-Baltimore,4,53,-76.6121893,39.2903848
-4,Where the Locals Eat,Uncle Lous,Memphis,Tennessee,Uncle-Lous-Fried-Chicken-Memphis,4.5,186,-90.0489801,35.1495343
-4,Where the Locals Eat,Captain Chuck A Mucks,Carrolton,Virginia,Captain-Chuck-A-Mucks-Ship-Carrollton,3.5,49,-96.8899636,32.9756415
+3,Big Breakfast,Matts Big Breakfast,Phoenix,Arizona,Matts-Big-Breakfast-Phoenix,4,728,-112.072327137,33.4566960574
+3,Like Mamma Made,Robertos Mexican Food,Phoenix,Arizona,Robertos-Mexican-Food-Phoenix,4,148,-112.133957,33.844328
+3,Like Mamma Made,Smokey Valley Truck Stop,Olive Hill,Kentucky,Smokey-Valley-Truck-Stop-Olive-Hill,3.5,22,-83.2097812631,38.3296393962
+3,Like Mamma Made,Sweetie Pies,Saint Louis,Missouri,Sweetie-Pies-Saint-Louis,3.5,19,-90.2795210481,38.74633044
+3,Regional Favorites,Charlie Parkers,Springfield,Illinois,Charlie-Parkers-Springfield,4,124,-89.6641083,39.7660332
+3,Regional Favorites,Tecolote Cafe,Santa Fe,New Mexico,Tecolote-Cafe-Santa-Fe,4,186,-105.9617583067,35.6722339222
+3,Regional Favorites,Virginia Diner,Wakefield,Virginia,Virginia-Diner-Wakefield,3.5,62,-76.9882902503,36.9737771899
+3,Neighborhood Joints,Thee Pitts Again,Glendale,Arizona,Thee-Pitts-Again-Glendale,3,197,-112.1789550781,33.6393623352
+3,Neighborhood Joints,Iron Barley,Saint Louis,Missouri,Iron-Barley-Eating-Establishment-Saint-Louis,4,275,-90.2460544556,38.5649192333
+3,Neighborhood Joints,Daddypops,Hatboro,Pennsylvania,Daddypops-Hatboro,4,89,-75.1048431396,40.1812782288
+3,Neighborhood Joints,The Village Cafe,Richmond,Virginia,The-Village-Cafe-Richmond,3.5,144,-77.4533996582,37.5508880615
+3,A World of Flavors,Chino Bandido,Phoenix,Arizona,Chino-Bandido-Phoenix,4,830,-112.100731,33.626934
+3,A World of Flavors,Marietta Diner,Marietta,Georgia,Marietta-Diner-Marietta,4,579,-84.5179825,33.9446793
+3,A World of Flavors,YJs Snack Bar,Kansas City,Missouri,YJs-Snack-Bar-Kansas-City,4,100,-94.5856973,39.092037
+3,Something Different,Scullys Tavern,Miami,Florida,Scullys-Tavern-Miami,4,117,-80.3521042,25.7017498
+3,Something Different,Dots Back Inn,Richmond,Virginia,Dots-Back-Inn-Richmond,4,184,-77.4585952759,37.5899200439
+3,Something Different,Hillbilly Hot Dogs,Lesage,West Virginia,Hillbilly-Hot-Dogs-Lesage,4.5,47,-82.2984156758,38.5068594664
+3,American Classics,11th Street Diner,Miami Beach,Florida,11th-Street-Diner-Miami-Beach,3.5,285,-80.132294,25.781805
+3,American Classics,Bobo Drive-In,Topeka,Kansas,Bobos-Drive-In-Topeka,3.5,51,-95.706314,39.051636
+3,American Classics,Little Tea Shop,Memphis,Tennessee,Little-Tea-Shop-Memphis,4.5,73,-90.0541045027,35.1443517613
+3,Real Deal Fast Food,Panini Petes,Fairhope,Alabama,Panini-Petes-Fairhope,4,77,-87.903095,30.522528
+3,Real Deal Fast Food,Joes Farm Grill,Gilbert,Arizona,Joes-Farm-Grill-Gilbert,4,968,-111.7239189148,33.3210616448
+3,Real Deal Fast Food,Marias Taco Express,Austin,Texas,Marias-Taco-Express-Austin,3.5,17,-97.778358,30.245953
+3,The Memphis BBQ Tour,Cozy Corner,Memphis,Tennessee,Cozy-Corner-Memphis,4.5,270,-90.034302,35.155442
+3,The Memphis BBQ Tour,Leonards BBQ,Memphis,Tennessee,Leonards-Pit-Barbecue-Memphis,3.5,76,-89.8815536,35.0739899
+3,The Memphis BBQ Tour,Marlowes Ribs,Memphis,Tennessee,Marlowes-BBQ-Restaurant-Memphis,4,127,-90.025825,35.029045
+3,The Memphis BBQ Tour,Toms Bar-B-Q,Memphis,Tennessee,Toms-Barbecue-and-Deli-Memphis-3,4.5,165,-89.9373398,35.037075
+3,Comfort Food,Grampas Bakery and Restaurant,Dania Beach,Florida,Grampas-Bakery-and-Restaurant-Dania-Beach,3.5,240,-80.1441955566,26.0507068634
+3,Comfort Food,Blue Moon Cafe,Baltimore,Maryland,Blue-Moon-Cafe-Baltimore,4,923,-76.59425354,39.2833137512
+3,Comfort Food,Central City Cafe,Huntington,West Virginia,Central-City-Cafe-Huntington,3.5,5,-82.4808176115,38.4115362083
+3,Comfort Food,Tip Top Cafe,San Antonio,Texas,Tip-Top-Cafe-San-Antonio,3.5,163,-98.5312347412,29.4701385498
+3,Where The Locals Go,Matthews Cafeteria,Tucker,Georgia,Matthews-Cafeteria-Tucker,3.5,130,-84.213829,33.8523178
+3,Where The Locals Go,The Rivershack Tavern,Jefferson,Louisiana,Rivershack-Tavern-Jefferson,4,85,-90.1609573,29.9583397
+3,Where The Locals Go,Monte Carlo Steak House,Albuquerque,New Mexico,Monte-Carlo-Steak-House-Albuquerque,3.5,95,-106.683487,35.086136
+3,All Kinds of BBQ,The Joint,New Orleans,Louisiana,The-Joint-New-Orleans,4.5,569,-90.035446,29.96132
+3,All Kinds of BBQ,The Shed,Ocean Springs,Mississippi,The-Shed-Ocean-Springs,4,305,-88.7193153321,30.4468493016
+3,All Kinds of BBQ,Texas Pride BBQ,Adkins,Texas,Texas-Pride-BBQ-Adkins,3.5,166,-98.239237,29.393767
+3,In the Family,Bennys Seafood Restaurant,South Miami,Florida,Bennys-Seafood-Restaurant-Miami-3,3.5,61,-80.3283615,25.7731495
+3,In the Family,Chaps Pit Beef,Baltimore,Maryland,Chaps-Pit-Beef-Baltimore,4,554,-76.5482788086,39.3012313843
+3,In the Family,Burger Bar,Roy,Utah,Burger-Bar-Roy,3.5,95,-112.0263864,41.1676206
+4,Brain Freeze,Doumars,Norfolk,Virginia,Doumars-Cones-and-Barbecue-Norfolk,4,275,-76.2848510742,36.8661651611
+4,Brain Freeze,Aunt Lenas Creamery,Chandler,Arizona,Aunt-Lenas-Creamery-Chandler,2.5,2,-111.8414383,33.2470055
+4,Brain Freeze,The Creole Creamery,New Orleans,Louisiana,The-Creole-Creamery-New-Orleans,4.5,40,-90.1069946,30.0040245
+4,Diners You Sent Me To,Town Talk Diner,Minneapolis,Minnesota,Town-Talk-Diner-Minneapolis,3.5,97,-93.2327118,44.9482346
+4,Diners You Sent Me To,Blue Plate Diner,Salt Lake City,Utah,Blue-Plate-Diner-Salt-Lake-City,3.5,316,-111.8305812855,40.7258381876
+4,Diners You Sent Me To,Broadway Diner,Baltimore,Maryland,Broadway-Diner-Baltimore,4,178,-76.536392,39.287483
+4,Bar Food,The Highlander,Atlanta,Georgia,The-Highlander-Atlanta,3.5,248,-84.368248,33.7800598
+4,Bar Food,Gumbo Shack,Fairhope,Alabama,The-Gumbo-Shack-Fairhope,3,55,-87.9051991783,30.5229222992
+4,Bar Food,Starlite Lounge,Pittsburgh,Pennsylvania,Starlite-Lounge-Pittsburgh,2.5,12,-79.8602828979,40.4939689636
+4,Burgers and Dogs,The Wienery,Minneapolis,Minnesota,The-Wienery-Minneapolis,4,154,-93.2474899292,44.9696464539
+4,Burgers and Dogs,Casino El Camino,Austin,Texas,Casino-El-Camino-Austin,4,771,-97.7377014,30.2663593
+4,Burgers and Dogs,GandA Restaurant,Baltimore,Maryland,GandA-Restaurant-Baltimore,4,53,-76.565114,39.286986
+4,Where the Locals Eat,Uncle Lous,Memphis,Tennessee,Uncle-Lous-Fried-Chicken-Memphis,4.5,186,-90.0078964,35.0490303
+4,Where the Locals Eat,Captain Chuck A Mucks,Carrolton,Virginia,Captain-Chuck-A-Mucks-Ship-Carrollton,3.5,49,-76.561927,36.994804
 4,Where the Locals Eat,Dixie Quicks,Omaha,Nebraska,Dixie-Quicks-Omaha,Closed,Closed,-95.9979883,41.2523634
 4,Totally Unexpected,Cabbage Town Market,Atlanta,Georgia,Cabbage-Town-Market-Atlanta,Closed,Closed,-84.3879824,33.7489954
-4,Totally Unexpected,The Cove,San Antonio,Texas,The-Cove-San-Antonio,4,685,-98.4936282,29.4241219
-4,Totally Unexpected,Bryant-Lake Bowl,Minneapolis,Minnesota,Bryant-Lake-Bowl-Minneapolis,3.5,236,-93.2650108,44.977753
-4,A Taste of Everywhere,Jamaica Kitchen,Miami,Florida,Jamaica-Kitchen-Miami,4,95,-80.1917902,25.7616798
-4,A Taste of Everywhere,Crystal Restaurant,Pittsburgh,Pennsylvania,Crystal-On-Penn-Pittsburgh,3.5,37,-79.9958864,40.4406248
-4,A Taste of Everywhere,Red Iguana,Salt Lake City,Utah,Red-Iguana-Salt-Lake-City,4.5,1353,-111.8910474,40.7607793
-4,Better Than Ever,Colonnade,Atlanta,Georgia,Colonnade-Restaurant-Atlanta,4,225,-84.3879824,33.7489954
-4,Better Than Ever,Mancis Antique Club,Daphne,Alabama,Mancis-Antique-Club-Daphne,3.5,27,-87.9036047,30.6035255
-4,Better Than Ever,Amatos,Omaha,Nebraska,Amatos-Omaha,3,71,-95.9979883,41.2523634
-4,Big Flavor,Darwells Cafe,Long Beach,Mississippi,Darwells-Cafe-Long-Beach,4.5,137,-118.1937395,33.7700504
-4,Big Flavor,Brick Oven Pizza,Baltimore,Maryland,Brick-Oven-Pizza-Baltimore,5,1,-76.6121893,39.2903848
-4,Big Flavor,Victors 1959 Cafe,Minneapolis,Minnesota,Victors-1959-Cafe-Minneapolis,4,336,-93.2650108,44.977753
-4,Cookin It Old School,Nadines Restaurant,Pittsburgh,Pennsylvania,Nadines-Pittsburgh,4,45,-79.9958864,40.4406248
-4,Cookin It Old School,Casamentos Restaurant,New Orleans,Louisiana,Casamentos-Restaurant-New-Orleans,4,182,-90.0715323,29.9510658
-4,Cookin It Old School,Big Mamas Kitchen and Catering,Omaha,Nebraska,Big-Mamas-Kitchen-and-Catering-Omaha,4,126,-95.9979883,41.2523634
-4,Grabbina Sandwich,Moochies Meatballs and More,Salt Lake City,Utah,Moochies-Meatballs-and-More-Salt-Lake-City,4,347,-111.8910474,40.7607793
-4,Grabbina Sandwich,Cemitas Puebla,Chicago,Illinois,Cemitas-Puebla-Chicago,4,791,-87.6297982,41.8781136
-4,Grabbina Sandwich,Tiolis Crazee Burger,San Diego,California,Tiolis-Crazee-Burger-San-Diego,3.5,1319,-117.1610838,32.715738
-4,Traditional Dishes,Donatellis,White Bear Lake,Minnesota,Donatellis-White-Bear-Lake,4,91,-93.0081479,45.0853814
-4,Traditional Dishes,Stoney Creek Inn,Baltimore,Maryland,Stoney-Creek-Inn-Baltimore,3.5,53,-76.6121893,39.2903848
-4,Traditional Dishes,Alcenias,Memphis,Tennessee,Alcenias-Desserts-and-Preserves-Shop-Memphis,4,60,-90.0489801,35.1495343
-4,Doin Their Own Thing,Lone Star Taqueria,Salt Lake City,Utah,Lone-Star-Taqueria-Salt-Lake-City,4.5,366,-111.8910474,40.7607793
-4,Doin Their Own Thing,Modern Cafe,Minneapolis,Minnesota,Modern-Cafe-Minneapolis,3.5,112,-93.2650108,44.977753
-4,Doin Their Own Thing,Brewburgers,Omaha,Nebraska,Brewburgers-Omaha,3,87,-95.9979883,41.2523634
-5,Whats For Breakfast,Surreys Cafe,New Orleans,Louisiana,Surreys-Cafe-and-Juice-Bar-New-Orleans-2,4.5,852,-90.0715323,29.9510658
-5,Whats For Breakfast,Harrys Roadhouse,Santa Fe,New Mexico,Harrys-Roadhouse-Santa-Fe,4,262,-105.937799,35.6869752
-5,Whats For Breakfast,Dor-Stop Restaurant,Pittsburgh,Pennsylvania,Dor-Stop-Restaurant-Pittsburgh,4.5,204,-79.9958864,40.4406248
-5,Real Deal Italian,LoBellos Spaghetti House,Coraopolis,Pennsylvania,LoBellos-Restaurant-Coraopolis,3.5,12,-80.1667247,40.5184013
-5,Real Deal Italian,Di Pasquales,Baltimore,Maryland,Di-Pasquales-Italian-Marketplace-Baltimore,4.5,172,-76.6121893,39.2903848
-5,Real Deal Italian,Pizzeria Luigi,San Diego,California,Pizzeria-Luigi-San-Diego,4,1093,-117.1610838,32.715738
-5,Not What Youd Expect,Sophias Place,Albuquerque,New Mexico,Sophias-Place-Albuquerque,4,163,-106.6055534,35.0853336
-5,Not What Youd Expect,Magnolia Cafe,Austin,Texas,Magnolia-Cafe-Austin,3.5,515,-97.7430608,30.267153
-5,Not What Youd Expect,Glenns Diner,Chicago,Illinois,Glenns-Diner-Chicago,4,896,-87.6297982,41.8781136
-5,Places You Sent Me,Ruths Diner,Salt Lake City,Utah,Ruths-Diner-Salt-Lake-City,4,343,-111.8910474,40.7607793
-5,Places You Sent Me,ORourkes Diner,Middletown,Connecticut,O-Rourkes-Diner-Middletown,4,196,-72.6506488,41.5623209
-5,Places You Sent Me,Parasols,New Orleans,Louisiana,Parasols-Bar-New-Orleans-2,4,258,-90.0715323,29.9510658
-5,Long Time Legends,Tommys Joynt,San Francisco,California,Tommys-Joynt-San-Francisco,4,2116,-122.4194155,37.7749295
-5,Long Time Legends,Joe Tess Place,Omaha,Nebraska,Joe-Tess-Place-Omaha,3,41,-95.9979883,41.2523634
-5,Long Time Legends,Big Jims,Pittsburgh,Pennsylvania,Big-Jims-Restaurant-and-Bar-Pittsburgh,4,104,-79.9958864,40.4406248
-5,Something from Everywhere,Valencia Luncheria,Norwalk,Connecticut,Valencia-Luncheria-Norwalk,4,451,-73.4081575,41.117744
-5,Something from Everywhere,The Original Vito and Nicks Pizzeria,Chicago,Illinois,Vito-and-Nicks-Pizzeria-Chicago,4,384,-87.6297982,41.8781136
-5,Something from Everywhere,Emilys Lebanese Delicatessen,Minneapolis,Minnesota,Emilys-Lebanese-Delicatessen-Minneapolis,4,124,-93.2650108,44.977753
-5,Neighborhood Favorites,Pats BBQ,Salt Lake City,Utah,Pats-Bar-B-Que-Salt-Lake-City,3.5,246,-111.8910474,40.7607793
-5,Neighborhood Favorites,Blow Fly Inn,Gulfport,Mississippi,Blow-Fly-Inn-Gulfport,4,125,-89.0928155,30.3674198
-5,Neighborhood Favorites,Tune-Up Cafe,Santa Fe,New Mexico,Tune-Up-Cafe-Santa-Fe,4.5,366,-105.937799,35.6869752
-5,Just Like Yesterday,Hob Nob Hill,San Diego,California,Hob-Nob-Hill-San-Diego,3.5,530,-117.1610838,32.715738
-5,Just Like Yesterday,The Silver Skillet,Atlanta,Georgia,The-Silver-Skillet-Atlanta,3,204,-84.3879824,33.7489954
-5,Just Like Yesterday,Tufanos Vernon Park Tap,Chicago,Illinois,Tufanos-Vernon-Park-Tap-Chicago,4,255,-87.6297982,41.8781136
-5,Return to Route 66,Standard Diner,Albuquerque,New Mexico,Standard-Diner-Albuquerque,3.5,266,-106.6055534,35.0853336
-5,Return to Route 66,Dell Rheas Chicken Basket,Willowbrook,Illinois,Dell-Rheas-Chicken-Basket-Willowbrook,3.5,258,-87.9358931,41.7697533
-5,Return to Route 66,Salsa Brava,Flagstaff,Arizona,Salsa-Brava-Flagstaff,3.5,391,-111.651302,35.1982836
-5,Smokin BBQ,Green Mesquite,Austin,Texas,Green-Mesquite-Austin,3,109,-97.7430608,30.267153
-5,Smokin BBQ,Gorilla BBQ,Pacifica,California,Gorilla-Barbeque-Pacifica,4,1155,-122.4869194,37.6138253
-5,Smokin BBQ,Wilsons Holy Smoke BBQ,Fairfield,Connecticut,Wilsons-Barbeque-Fairfield,2.5,88,-122.0399663,38.2493581
-5,Regional Classics,Cecilias Cafe,Albuquerque,New Mexico,Cecilias-Cafe-Albuquerque,4,114,-106.6055534,35.0853336
-5,Regional Classics,Joey Ks Restaurant and Bar,New Orleans,Louisiana,Joey-Ks-Restaurant-and-Bar-New-Orleans,3.5,204,-90.0715323,29.9510658
-5,Regional Classics,Kelly Os Diner,Pittsburgh,Pennsylvania,Kelly-Os-Diner-Pittsburgh,3,37,-79.9958864,40.4406248
-5,All Kinds of Fast Food,Super Duper Weenie,Fairfield,Connecticut,Super-Duper-Weenie-Fairfield,4,177,-122.0399663,38.2493581
-5,All Kinds of Fast Food,California Tacos,Omaha,Nebraska,California-Tacos-and-More-Omaha,3.5,153,-95.9979883,41.2523634
-5,All Kinds of Fast Food,Berts Burger Bowl,Santa Fe,New Mexico,Berts-Burger-Bowl-Santa-Fe,3,59,-105.937799,35.6869752
-5,Family Favorites,Giustis,Walnut Grove,California,Giustis-Walnut-Grove,4,112,-95.4696578,44.2230691
-5,Family Favorites,Haus Murphys,Glendale,Arizona,Haus-Murphys-Glendale,4,342,-118.255075,34.1425078
-5,Family Favorites,Louies,Dallas,Texas,Louies-Dallas,3.5,206,-96.7969879,32.7766642
-6,Funky Joints,Bizzaro Cafe,Seattle,Washington,Bizzarro-Italian-Cafe-Seattle-2,4,559,-122.3320708,47.6062095
-6,Funky Joints,Chef Point Cafe,Wautaga,Texas,Chef-Point-Cafe-Watauga,3.5,412,-97.2547371,32.8579056
-6,Funky Joints,Jamies Bar and Grill,Sacramento,California,Jamies-Bar-and-Grill-Sacramento,4,501,-121.4943996,38.5815719
-6,Their Own Way,Bluewater Seafood Market and Grill,San Diego,California,Blue-water-Seafood-Market-and-Grill-San-Diego,4,2041,-117.1610838,32.715738
-6,Their Own Way,Brandys Restaurant and Bakery,Flagstaff,Arizona,Brandys-Restaurant-and-Bakery-Flagstaff,3.5,224,-111.651302,35.1982836
-6,Their Own Way,Kumas Corner,Chicago,Illinois,Kumas-Corner-Chicago,4,4473,-87.6297982,41.8781136
-6,A Little Bit of Everywhere,Bar Gernika,Boise,Idaho,Bar-Gernika-Boise,4,160,-116.2146068,43.6187102
-6,A Little Bit of Everywhere,Cafe Rolle,Sacramento,California,Cafe-Rolle-Sacramento,4.5,817,-121.4943996,38.5815719
-6,A Little Bit of Everywhere,Havana Hideout,Lake Worth,Florida,Havana-Hideout-Lake-Worth,3,99,-80.0684479,26.6167555
-6,A Burger A Bowl and A Slice,La Piazza Al Forno,Glendale,Arizona,La-Piazza-Al-Forno-Glendale,4,299,-118.255075,34.1425078
-6,A Burger A Bowl and A Slice,Slims Last Chance Chili Shack and Watering Hole,Seattle,Washington,Slims-Last-Chance-Chili-Shack-and-Watering-Hole-Seattle,4,230,-122.3320708,47.6062095
-6,A Burger A Bowl and A Slice,Twisted Root Beer Co.,Dallas,Texas,Twisted-Root-Burger-Co-Dallas-2,4,875,-96.7969879,32.7766642
-6,Biscuits Bagels and BLTs,"""""""""""""""Arleta Library Bakery and Cafe""""""",Portland,Oregon,Arleta-Library-Bakery-Cafe-Portland,4,279,-122.6764816,45.5230622
-6,Biscuits Bagels and BLTs,Bubbas Diner,San Anselmo,California,Bubbas-Diner-San-Anselmo,3.5,183,-122.5616448,37.9746458
-6,Biscuits Bagels and BLTs,Flakowitz of Boynton Bakery and Deli Restaurant,Boynton Beach,Florida,Flakowitz-of-Boynton-Boynton-Beach,3,125,-80.0905465,26.5317866
-6,WhoDa Thunk It,Backroad Pizza,Santa Fe,New Mexico,Backroad-Pizza-Santa-Fe,3.5,3,-105.937799,35.6869752
-6,WhoDa Thunk It,Jamaica Gates Caribbean Cuisine,Arlington,Texas,Jamaica-Gates-Caribbean-Cuisine-Arlington,3.5,205,-77.1067698,38.8799697
-6,WhoDa Thunk It,Chef Lous Westside Drive-In,Boise,Idaho,Chef-Lous-Westside-Drive-In-Boise,3.5,81,-116.2146068,43.6187102
-6,Go-To Joints,Black Duck Cafe,Westport,Connecticut,Black-Duck-Cafe-Westport,3.5,121,-73.3579049,41.1414717
-6,Go-To Joints,Ottos Sausage Kitchen and Meat Market,Portland,Oregon,Ottos-Sausage-Kitchen-and-Meat-Market-Portland,4.5,303,-122.6764816,45.5230622
-6,Go-To Joints,Sol Food Puerto Rican Cuisine,San Rafael,California,Sol-Food-Puerto-Rican-Cuisine-San-Rafael,4.5,452,-122.531087,37.973535
-6,Homestyle,Giuseppes Restaurant,Phoenix,Arizona,Giuseppes-on-28th-Phoenix,3.5,238,-112.0740373,33.4483771
-6,Homestyle,Southern Kitchen Restaurant,Tacoma,Washington,Southern-Kitchen-Tacoma,4,529,-122.4442906,47.2528768
-6,Homestyle,Zia Diner and Angel Food Catering,Santa Fe,New Mexico,Zia-Diner-Santa-Fe,3,114,-105.937799,35.6869752
-6,All Kinds of Classics,Blue Marlin Fish House Restaurant,North Miami Beach,Florida,Blue-Marlin-Fish-House-Restaurant-North-Miami-Beach,3.5,58,-80.1625463,25.9331488
-6,All Kinds of Classics,Freds Texas Cafe,Fort Worth,Texas,Freds-Texas-Cafe-Fort-Worth,4,351,-97.3307658,32.7554883
-6,All Kinds of Classics,Pine State Biscuits,Portland,Oregon,Pine-State-Biscuits-Portland,4,790,-122.6764816,45.5230622
-6,All Over The Map,Georgia Greek Restaurant and Deli,Seattle,Washington,Georgias-Greek-Restaurant-and-Deli-Seattle,3.5,128,-122.3320708,47.6062095
-6,All Over The Map,Los Tacquitos Grill,Phoenix,Arizona,Los-Taquitos-Phoenix-2,4,188,-112.0740373,33.4483771
-6,All Over The Map,Roccos Cafe,San Francisco,California,Roccos-Cafe-San-Francisco,3.5,570,-122.4194155,37.7749295
-6,Old Time Favorites,Blueplate Lunch Counter and Soda Fountain,Portland,Oregon,Blueplate-Lunch-Counter-and-Soda-Fountain-Portland,4,272,-122.6764816,45.5230622
-6,Old Time Favorites,Dons Hilltop Kodiak Grill,Boise,Idaho,Hilltop-Station-Boise,5,7,-116.2146068,43.6187102
-6,Old Time Favorites,La Camoronera Restaurant and Fish Market,Miami,Florida,La-Camaronera-Seafood-Joint-and-Fish-Market-Miami-2,4,411,-80.1917902,25.7616798
-6,Comfort Cookin,Dotties True Blue Cafe,San Francisco,California,Dotties-True-Blue-Cafe-San-Francisco,4,2820,-122.4194155,37.7749295
-6,Comfort Cookin,Over Easy,Phoenix,Arizona,Over-Easy-Phoenix,3.5,485,-112.0740373,33.4483771
-6,Comfort Cookin,Comet Cafe,Milwaukee,Wisconsin,Comet-Cafe-Milwaukee,4,699,-87.9064736,43.0389025
-6,Mamas Cookin,Polka Restaurant and Catering,Los Angeles,California,Polka-Polish-Restaurant-Los-Angeles,4,561,-118.2436849,34.0522342
-6,Mamas Cookin,Avilas Cafe,Dallas,Texas,Avilas-Mexican-Restaurant-Dallas,4,203,-96.7969879,32.7766642
-6,Mamas Cookin,Mama Es,Oklahoma City,Oklahoma,Mama-Es-Wings-and-Waffles-Oklahoma-City,4,44,-97.5164276,35.4675602
-7,Upper Crust,Bunk Sandwiches,Portland,Oregon,Bunk-Sandwiches-Portland,4,553,-122.6764816,45.5230622
-7,Upper Crust,Sonnys Famous Steak Hogies,Hollywood,Florida,Sonnys-Famous-Steak-Hogies-Hollywood,4,135,-80.14949,26.011201
-7,Upper Crust,The Depot American Diner,Chicago,Illinois,The-Depot-American-Diner-Chicago,4,212,-87.6297982,41.8781136
-7,Burgers Tacos and Dogs,Lankford Grocery,Houston,Texas,Lankford-Grocery-Houston,4,415,-95.3698028,29.7604267
-7,Burgers Tacos and Dogs,Fab Hot Dogs,Reseda,California,Fab-Hot-Dogs-Reseda,4,835,-118.5360517,34.2011141
-7,Burgers Tacos and Dogs,Cempazuchi,Milwaukee,Wisconsin,Cempazuchi-Milwaukee,3.5,228,-87.9064736,43.0389025
-7,Name That Cook,Ricks Press Room and Grill,Meridian,Idaho,Ricks-Press-Room-Grill-and-Bar-Meridian,4.5,44,-116.3915131,43.6121087
-7,Name That Cook,Nics Grill,Oklahoma City,Oklahoma,Nics-Grill-Oklahoma-City,4.5,162,-97.5164276,35.4675602
-7,Name That Cook,Pams Kitchen,Seattle,Washington,Pams-Kitchen-Seattle,4,381,-122.3320708,47.6062095
-7,Global Grub,Prince Lebanese Grill,Arlington,Texas,Prince-Lebanese-Grill-Arlington,4,360,-77.1067698,38.8799697
-7,Global Grub,Tre Kronor,Chicago,Illinois,Tre-Kronor-Chicago,4,489,-87.6297982,41.8781136
-7,Global Grub,La Texanita,Santa Rosa,California,La-Texanita-Santa-Rosa-2,4,223,-122.7140548,38.440429
-7,Only At This Joint,Podnahs Pit Barbeque,Portland,Oregon,Podnahs-Pit-Barbecue-Portland,4,735,-122.6764816,45.5230622
-7,Only At This Joint,Donnie Macs Trailer Park Cuisine,Boise,Idaho,Donnie-Macs-Trailer-Park-Cuisine-Boise,3,41,-116.2146068,43.6187102
-7,Only At This Joint,Whales Rib,Deerfield Beach,Florida,Whales-Rib-Deerfield-Beach,4,400,-80.0997657,26.3184123
-7,You Picked ‘Em,Eischens Bar and Grill,Okarche,Oklahoma,Eischens-Bar-Okarche,4,91,-97.9764411,35.7258795
-7,You Picked ‘Em,Moms Tamales,Los Angeles,California,Moms-Tamales-Los-Angeles,3.5,182,-118.2436849,34.0522342
-7,You Picked ‘Em,Kenny and Ziggys,Houston,Texas,Kenny-and-Ziggys-Houston,5,1,-95.3698028,29.7604267
-7,You Can Say That Again,Tap Tap Haitian Restaurant,Miami Beach,Florida,Tap-Tap-Haitian-Restaurant-Miami-Beach,4,441,-80.1300455,25.790654
-7,You Can Say That Again,Pok Pok,Portland,Oregon,Pok-Pok-Portland,4,2934,-122.6764816,45.5230622
-7,You Can Say That Again,Niko Nikos,Houston,Texas,Niko-Nikos-Greek-and-American-Cafe-Houston,4,1467,-95.3698028,29.7604267
-7,Barbequed Baked and Brined,Honky Tonk BBQ,Chicago,Illinois,Honky-Tonk-BBQ-Chicago,3.5,622,-87.6297982,41.8781136
-7,Barbequed Baked and Brined,Pizzalchik,Boise,Idaho,Pizzalchik-Boise,3.5,69,-116.2146068,43.6187102
-7,Barbequed Baked and Brined,Luckys Cafe,Cleveland,Ohio,Luckys-Cafe-Cleveland,4,469,-81.6943605,41.49932
-7,Blast from the Past,Cattlemens Steakhouse,Oklahoma City,Oklahoma,Cattlemens-Steakhouse-Oklahoma-City,4.5,3,-97.5164276,35.4675602
-7,Blast from the Past,Sam LaGrassas,Boston,Massachusetts,Sam-LaGrassas-Boston,4.5,555,-71.0588801,42.3600825
-7,Blast from the Past,Nickel Diner,Los Angeles,California,Nickel-Diner-Los-Angeles,4,1810,-118.2436849,34.0522342
-7,Dives Worth a Drive,Parkview Nightclub,Cleveland,Ohio,Parkview-Nite-club-Cleveland,4,60,-81.6943605,41.49932
-7,Dives Worth a Drive,The Shanty,Wadsworth,Illinois,The-Shanty-Wadsworth,3.5,142,-81.7298519,41.0256101
-7,Dives Worth a Drive,Grovers Bar and Grill,East Amherst,New York,Grovers-Bar-and-Grill-East-Amherst,4,148,-78.6969831,43.0183126
-7,Family Style,Louis Family Restaurant,Providence,Rhode Island,Louis-Restaurant-Providence-2,3.5,119,-71.4128343,41.8239891
-7,Family Style,Cafe Pita+,Houston,Texas,Cafe-Pita-Houston,4,333,-95.3698028,29.7604267
-7,Family Style,Mambos Cafe,Glendale,California,Mambos-Cafe-Glendale,3.5,366,-118.255075,34.1425078
-7,Diners Times Three,The Little Depot Diner,Peabody,Massachusetts,The-Little-Depot-Diner-Peabody,4.5,104,-70.9286609,42.5278731
-7,Diners Times Three,Santa Cruz Diner,Santa Cruz,California,Santa-Cruz-Diner-Santa-Cruz,2.5,830,-122.0307963,36.9741171
-7,Diners Times Three,The Diner,Norman,Oklahoma,The-Diner-Norman,4.5,96,-97.4394777,35.2225668
-7,Legacies,Lake Effect Diner,Buffalo,New York,Lake-Effect-Diner-Buffalo,3.5,137,-78.8783689,42.8864468
-7,Legacies,Geracis Restaurant,Cleveland,Ohio,Geracis-Restaurant-Cleveland,3.5,133,-81.6943605,41.49932
-7,Legacies,Morins Hometown Bar and Grill,Attleboro,Massachusetts,Morins-Hometown-Bar-and-Grille-Attleboro,3.5,55,-71.2856082,41.9445441
-8,Burgers Steaks and Chops,Mr. Bartleys Gourmet Burgers,Cambridge,Massachusetts,mr-bartleys-gourmet-burgers-cambridge,3.5,1005,-71.1097335,42.3736158
-8,Burgers Steaks and Chops,T-Bone Toms Steakhouse,Kemah,Texas,T-Bone-Toms-Kemah-2,4,239,-95.0204837,29.5427297
-8,Burgers Steaks and Chops,Tee Off Bar and Grill,San Francisco,California,Tee-Off-Bar-San-Francisco,3.5,480,-122.4194155,37.7749295
-8,Pizza Pork and Paprikash,Pizza Junction,North Tonawanda,New York,Pizza-Junction-North-Tonawanda,4,29,-78.8642033,43.038668
-8,Pizza Pork and Paprikash,Sterles Slovenian Country House,Cleveland,Ohio,Sterles-Slovenian-Country-House-Cleveland,3.5,61,-81.6943605,41.49932
+4,Totally Unexpected,The Cove,San Antonio,Texas,The-Cove-San-Antonio,4,685,-98.500544,29.440756
+4,Totally Unexpected,Bryant-Lake Bowl,Minneapolis,Minnesota,Bryant-Lake-Bowl-Minneapolis,3.5,236,-93.2901369078,44.9484814939
+4,A Taste of Everywhere,Jamaica Kitchen,Miami,Florida,Jamaica-Kitchen-Miami,4,95,-80.3354492,25.7020626
+4,A Taste of Everywhere,Crystal Restaurant,Pittsburgh,Pennsylvania,Crystal-On-Penn-Pittsburgh,3.5,37,-79.992249,40.446125
+4,A Taste of Everywhere,Red Iguana,Salt Lake City,Utah,Red-Iguana-Salt-Lake-City,4.5,1353,-111.9124903,40.7719136
+4,Better Than Ever,Colonnade,Atlanta,Georgia,Colonnade-Restaurant-Atlanta,4,225,-84.3609924,33.8095551
+4,Better Than Ever,Mancis Antique Club,Daphne,Alabama,Mancis-Antique-Club-Daphne,3.5,27,-87.9029043638,30.6034732604
+4,Better Than Ever,Amatos,Omaha,Nebraska,Amatos-Omaha,3,71,-96.012245,41.237617
+4,Big Flavor,Darwells Cafe,Long Beach,Mississippi,Darwells-Cafe-Long-Beach,4.5,137,-89.149071,30.350731
+4,Big Flavor,Brick Oven Pizza,Baltimore,Maryland,Brick-Oven-Pizza-Baltimore,5,1,-76.657013,39.292603
+4,Big Flavor,Victors 1959 Cafe,Minneapolis,Minnesota,Victors-1959-Cafe-Minneapolis,4,336,-93.284729,44.934235
+4,Cookin It Old School,Nadines Restaurant,Pittsburgh,Pennsylvania,Nadines-Pittsburgh,4,45,-79.967209,40.426388
+4,Cookin It Old School,Casamentos Restaurant,New Orleans,Louisiana,Casamentos-Restaurant-New-Orleans,4,182,-90.101051,29.920595
+4,Cookin It Old School,Big Mamas Kitchen and Catering,Omaha,Nebraska,Big-Mamas-Kitchen-and-Catering-Omaha,4,126,-95.9781723022,41.2875823975
+4,Grabbina Sandwich,Moochies Meatballs and More,Salt Lake City,Utah,Moochies-Meatballs-and-More-Salt-Lake-City,4,347,-111.8841095,40.7517204
+4,Grabbina Sandwich,Cemitas Puebla,Chicago,Illinois,Cemitas-Puebla-Chicago,4,791,-87.7175750732,41.9096908569
+4,Grabbina Sandwich,Tiolis Crazee Burger,San Diego,California,Tiolis-Crazee-Burger-San-Diego,3.5,1319,-117.1300398415,32.7543008704
+4,Traditional Dishes,Donatellis,White Bear Lake,Minnesota,Donatellis-White-Bear-Lake,4,91,-92.9871235415,45.0499562643
+4,Traditional Dishes,Stoney Creek Inn,Baltimore,Maryland,Stoney-Creek-Inn-Baltimore,3.5,53,-76.527071,39.163991
+4,Traditional Dishes,Alcenias,Memphis,Tennessee,Alcenias-Desserts-and-Preserves-Shop-Memphis,4,60,-90.049698,35.153603
+4,Doin Their Own Thing,Lone Star Taqueria,Salt Lake City,Utah,Lone-Star-Taqueria-Salt-Lake-City,4.5,366,-111.8257294,40.6241608
+4,Doin Their Own Thing,Modern Cafe,Minneapolis,Minnesota,Modern-Cafe-Minneapolis,3.5,112,-93.262688,45.001228
+4,Doin Their Own Thing,Brewburgers,Omaha,Nebraska,Brewburgers-Omaha,3,87,-96.080681,41.2131835
+5,Whats For Breakfast,Surreys Cafe,New Orleans,Louisiana,Surreys-Cafe-and-Juice-Bar-New-Orleans-2,4.5,852,-90.07199049,29.9358487262
+5,Whats For Breakfast,Harrys Roadhouse,Santa Fe,New Mexico,Harrys-Roadhouse-Santa-Fe,4,262,-105.9199905396,35.6261711121
+5,Whats For Breakfast,Dor-Stop Restaurant,Pittsburgh,Pennsylvania,Dor-Stop-Restaurant-Pittsburgh,4.5,204,-80.034729,40.3960114
+5,Real Deal Italian,LoBellos Spaghetti House,Coraopolis,Pennsylvania,LoBellos-Restaurant-Coraopolis,3.5,12,-80.1698303,40.5197983
+5,Real Deal Italian,Di Pasquales,Baltimore,Maryland,Di-Pasquales-Italian-Marketplace-Baltimore,4.5,172,-76.5664901733,39.2889022827
+5,Real Deal Italian,Pizzeria Luigi,San Diego,California,Pizzeria-Luigi-San-Diego,4,1093,-117.1400663812,32.7176711042
+5,Not What Youd Expect,Sophias Place,Albuquerque,New Mexico,Sophias-Place-Albuquerque,4,163,-106.63943,35.1494
+5,Not What Youd Expect,Magnolia Cafe,Austin,Texas,Magnolia-Cafe-Austin,3.5,515,-97.771822,30.277692
+5,Not What Youd Expect,Glenns Diner,Chicago,Illinois,Glenns-Diner-Chicago,4,896,-87.6754074,41.9616356
+5,Places You Sent Me,Ruths Diner,Salt Lake City,Utah,Ruths-Diner-Salt-Lake-City,4,343,-111.78038,40.76168
+5,Places You Sent Me,ORourkes Diner,Middletown,Connecticut,O-Rourkes-Diner-Middletown,4,196,-72.6526878029,41.5657666326
+5,Places You Sent Me,Parasols,New Orleans,Louisiana,Parasols-Bar-New-Orleans-2,4,258,-90.08017,29.926485
+5,Long Time Legends,Tommys Joynt,San Francisco,California,Tommys-Joynt-San-Francisco,4,2116,-122.421806,37.785495
+5,Long Time Legends,Joe Tess Place,Omaha,Nebraska,Joe-Tess-Place-Omaha,3,41,-95.9476166,41.2029419
+5,Long Time Legends,Big Jims,Pittsburgh,Pennsylvania,Big-Jims-Restaurant-and-Bar-Pittsburgh,4,104,-79.9496055,40.4270451
+5,Something from Everywhere,Valencia Luncheria,Norwalk,Connecticut,Valencia-Luncheria-Norwalk,4,451,-73.4190063,41.1258507
+5,Something from Everywhere,The Original Vito and Nicks Pizzeria,Chicago,Illinois,Vito-and-Nicks-Pizzeria-Chicago,4,384,-87.7213974,41.7392349
+5,Something from Everywhere,Emilys Lebanese Delicatessen,Minneapolis,Minnesota,Emilys-Lebanese-Delicatessen-Minneapolis,4,124,-93.261192,44.995689
+5,Neighborhood Favorites,Pats BBQ,Salt Lake City,Utah,Pats-Bar-B-Que-Salt-Lake-City,3.5,246,-111.8955078125,40.7243499756
+5,Neighborhood Favorites,Blow Fly Inn,Gulfport,Mississippi,Blow-Fly-Inn-Gulfport,4,125,-89.0315399,30.4030304
+5,Neighborhood Favorites,Tune-Up Cafe,Santa Fe,New Mexico,Tune-Up-Cafe-Santa-Fe,4.5,366,-105.9587173,35.6813011
+5,Just Like Yesterday,Hob Nob Hill,San Diego,California,Hob-Nob-Hill-San-Diego,3.5,530,-117.1637792,32.7291908
+5,Just Like Yesterday,The Silver Skillet,Atlanta,Georgia,The-Silver-Skillet-Atlanta,3,204,-84.3940410925,33.7863690464
+5,Just Like Yesterday,Tufanos Vernon Park Tap,Chicago,Illinois,Tufanos-Vernon-Park-Tap-Chicago,4,255,-87.653999,41.872795
+5,Return to Route 66,Standard Diner,Albuquerque,New Mexico,Standard-Diner-Albuquerque,3.5,266,-106.6436691,35.0831985
+5,Return to Route 66,Dell Rheas Chicken Basket,Willowbrook,Illinois,Dell-Rheas-Chicken-Basket-Willowbrook,3.5,258,-87.9391937,41.7454796
+5,Return to Route 66,Salsa Brava,Flagstaff,Arizona,Salsa-Brava-Flagstaff,3.5,391,-111.6156,35.203979
+5,Smokin BBQ,Green Mesquite,Austin,Texas,Green-Mesquite-Austin,3,109,-97.792394,30.1550518
+5,Smokin BBQ,Gorilla BBQ,Pacifica,California,Gorilla-Barbeque-Pacifica,4,1155,-122.4876871838,37.6132126252
+5,Smokin BBQ,Wilsons Holy Smoke BBQ,Fairfield,Connecticut,Wilsons-Barbeque-Fairfield,2.5,88,-73.2643206418,41.1410535872
+5,Regional Classics,Cecilias Cafe,Albuquerque,New Mexico,Cecilias-Cafe-Albuquerque,4,114,-106.6542327404,35.0835024565
+5,Regional Classics,Joey Ks Restaurant and Bar,New Orleans,Louisiana,Joey-Ks-Restaurant-and-Bar-New-Orleans,3.5,204,-90.0847922206,29.9250280257
+5,Regional Classics,Kelly Os Diner,Pittsburgh,Pennsylvania,Kelly-Os-Diner-Pittsburgh,3,37,-80.0351028442,40.5478057861
+5,All Kinds of Fast Food,Super Duper Weenie,Fairfield,Connecticut,Super-Duper-Weenie-Fairfield,4,177,-73.2335282117,41.1640072614
+5,All Kinds of Fast Food,California Tacos,Omaha,Nebraska,California-Tacos-and-More-Omaha,3.5,153,-95.9614516884,41.2647048355
+5,All Kinds of Fast Food,Berts Burger Bowl,Santa Fe,New Mexico,Berts-Burger-Bowl-Santa-Fe,3,59,-105.9443283,35.69067
+5,Family Favorites,Giustis,Walnut Grove,California,Giustis-Walnut-Grove,4,112,-121.4974823,38.2239304
+5,Family Favorites,Haus Murphys,Glendale,Arizona,Haus-Murphys-Glendale,4,342,-112.1829681396,33.5382728577
+5,Family Favorites,Louies,Dallas,Texas,Louies-Dallas,3.5,206,-96.774513,32.8111
+6,Funky Joints,Bizzaro Cafe,Seattle,Washington,Bizzarro-Italian-Cafe-Seattle-2,4,559,-122.341713,47.6619606
+6,Funky Joints,Chef Point Cafe,Wautaga,Texas,Chef-Point-Cafe-Watauga,3.5,412,-97.2535782,32.8608513
+6,Funky Joints,Jamies Bar and Grill,Sacramento,California,Jamies-Bar-and-Grill-Sacramento,4,501,-121.5076041967,38.5657386482
+6,Their Own Way,Bluewater Seafood Market and Grill,San Diego,California,Blue-water-Seafood-Market-and-Grill-San-Diego,4,2041,-117.1798019409,32.7420539856
+6,Their Own Way,Brandys Restaurant and Bakery,Flagstaff,Arizona,Brandys-Restaurant-and-Bakery-Flagstaff,3.5,224,-111.620947,35.218908
+6,Their Own Way,Kumas Corner,Chicago,Illinois,Kumas-Corner-Chicago,4,4473,-87.7004470825,41.9396400452
+6,A Little Bit of Everywhere,Bar Gernika,Boise,Idaho,Bar-Gernika-Boise,4,160,-116.2029588,43.6140596
+6,A Little Bit of Everywhere,Cafe Rolle,Sacramento,California,Cafe-Rolle-Sacramento,4.5,817,-121.436416626,38.5682487488
+6,A Little Bit of Everywhere,Havana Hideout,Lake Worth,Florida,Havana-Hideout-Lake-Worth,3,99,-80.0537567139,26.6155414581
+6,A Burger A Bowl and A Slice,La Piazza Al Forno,Glendale,Arizona,La-Piazza-Al-Forno-Glendale,4,299,-112.1839828,33.538456
+6,A Burger A Bowl and A Slice,Slims Last Chance Chili Shack and Watering Hole,Seattle,Washington,Slims-Last-Chance-Chili-Shack-and-Watering-Hole-Seattle,4,230,-122.3339005,47.5524788
+6,A Burger A Bowl and A Slice,Twisted Root Beer Co.,Dallas,Texas,Twisted-Root-Burger-Co-Dallas-2,4,875,-96.78553,32.78299
+6,Biscuits Bagels and BLTs,"""""""""""""""Arleta Library Bakery and Cafe""""""",Portland,Oregon,Arleta-Library-Bakery-Cafe-Portland,4,279,-122.5895615,45.4828491
+6,Biscuits Bagels and BLTs,Bubbas Diner,San Anselmo,California,Bubbas-Diner-San-Anselmo,3.5,183,-122.5624466,37.9756317
+6,Biscuits Bagels and BLTs,Flakowitz of Boynton Bakery and Deli Restaurant,Boynton Beach,Florida,Flakowitz-of-Boynton-Boynton-Beach,3,125,-80.1630020142,26.5264377594
+6,WhoDa Thunk It,Backroad Pizza,Santa Fe,New Mexico,Backroad-Pizza-Santa-Fe,3.5,3,-105.9632568,35.6795502
+6,WhoDa Thunk It,Jamaica Gates Caribbean Cuisine,Arlington,Texas,Jamaica-Gates-Caribbean-Cuisine-Arlington,3.5,205,-97.1192017,32.706131
+6,WhoDa Thunk It,Chef Lous Westside Drive-In,Boise,Idaho,Chef-Lous-Westside-Drive-In-Boise,3.5,81,-116.2150726,43.6257515
+6,Go-To Joints,Black Duck Cafe,Westport,Connecticut,Black-Duck-Cafe-Westport,3.5,121,-73.3703570813,41.1200579256
+6,Go-To Joints,Ottos Sausage Kitchen and Meat Market,Portland,Oregon,Ottos-Sausage-Kitchen-and-Meat-Market-Portland,4.5,303,-122.619766,45.478952
+6,Go-To Joints,Sol Food Puerto Rican Cuisine,San Rafael,California,Sol-Food-Puerto-Rican-Cuisine-San-Rafael,4.5,452,-122.5235367,37.9728394
+6,Homestyle,Giuseppes Restaurant,Phoenix,Arizona,Giuseppes-on-28th-Phoenix,3.5,238,-112.0202026,33.4958611
+6,Homestyle,Southern Kitchen Restaurant,Tacoma,Washington,Southern-Kitchen-Tacoma,4,529,-122.4623718,47.2558403
+6,Homestyle,Zia Diner and Angel Food Catering,Santa Fe,New Mexico,Zia-Diner-Santa-Fe,3,114,-105.9454751015,35.6855108589
+6,All Kinds of Classics,Blue Marlin Fish House Restaurant,North Miami Beach,Florida,Blue-Marlin-Fish-House-Restaurant-North-Miami-Beach,3.5,58,-80.1498127843,25.9252844441
+6,All Kinds of Classics,Freds Texas Cafe,Fort Worth,Texas,Freds-Texas-Cafe-Fort-Worth,4,351,-97.3582001,32.7494698
+6,All Kinds of Classics,Pine State Biscuits,Portland,Oregon,Pine-State-Biscuits-Portland,4,790,-122.6262665,45.5162392
+6,All Over The Map,Georgia Greek Restaurant and Deli,Seattle,Washington,Georgias-Greek-Restaurant-and-Deli-Seattle,3.5,128,-122.3613566905,47.6905875653
+6,All Over The Map,Los Tacquitos Grill,Phoenix,Arizona,Los-Taquitos-Phoenix-2,4,188,-112.04808,33.538925
+6,All Over The Map,Roccos Cafe,San Francisco,California,Roccos-Cafe-San-Francisco,3.5,570,-122.408454895,37.7759552002
+6,Old Time Favorites,Blueplate Lunch Counter and Soda Fountain,Portland,Oregon,Blueplate-Lunch-Counter-and-Soda-Fountain-Portland,4,272,-122.6750698686,45.5196022242
+6,Old Time Favorites,Dons Hilltop Kodiak Grill,Boise,Idaho,Hilltop-Station-Boise,5,7,-116.030739,43.571003
+6,Old Time Favorites,La Camoronera Restaurant and Fish Market,Miami,Florida,La-Camaronera-Seafood-Joint-and-Fish-Market-Miami-2,4,411,-80.2274861187,25.7726389915
+6,Comfort Cookin,Dotties True Blue Cafe,San Francisco,California,Dotties-True-Blue-Cafe-San-Francisco,4,2820,-122.4098396301,37.781705043
+6,Comfort Cookin,Over Easy,Phoenix,Arizona,Over-Easy-Phoenix,3.5,485,-111.9798208,33.4948197
+6,Comfort Cookin,Comet Cafe,Milwaukee,Wisconsin,Comet-Cafe-Milwaukee,4,699,-87.8894806,43.0560493
+6,Mamas Cookin,Polka Restaurant and Catering,Los Angeles,California,Polka-Polish-Restaurant-Los-Angeles,4,561,-118.231779,34.125401
+6,Mamas Cookin,Avilas Cafe,Dallas,Texas,Avilas-Mexican-Restaurant-Dallas,4,203,-96.825432,32.814247
+6,Mamas Cookin,Mama Es,Oklahoma City,Oklahoma,Mama-Es-Wings-and-Waffles-Oklahoma-City,4,44,-97.4920729548,35.5095445365
+7,Upper Crust,Bunk Sandwiches,Portland,Oregon,Bunk-Sandwiches-Portland,4,553,-122.659407109,45.5172713846
+7,Upper Crust,Sonnys Famous Steak Hogies,Hollywood,Florida,Sonnys-Famous-Steak-Hogies-Hollywood,4,135,-80.220682,26.025628
+7,Upper Crust,The Depot American Diner,Chicago,Illinois,The-Depot-American-Diner-Chicago,4,212,-87.770836,41.865757
+7,Burgers Tacos and Dogs,Lankford Grocery,Houston,Texas,Lankford-Grocery-Houston,4,415,-95.38385,29.750044
+7,Burgers Tacos and Dogs,Fab Hot Dogs,Reseda,California,Fab-Hot-Dogs-Reseda,4,835,-118.5554409027,34.187204361
+7,Burgers Tacos and Dogs,Cempazuchi,Milwaukee,Wisconsin,Cempazuchi-Milwaukee,3.5,228,-87.8963119537,43.0529147387
+7,Name That Cook,Ricks Press Room and Grill,Meridian,Idaho,Ricks-Press-Room-Grill-and-Bar-Meridian,4.5,44,-116.3906173706,43.6113014221
+7,Name That Cook,Nics Grill,Oklahoma City,Oklahoma,Nics-Grill-Oklahoma-City,4.5,162,-97.548,35.481011
+7,Name That Cook,Pams Kitchen,Seattle,Washington,Pams-Kitchen-Seattle,4,381,-122.3127975,47.6650391
+7,Global Grub,Prince Lebanese Grill,Arlington,Texas,Prince-Lebanese-Grill-Arlington,4,360,-97.111801,32.749725
+7,Global Grub,Tre Kronor,Chicago,Illinois,Tre-Kronor-Chicago,4,489,-87.7109299,41.9759789
+7,Global Grub,La Texanita,Santa Rosa,California,La-Texanita-Santa-Rosa-2,4,223,-122.7383575,38.4276505
+7,Only At This Joint,Podnahs Pit Barbeque,Portland,Oregon,Podnahs-Pit-Barbecue-Portland,4,735,-122.6483688,45.5628586
+7,Only At This Joint,Donnie Macs Trailer Park Cuisine,Boise,Idaho,Donnie-Macs-Trailer-Park-Cuisine-Boise,3,41,-116.2131805,43.6190681
+7,Only At This Joint,Whales Rib,Deerfield Beach,Florida,Whales-Rib-Deerfield-Beach,4,400,-80.0768438727,26.3164649159
+7,You Picked ‘Em,Eischens Bar and Grill,Okarche,Oklahoma,Eischens-Bar-Okarche,4,91,-97.9753875732,35.7255415356
+7,You Picked ‘Em,Moms Tamales,Los Angeles,California,Moms-Tamales-Los-Angeles,3.5,182,-118.2134018,34.0838051
+7,You Picked ‘Em,Kenny and Ziggys,Houston,Texas,Kenny-and-Ziggys-Houston,5,1,-95.4699173,29.7484861
+7,You Can Say That Again,Tap Tap Haitian Restaurant,Miami Beach,Florida,Tap-Tap-Haitian-Restaurant-Miami-Beach,4,441,-80.136528,25.774787
+7,You Can Say That Again,Pok Pok,Portland,Oregon,Pok-Pok-Portland,4,2934,-122.632105,45.504723
+7,You Can Say That Again,Niko Nikos,Houston,Texas,Niko-Nikos-Greek-and-American-Cafe-Houston,4,1467,-95.3921814,29.7465096
+7,Barbequed Baked and Brined,Honky Tonk BBQ,Chicago,Illinois,Honky-Tonk-BBQ-Chicago,3.5,622,-87.6567764,41.8577919
+7,Barbequed Baked and Brined,Pizzalchik,Boise,Idaho,Pizzalchik-Boise,3.5,69,-116.2794418,43.6689682
+7,Barbequed Baked and Brined,Luckys Cafe,Cleveland,Ohio,Luckys-Cafe-Cleveland,4,469,-81.6830673,41.4773598
+7,Blast from the Past,Cattlemens Steakhouse,Oklahoma City,Oklahoma,Cattlemens-Steakhouse-Oklahoma-City,4.5,3,-97.5550079,35.4523697
+7,Blast from the Past,Sam LaGrassas,Boston,Massachusetts,Sam-LaGrassas-Boston,4.5,555,-71.0598373,42.3568611
+7,Blast from the Past,Nickel Diner,Los Angeles,California,Nickel-Diner-Los-Angeles,4,1810,-118.248992,34.046219
+7,Dives Worth a Drive,Parkview Nightclub,Cleveland,Ohio,Parkview-Nite-club-Cleveland,4,60,-81.726036,41.488708
+7,Dives Worth a Drive,The Shanty,Wadsworth,Illinois,The-Shanty-Wadsworth,3.5,142,-87.9379092989,42.428498862
+7,Dives Worth a Drive,Grovers Bar and Grill,East Amherst,New York,Grovers-Bar-and-Grill-East-Amherst,4,148,-78.6972809,43.0184784
+7,Family Style,Louis Family Restaurant,Providence,Rhode Island,Louis-Restaurant-Providence-2,3.5,119,-71.3991013,41.8246613
+7,Family Style,Cafe Pita+,Houston,Texas,Cafe-Pita-Houston,4,333,-95.5679695308,29.7369378805
+7,Family Style,Mambos Cafe,Glendale,California,Mambos-Cafe-Glendale,3.5,366,-118.3002472,34.1615982
+7,Diners Times Three,The Little Depot Diner,Peabody,Massachusetts,The-Little-Depot-Diner-Peabody,4.5,104,-70.927551,42.527042
+7,Diners Times Three,Santa Cruz Diner,Santa Cruz,California,Santa-Cruz-Diner-Santa-Cruz,2.5,830,-122.0220489502,36.980594635
+7,Diners Times Three,The Diner,Norman,Oklahoma,The-Diner-Norman,4.5,96,-97.4414978027,35.2220649719
+7,Legacies,Lake Effect Diner,Buffalo,New York,Lake-Effect-Diner-Buffalo,3.5,137,-78.826393,42.950214
+7,Legacies,Geracis Restaurant,Cleveland,Ohio,Geracis-Restaurant-Cleveland,3.5,133,-81.5363464504,41.4981206506
+7,Legacies,Morins Hometown Bar and Grill,Attleboro,Massachusetts,Morins-Hometown-Bar-and-Grille-Attleboro,3.5,55,-71.2841214985,41.9438172877
+8,Burgers Steaks and Chops,Mr. Bartleys Gourmet Burgers,Cambridge,Massachusetts,mr-bartleys-gourmet-burgers-cambridge,3.5,1005,-71.1161836982,42.3725623637
+8,Burgers Steaks and Chops,T-Bone Toms Steakhouse,Kemah,Texas,T-Bone-Toms-Kemah-2,4,239,-95.0196228027,29.5419769287
+8,Burgers Steaks and Chops,Tee Off Bar and Grill,San Francisco,California,Tee-Off-Bar-San-Francisco,3.5,480,-122.492935,37.781399
+8,Pizza Pork and Paprikash,Pizza Junction,North Tonawanda,New York,Pizza-Junction-North-Tonawanda,4,29,-78.8466721,43.0512314
+8,Pizza Pork and Paprikash,Sterles Slovenian Country House,Cleveland,Ohio,Sterles-Slovenian-Country-House-Cleveland,3.5,61,-81.651581,41.520771
 8,Pizza Pork and Paprikash,Q Restaurant,San Francisco,California,Q-Restaurant-San-Francisco,Closed,Closed,-122.4194155,37.7749295
-8,Stacked Stuffed and Loaded,Bobs Taco Station,Rosenberg,Texas,Bobs-Taco-Station-Rosenberg,3.5,133,-95.8085623,29.5571825
-8,Stacked Stuffed and Loaded,Crazy Burger Cafe and Juice Bar,Narragansett,Rhode Island,Crazy-Burger-Cafe-and-Juice-Bar-Narragansett,4,327,-71.449503,41.4500844
-8,Stacked Stuffed and Loaded,The Oinkster,Eagle Rock,California,The-Oinkster-Eagle-Rock,4,2845,-118.2117257,34.1322469
-8,Triple D Goes Tailgatin,Rudys Cant Fail Cafe,Emeryville,California,Rudys-Cant-Fail-Cafe-Emeryville,3.5,1733,-122.2852473,37.831316
-8,Triple D Goes Tailgatin,900 Grayson Restaurant,Berkeley,California,900-Grayson-Berkeley-2,4,1416,-122.272747,37.8715926
-8,Triple D Goes Tailgatin,Rick and Anns Restaurant,Berkeley,California,Rick-and-Anns-Restaurant-Berkeley,3.5,676,-122.272747,37.8715926
-8,Home And Away,Taste of Peru,Chicago,Illinois,Taste-of-Peru-Chicago,4,381,-87.6297982,41.8781136
-8,Home And Away,Ingrids Kitchen,Oklahoma City,Oklahoma,Ingrids-Kitchen-Oklahoma-City,4,166,-97.5164276,35.4675602
-8,Home And Away,Blackthorn Restaurant and Pub,Buffalo,New York,Blackthorn-Restaurant-and-Pub-Buffalo,4,81,-78.8783689,42.8864468
-8,By Request,South 21 Drive-In,Charlotte,North Carolina,South-21-Drive-In-Charlotte-2,4,34,-80.8431267,35.2270869
-8,By Request,Red Lion Pub and Restaurant,Houston,Texas,The-Red-Lion-Houston,3.5,366,-95.3698028,29.7604267
-8,By Request,Melt Bar and Grilled,Lakewood,Ohio,Melt-Bar-and-Grilled-Lakewood,4,592,-105.0813734,39.7047095
-8,And The Kicker Is...,Pawleys Front Porch,Columbia,South Carolina,Pawleys-Front-Porch-Columbia,3.5,240,-81.034814,34.00071
-8,And The Kicker Is...,Sophia Restaurant,Buffalo,New York,Sophias-Restaurant-Buffalo,4.5,199,-78.8783689,42.8864468
-8,And The Kicker Is...,Bettes Oceanview Diner,Berkeley,California,Bettes-Oceanview-Diner-Berkeley,4,1332,-122.272747,37.8715926
-8,Comfort Food Classics,The Liberty Elm Diner,Providence,Rhode Island,The-Liberty-Elm-Diner-Providence,3.5,112,-71.4128343,41.8239891
-8,Comfort Food Classics,Naglee Park Garage,San Jose,California,Naglee-Park-Garage-San-Jose,3.5,904,-121.8863286,37.3382082
-8,Comfort Food Classics,Dish,Charlotte,North Carolina,Dish-Charlotte,4,264,-80.8431267,35.2270869
-8,Twists And Traditions,Earls Drive-In,Chaffee,New York,Earls-Drive-In-Chaffee,3.5,12,-89.6550896,37.1800513
-8,Twists And Traditions,Aldos Harbor Restaurant,Santa Cruz,California,Aldos-Harbor-Restaurant-Santa-Cruz,3.5,306,-122.0307963,36.9741171
-8,Twists And Traditions,Momocho,Cleveland,Ohio,Momocho-Cleveland,4,442,-81.6943605,41.49932
-8,Fresh And Funky,Dish Cafe and Catering,Reno,Nevada,Dish-Cafe-and-Catering-Reno,4.5,117,-119.8138027,39.5296329
-8,Fresh And Funky,Landmark Restaurant,Charlotte,North Carolina,Landmark-Diner-Restaurant-Charlotte,3.5,134,-80.8431267,35.2270869
-8,Fresh And Funky,Pier 23 Cafe,San Francisco,California,Pier-23-Cafe-San-Francisco,3.5,1081,-122.4194155,37.7749295
-8,Triple D Goes Hawaiian,Highway Inn and Hookipa Catering,Waipahu,Hawaii,Highway-Inn-and-Hookipa-Catering-Waipahu,4,312,-158.0091667,21.3866667
-8,Triple D Goes Hawaiian,Hanks Haute Dogs,Honolulu,Hawaii,Hanks-Haute-Dogs-Honolulu,3.5,628,-157.8583333,21.3069444
-8,Triple D Goes Hawaiian,Nicos Pier 38,Honolulu,Hawaii,Nicos-Pier-38-Honolulu,4,1704,-157.8583333,21.3069444
-8,Triple D Goes Hawaiian,Germaines Luau,Kapolei,Hawaii,Germaines-Luau-Kapolei,3.5,485,-158.0568965,21.3353909
-9,Surf ‘n Turf,North End Cafe,Manhattan Beach,California,North-End-Cafe-Manhattan-Beach,4,590,-118.4109089,33.8847361
-9,Surf ‘n Turf,Gold ‘N Silver Inn,Reno,Nevada,Gold-n-Silver-Inn-Reno,3.5,243,-119.8138027,39.5296329
-9,Surf ‘n Turf,Singletons Seafood Shack,Atlantic Beach,Florida,Singletons-Seafood-Shack-Atlantic-Beach,3.5,185,-76.7402108,34.6990505
-9,Homegrown & Homemade,The Farmers Shed,Lexington,South Carolina,The-Farmers-Shed-Lexington,2.5,3,-84.5037164,38.0405837
-9,Homegrown & Homemade,Poke Stop at Mililana Mauka Llc.,Mililani,Hawaii,Poke-Stop-Mililani,3,174,-158.0152807,21.4513314
-9,Homegrown & Homemade,Mulberry Cafe,Lackawanna,New York,Mulberry-Italian-Ristorante-Lackawanna,4.5,127,-78.8233664,42.8256141
-9,Globetrottin,Louis Basque Corner,Reno,Nevada,Louis-Basque-Corner-Reno,3.5,151,-119.8138027,39.5296329
-9,Globetrottin,13 Gypsies,Jacksonville,Florida,13-Gypsies-Jacksonville,4,1,-81.655651,30.3321838
-9,Globetrottin,Glorias Cafe,Los Angeles,California,Glorias-Cafe-Los-Angeles,4,1217,-118.2436849,34.0522342
-9,Bringin It Home,Cafe Citti,Kenwood,California,Cafe-Citti-Kenwood,4,312,-84.3671619,39.2106145
-9,Bringin It Home,Cabo Fish Taco,Charlotte,North Carolina,Cabo-Fish-Taco-Charlotte,3.5,560,-80.8431267,35.2270869
-9,Bringin It Home,Murphys Bar and Grill,Honolulu,Hawaii,Murphys-Bar-and-Grill-Honolulu,4,317,-157.8583333,21.3069444
-9,Porkapalooza,At Last Cafe,Long Beach,California,At-Last-Cafe-Long-Beach,4,1136,-118.1937395,33.7700504
-9,Porkapalooza,Virgils Cafe,Bellevue,Kentucky,Virgils-Cafe-Bellevue,4,139,-122.2006786,47.610377
-9,Porkapalooza,Martins Bar-B-Que Joint,Nolensville,Tennessee,Martins-Bar-B-Que-Joint-Nolensville,4,101,-86.6694413,35.9522852
-9,Grilled Smoked and Sauced,Terrys Turf Club,Cincinnati,Ohio,Terrys-Turf-Club-Cincinnati,4,461,-84.5120196,39.1031182
-9,Grilled Smoked and Sauced,Schellville Grille,Sonoma,California,Schellville-Grill-Sonoma-2,3.5,312,-122.4580356,38.291859
-9,Grilled Smoked and Sauced,Jakes Good Eats,Charlotte,North Carolina,Jakes-Good-Eats-Charlotte,3.5,91,-80.8431267,35.2270869
-9,Comfort Food With Attitude,Jax At The Trax,Truckee,California,Jax-Truckee-Diner-Truckee,3.5,534,-120.1832533,39.327962
-9,Comfort Food With Attitude,Culhanes Irish Pub,Atlantic Beach,Florida,Culhanes-Irish-Pub-Atlantic-Beach,4,101,-76.7402108,34.6990505
-9,Comfort Food With Attitude,Blue Ash Chili Restaurant,Cincinnati,Ohio,Blue-Ash-Chili-Restaurant-Cincinnati,4,120,-84.5120196,39.1031182
-9,Fast Food Their Way,Rainbow Drive-In,Honolulu,Hawaii,Rainbow-Drive-In-Honolulu,4,1989,-157.8583333,21.3069444
-9,Fast Food Their Way,Northern Waters Smokehaus,Duluth,Minnesota,Northern-Waters-Smokehaus-Duluth,4.5,98,-92.1004852,46.7866719
-9,Farm To Table,Blackwater Grill,Saint Simons Island,Georgia,Blackwater-Grill-Saint-Simons-Island,4,51,-81.3885517,31.1595905
-9,Farm To Table,Comet Ping Pong,Washington,DC,Comet-Ping-Pong-Washington,3.5,521,-77.0368707,38.9071923
-9,Farm To Table,Wallace Station,Versailles,Kentucky,Wallace-Station-Deli-and-Bakery-Versailles,4,105,-84.729946,38.052576
-9,Kansas City Barbeque Tour,Smokin Guns BBQ,North Kansas City,Missouri,Smokin-Guns-BBQ-and-Catering-North-Kansas-City,3.5,150,-94.5729781,39.1429081
-9,Kansas City Barbeque Tour,RJs Bob-Be-Que Shack,Mission,Kansas,RJs-Bob-Be-Que-Shack-Mission,3.5,166,-98.3252932,26.2159066
-9,Kansas City Barbeque Tour,Johnnys Bar-B-Q,Mission,Kansas,Johnnys-BBQ-Shawnee-Mission,3.5,55,-98.3252932,26.2159066
-9,Kansas City Barbeque Tour,Woodyard Bar-B-Que,Kansas City,Kansas,Woodyard-Bar-B-Que-Kansas-City,4,181,-94.5785667,39.0997265
-9,Burgers ‘n More,Swagger Fine Spirits and Food,Kansas City,Missouri,Swagger-Fine-Spirits-and-Food-Kansas-City,3.5,111,-94.5785667,39.0997265
-9,Burgers ‘n More,Burger Me!,Truckee,California,Burger-Me-Truckee,4,476,-120.1832533,39.327962
-9,Burgers ‘n More,Athens Family Restaurant,Nashville,Tennessee,Athens-Family-Restaurant-Nashville,4,208,-86.7816016,36.1626638
-9,You Called It,Pauls Coffee Shop,Fountain Valley,California,Pauls-Coffee-Shop-Fountain-Valley,3.5,401,-117.9536697,33.7091847
-9,You Called It,Ricks White Light Diner,Frankfort,Kentucky,Ricks-White-Light-Diner-Frankfort,4,61,-84.8732835,38.2009055
-9,You Called It,Gordys Hi-Hat,Cloquet,Minnesota,Gordys-Hi-Hat-Cloquet,4,48,-92.4611825,46.7217735
-9,Old Time Attitude,Arnolds Country Kitchen,Nashville,Tennessee,Arnolds-Country-Kitchen-Nashville,4.5,460,-86.7816016,36.1626638
-9,Old Time Attitude,Southern Soul Barbeque,Saint Simons Island,Georgia,Southern-Soul-Barbeque-Saint-Simons-Island,4.5,276,-81.3885517,31.1595905
-9,Old Time Attitude,Maine Diner,Wells,Maine,Maine-Diner-Wells,4,291,-99.5751845,47.5217126
-10,Family Joints,Kramarczuks,Minneapolis,Minnesota,Kramarczuks-Sausage-Company-Minneapolis,4,192,-93.2650108,44.977753
-10,Family Joints,Happy Gillis Cafe and Hangout,Kansas City,Missouri,Happy-Gillis-Cafe-and-Hangout-Kansas-City,4.5,261,-94.5785667,39.0997265
-10,Family Joints,Hillbilly Hot Dogs,Lesage,West Virginia,Hillbilly-Hot-Dogs-Lesage,4.5,47,-82.2984823,38.5064731
-10,Tried and True,Mama Cozzas,Anaheim,California,Mama-Cozzas-Anaheim,3,489,-117.9145036,33.8352932
-10,Tried and True,Tune In Restaurant,Washington,DC,Tune-Inn-Washington,3.5,284,-77.0368707,38.9071923
-10,Tried and True,Bobs Clam Hut,Kittery,Maine,Bobs-Clam-Hut-Kittery,4,319,-70.736137,43.0881256
-10,Timeless,Greek Corner Restaurant,Cambridge,Massachusetts,Greek-Corner-Restaurant-Cambridge,4,451,-71.1097335,42.3736158
-10,Timeless,Bros Cajun Cuisine,Nashville,Tennessee,Bros-Cajun-Cuisine-Nashville,3.5,75,-86.7816016,36.1626638
-10,Timeless,The General Store,Silver Spring,Maryland,The-General-Store-Silver-Spring,3,76,-77.026088,38.9906657
-10,You Found ‘Em,Parkette Drive In,Lexington,Kentucky,Parkette-Drive-In-Lexington,3.5,50,-84.5037164,38.0405837
-10,You Found ‘Em,Metro Diner,Jacksonville,Florida,Metro-Diner-Jacksonville,4.5,240,-81.655651,30.3321838
-10,You Found ‘Em,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2650108,44.977753
-10,Wings Dogs and Claws,The Lobster Shanty,Salem,Massachusetts,The-Lobster-Shanty-Salem,3.5,212,-70.8967155,42.51954
-10,Wings Dogs and Claws,The Brick,Kansas City,Missouri,The-Brick-Kansas-City,4,180,-94.5785667,39.0997265
-10,Wings Dogs and Claws,Oohhs and Aahhs Gourmet Deli,Washington ,DC,Oohhs-and-Aahhs-Washington,3.5,644,-77.0368707,38.9071923
-10,Sauced and Spiced,J.J. McBrewsters,Lexington,Kentucky,JJ-McBrewsters-Lexington,3.5,46,-84.5037164,38.0405837
-10,Sauced and Spiced,At Saras Table Chester Creek Cafe,Duluth,Minnesota,At-Saras-Table-Chester-Creek-Cafe-Duluth,4,91,-92.1004852,46.7866719
-10,Sauced and Spiced,Cafe Rakka,Hendersonville,Tennessee,Cafe-Rakka-Hendersonville,4.5,110,-82.4609528,35.3187279
-10,Made to Order,Rinos Place,East Boston,Massachusetts,Rinos-Place-Boston,4,454,-71.0388601,42.3702137
-10,Made to Order,The Blue Door Pub,Saint Paul,Minnesota,The-Blue-Door-Pub-Saint-Paul,4,505,-93.0899578,44.9537029
-10,Made to Order,Bay Way Diner,Linden,New Jersey,Bayway-Diner-Linden,3,9,-74.2445902,40.6220478
-10,Fresh Filled and Fried,Chaps Coffee Co.,Spokane,Washington,Chaps-Coffee-Spokane,4,152,-117.4260466,47.6587802
-10,Fresh Filled and Fried,Good Dog Bar and Restaurant,Philadelphia,Pennsylvania,Good-Dog-Bar-and-Restaurant-Philadelphia,4,811,-75.1652215,39.9525839
-10,Fresh Filled and Fried,Porthole Restaurant,Portland,Maine,Porthole-Restaurant-Portland,3,76,-122.6764816,45.5230622
-10,Gone Global,LaCaraquena,Falls Church,Virginia,La-Caraquena-Latin-American-Cuisine-Falls-Church-4,4,282,-77.1710914,38.882334
-10,Gone Global,Savarinos Cucina,Nashville,Tennessee,Savarinos-Cucina-Nashville,3,89,-86.7816016,36.1626638
-10,Gone Global,Brats Brothers,Sherman Oaks,California,Brats-Brothers-Sherman-Oaks,4,679,-118.451357,34.1489719
-10,A Triple D Thanksgiving,Georges Place,Cape May,New Jersey,Georges-Place-Cape-May,4,217,-74.9060053,38.9351125
-10,A Triple D Thanksgiving,Beckys Diner,Portland,Maine,Beckys-Diner-Portland,3.5,249,-122.6764816,45.5230622
-10,A Triple D Thanksgiving,Sammys Food Service and Deli,New Orleans,Louisiana,Sammys-Food-Service-and-Deli-New-Orleans,4,89,-90.0715323,29.9510658
-10,Sweet ‘n Savory,Meal Ticket,Berkeley,California,Meal-Ticket-Berkeley,4,316,-122.272747,37.8715926
-10,Sweet ‘n Savory,Metro 29 Diner,Arlington,Virginia,Metro-29-Diner-Arlington,3,366,-77.1067698,38.8799697
-10,Sweet ‘n Savory,Duluth Grill,Duluth,Minnesota,Duluth-Grill-Duluth,4.5,247,-92.1004852,46.7866719
-10,Wings ‘n Things,10th Avenue Burrito,Belmar,New Jersey,10th-Avenue-Burrito-Co-Belmar,3.5,259,-74.0218037,40.1784471
-10,Wings ‘n Things,Capones Pub,Coeur dAlene,Idaho,Capones-Pub-and-Grill-Coeur-d-Alene,4,97,-116.7804664,47.6776832
-10,Wings ‘n Things,Jamaicaway,Nashville,Tennessee,Jamaicaway-Nashville,4,87,-86.7816016,36.1626638
-10,Sandwiches Plus,Elk Public House,Spokane,Washington,Elk-Public-House-Spokane,4,232,-117.4260466,47.6587802
-10,Sandwiches Plus,Colossal Cafe,Minneapolis,Minnesota,Colossal-Cafe-Minneapolis,4,144,-93.2650108,44.977753
-10,Sandwiches Plus,Mauis Dog House,Wildwood,New Jersey,Mauis-Dog-House-Wildwood,4,90,-74.8148894,38.9917797
-11,From Pork to Tofu,Tortilla Cafe,Washington,DC,Tortilla-Cafe-Washington,4,401,-77.0368707,38.9071923
-11,From Pork to Tofu,Memphis Taproom,Philadelphia,Pennsylvania,Memphis-Taproom-Philadelphia,4,519,-75.1652215,39.9525839
-11,From Pork to Tofu,The Golden Bear,Sacramento,California,The-Golden-Bear-Sacramento,3.5,495,-121.4943996,38.5815719
-11,Po Boys Pasta and Pork,Mahoneys Po-Boy Shop,New Orleans,Louisiana,Mahonys-Po-Boy-Shop-New-Orleans,3.5,316,-90.0715323,29.9510658
-11,Po Boys Pasta and Pork,Hills Restaurant and Lounge,Spokane,Washington,Hills-Restaurant-and-Lounge-Spokane,3,63,-117.4260466,47.6587802
-11,Po Boys Pasta and Pork,Q Fanatic BBQ,Champlin,Minnesota,Q-Fanatic-Champlin,4,117,-93.3974537,45.1888539
-11,Funky Finds,Sage General Store,Queens,New York,Sage-General-Store-Long-Island-City-2,3.5,315,-73.7948516,40.7282239
-11,Funky Finds,Quahogs Seafood Shack,Stone Harbor,New Jersey,Quahogs-Seafood-Shack-Stone-Harbor,3.5,106,-74.7643608,39.0464066
-11,Funky Finds,W.O.W. - Worth Our Weight,Santa Rosa,California,Worth-Our-Weight-Santa-Rosa,4.5,159,-122.7140548,38.440429
-11,Quirky Classics,Louie and The Red Head Lady,Mandeville,Louisiana,Louie-and-The-Red-Head-Lady-Mandeville,3,24,-90.0656311,30.3582506
-11,Quirky Classics,Honeys Sit-N-Eat,Philadelphia,Pennsylvania,Honeys-Sit-N-Eat-Philadelphia,4,959,-75.1652215,39.9525839
-11,Quirky Classics,Picabu Neighborhood Bistro,Spokane,Washington,Picabu-Neighborhood-Bistro-Spokane,4,101,-117.4260466,47.6587802
-11,A Little Twisted,The Pit Stop,Merrick,New York,The-Pit-Stop-Merrick,2.5,99,-73.551516,40.6628795
-11,A Little Twisted,Gatsbys Diner,Sacramento,California,Gatsbys-Diner-Sacramento,3.5,625,-121.4943996,38.5815719
-11,A Little Twisted,Anchor Bar,Superior,Wisconsin,Anchor-Bar-Superior,4,79,-92.1040796,46.7207737
-11,Signature Sandwiches,La Pines Cafe,Slidell,Louisiana,La-Pines-Cafe-Slidell,3.5,33,-89.7811745,30.2751945
-11,Signature Sandwiches,Steubens Food Service,Denver,Colorado,Steubens-Food-Service-Denver,4,1521,-104.990251,39.7392358
-11,Signature Sandwiches,3 Sisters Cafe,Indianapolis,Indiana,3-Sisters-Cafe-Indianapolis,4,250,-86.158068,39.768403
-11,Favorites With A Twist,Jimmys Down the Street,Coeur dAlene,Idaho,Jimmys-Down-the-Street-Coeur-d-Alene,4.5,76,-116.7804664,47.6776832
-11,Favorites With A Twist,Aunt Marys Cafe,Oakland,California,Aunt-Marys-Cafe-Oakland,3.5,753,-122.2711137,37.8043637
-11,Favorites With A Twist,Coreys Catsup and Mustard,Manchester,Connecticut,Coreys-Catsup-and-Mustard-Manchester,4,274,-72.521501,41.77593
-11,Soup & Sandwiches,Pineville Tavern,Pineville,Pennsylvania,Pineville-Tavern-Pineville,3,86,-80.8922957,35.0832014
-11,Soup & Sandwiches,Indys Historic Steer-In Restaurant,Indianapolis,Indiana,Indys-Historic-Steer-In-Restaurant-Indianapolis,4,131,-86.158068,39.768403
-11,Soup & Sandwiches,Dads Kitchen,Sacramento,California,Dads-Kitchen-Sacramento,4,949,-121.4943996,38.5815719
-11,From Crepes to Kreplach,Bens Best Deli,Queens,New York,Bens-Best-Rego-Park-2,4,200,-73.7948516,40.7282239
-11,From Crepes to Kreplach,Foolish Craigs Cafe,Boulder,Colorado,Foolish-Craigs-Cafe-Boulder,4,249,-105.2705456,40.0149856
-11,From Crepes to Kreplach,Waddells Pub and Grille,Spokane,Washington,Waddells-Pub-and-Grill-Spokane,4,107,-117.4260466,47.6587802
-11,Fully Loaded,Katies Restaurant,New Orleans,Louisiana,Katies-Restaurant-and-Bar-New-Orleans,4,360,-90.0715323,29.9510658
+8,Stacked Stuffed and Loaded,Bobs Taco Station,Rosenberg,Texas,Bobs-Taco-Station-Rosenberg,3.5,133,-95.807465,29.558516
+8,Stacked Stuffed and Loaded,Crazy Burger Cafe and Juice Bar,Narragansett,Rhode Island,Crazy-Burger-Cafe-and-Juice-Bar-Narragansett,4,327,-71.4597082883,41.4260262251
+8,Stacked Stuffed and Loaded,The Oinkster,Eagle Rock,California,The-Oinkster-Eagle-Rock,4,2845,-118.210518,34.139511
+8,Triple D Goes Tailgatin,Rudys Cant Fail Cafe,Emeryville,California,Rudys-Cant-Fail-Cafe-Emeryville,3.5,1733,-122.285934,37.830891
+8,Triple D Goes Tailgatin,900 Grayson Restaurant,Berkeley,California,900-Grayson-Berkeley-2,4,1416,-122.2923079133,37.8552798182
+8,Triple D Goes Tailgatin,Rick and Anns Restaurant,Berkeley,California,Rick-and-Anns-Restaurant-Berkeley,3.5,676,-122.2440567,37.8584976
+8,Home And Away,Taste of Peru,Chicago,Illinois,Taste-of-Peru-Chicago,4,381,-87.671331,42.00133
+8,Home And Away,Ingrids Kitchen,Oklahoma City,Oklahoma,Ingrids-Kitchen-Oklahoma-City,4,166,-97.552376,35.507996
+8,Home And Away,Blackthorn Restaurant and Pub,Buffalo,New York,Blackthorn-Restaurant-and-Pub-Buffalo,4,81,-78.8080596924,42.8543815613
+8,By Request,South 21 Drive-In,Charlotte,North Carolina,South-21-Drive-In-Charlotte-2,4,34,-80.790367,35.203331
+8,By Request,Red Lion Pub and Restaurant,Houston,Texas,The-Red-Lion-Houston,3.5,366,-95.4109802,29.7456493
+8,By Request,Melt Bar and Grilled,Lakewood,Ohio,Melt-Bar-and-Grilled-Lakewood,4,592,-81.799057,41.4852791
+8,And The Kicker Is...,Pawleys Front Porch,Columbia,South Carolina,Pawleys-Front-Porch-Columbia,3.5,240,-81.017307,34.000989
+8,And The Kicker Is...,Sophia Restaurant,Buffalo,New York,Sophias-Restaurant-Buffalo,4.5,199,-78.8890838623,42.9577026367
+8,And The Kicker Is...,Bettes Oceanview Diner,Berkeley,California,Bettes-Oceanview-Diner-Berkeley,4,1332,-122.3004155948,37.8698619486
+8,Comfort Food Classics,The Liberty Elm Diner,Providence,Rhode Island,The-Liberty-Elm-Diner-Providence,3.5,112,-71.4225134254,41.7910427613
+8,Comfort Food Classics,Naglee Park Garage,San Jose,California,Naglee-Park-Garage-San-Jose,3.5,904,-121.876296,37.336803
+8,Comfort Food Classics,Dish,Charlotte,North Carolina,Dish-Charlotte,4,264,-80.8121235,35.2197368
+8,Twists And Traditions,Earls Drive-In,Chaffee,New York,Earls-Drive-In-Chaffee,3.5,12,-78.4759140015,42.5477867126
+8,Twists And Traditions,Aldos Harbor Restaurant,Santa Cruz,California,Aldos-Harbor-Restaurant-Santa-Cruz,3.5,306,-122.0027816122,36.9641149469
+8,Twists And Traditions,Momocho,Cleveland,Ohio,Momocho-Cleveland,4,442,-81.709739,41.484107
+8,Fresh And Funky,Dish Cafe and Catering,Reno,Nevada,Dish-Cafe-and-Catering-Reno,4.5,117,-119.7991562,39.5258408
+8,Fresh And Funky,Landmark Restaurant,Charlotte,North Carolina,Landmark-Diner-Restaurant-Charlotte,3.5,134,-80.7683475316,35.2134782821
+8,Fresh And Funky,Pier 23 Cafe,San Francisco,California,Pier-23-Cafe-San-Francisco,3.5,1081,-122.3998403549,37.8034773012
+8,Triple D Goes Hawaiian,Highway Inn and Hookipa Catering,Waipahu,Hawaii,Highway-Inn-and-Hookipa-Catering-Waipahu,4,312,-158.0244469643,21.3794168694
+8,Triple D Goes Hawaiian,Hanks Haute Dogs,Honolulu,Hawaii,Hanks-Haute-Dogs-Honolulu,3.5,628,-157.8612922132,21.2975884974
+8,Triple D Goes Hawaiian,Nicos Pier 38,Honolulu,Hawaii,Nicos-Pier-38-Honolulu,4,1704,-157.8782562128,21.3174548663
+8,Triple D Goes Hawaiian,Germaines Luau,Kapolei,Hawaii,Germaines-Luau-Kapolei,3.5,485,-158.1052399,21.2968292
+9,Surf ‘n Turf,North End Cafe,Manhattan Beach,California,North-End-Cafe-Manhattan-Beach,4,590,-118.4173203,33.8994522
+9,Surf ‘n Turf,Gold ‘N Silver Inn,Reno,Nevada,Gold-n-Silver-Inn-Reno,3.5,243,-119.824959,39.527603
+9,Surf ‘n Turf,Singletons Seafood Shack,Atlantic Beach,Florida,Singletons-Seafood-Shack-Atlantic-Beach,3.5,185,-81.430334,30.394433
+9,Homegrown & Homemade,The Farmers Shed,Lexington,South Carolina,The-Farmers-Shed-Lexington,2.5,3,-81.3119965,33.9791374
+9,Homegrown & Homemade,Poke Stop at Mililana Mauka Llc.,Mililani,Hawaii,Poke-Stop-Mililani,3,174,-158.0015945435,21.4684954375
+9,Homegrown & Homemade,Mulberry Cafe,Lackawanna,New York,Mulberry-Italian-Ristorante-Lackawanna,4.5,127,-78.8422546387,42.813167572
+9,Globetrottin,Louis Basque Corner,Reno,Nevada,Louis-Basque-Corner-Reno,3.5,151,-119.809967,39.530899
+9,Globetrottin,13 Gypsies,Jacksonville,Florida,13-Gypsies-Jacksonville,4,1,-81.6890945,30.3147888
+9,Globetrottin,Glorias Cafe,Los Angeles,California,Glorias-Cafe-Los-Angeles,4,1217,-118.4025116,34.0214806
+9,Bringin It Home,Cafe Citti,Kenwood,California,Cafe-Citti-Kenwood,4,312,-122.550301,38.417976
+9,Bringin It Home,Cabo Fish Taco,Charlotte,North Carolina,Cabo-Fish-Taco-Charlotte,3.5,560,-80.8058701,35.2472382
+9,Bringin It Home,Murphys Bar and Grill,Honolulu,Hawaii,Murphys-Bar-and-Grill-Honolulu,4,317,-157.8634338,21.3101406
+9,Porkapalooza,At Last Cafe,Long Beach,California,At-Last-Cafe-Long-Beach,4,1136,-118.1767731,33.7680206
+9,Porkapalooza,Virgils Cafe,Bellevue,Kentucky,Virgils-Cafe-Bellevue,4,139,-84.47995,39.1086807
+9,Porkapalooza,Martins Bar-B-Que Joint,Nolensville,Tennessee,Martins-Bar-B-Que-Joint-Nolensville,4,101,-86.6722851337,35.9610336488
+9,Grilled Smoked and Sauced,Terrys Turf Club,Cincinnati,Ohio,Terrys-Turf-Club-Cincinnati,4,461,-84.4192581177,39.1182861328
+9,Grilled Smoked and Sauced,Schellville Grille,Sonoma,California,Schellville-Grill-Sonoma-2,3.5,312,-122.4488886,38.2443743
+9,Grilled Smoked and Sauced,Jakes Good Eats,Charlotte,North Carolina,Jakes-Good-Eats-Charlotte,3.5,91,-80.638557,35.223682
+9,Comfort Food With Attitude,Jax At The Trax,Truckee,California,Jax-Truckee-Diner-Truckee,3.5,534,-120.184017,39.327293
+9,Comfort Food With Attitude,Culhanes Irish Pub,Atlantic Beach,Florida,Culhanes-Irish-Pub-Atlantic-Beach,4,101,-81.4111786,30.3246746
+9,Comfort Food With Attitude,Blue Ash Chili Restaurant,Cincinnati,Ohio,Blue-Ash-Chili-Restaurant-Cincinnati,4,120,-84.3771286,39.231945
+9,Fast Food Their Way,Rainbow Drive-In,Honolulu,Hawaii,Rainbow-Drive-In-Honolulu,4,1989,-157.8148913383,21.2760181782
+9,Fast Food Their Way,Northern Waters Smokehaus,Duluth,Minnesota,Northern-Waters-Smokehaus-Duluth,4.5,98,-92.0947334915,46.781822294
+9,Farm To Table,Blackwater Grill,Saint Simons Island,Georgia,Blackwater-Grill-Saint-Simons-Island,4,51,-81.3896745443,31.1624736339
+9,Farm To Table,Comet Ping Pong,Washington,DC,Comet-Ping-Pong-Washington,3.5,521,-77.0700948,38.9558894
+9,Farm To Table,Wallace Station,Versailles,Kentucky,Wallace-Station-Deli-and-Bakery-Versailles,4,105,-84.6937288349,38.1212099451
+9,Kansas City Barbeque Tour,Smokin Guns BBQ,North Kansas City,Missouri,Smokin-Guns-BBQ-and-Catering-North-Kansas-City,3.5,150,-94.5774853975,39.1309659183
+9,Kansas City Barbeque Tour,RJs Bob-Be-Que Shack,Mission,Kansas,RJs-Bob-Be-Que-Shack-Mission,3.5,166,-94.6580963,39.0228004
+9,Kansas City Barbeque Tour,Johnnys Bar-B-Q,Mission,Kansas,Johnnys-BBQ-Shawnee-Mission,3.5,55,-94.6652195245,39.0207569323
+9,Kansas City Barbeque Tour,Woodyard Bar-B-Que,Kansas City,Kansas,Woodyard-Bar-B-Que-Kansas-City,4,181,-94.6623764038,39.0452079773
+9,Burgers ‘n More,Swagger Fine Spirits and Food,Kansas City,Missouri,Swagger-Fine-Spirits-and-Food-Kansas-City,3.5,111,-94.5947418,38.9747696
+9,Burgers ‘n More,Burger Me!,Truckee,California,Burger-Me-Truckee,4,476,-120.191277,39.325451
+9,Burgers ‘n More,Athens Family Restaurant,Nashville,Tennessee,Athens-Family-Restaurant-Nashville,4,208,-86.7758026,36.1230354
+9,You Called It,Pauls Coffee Shop,Fountain Valley,California,Pauls-Coffee-Shop-Fountain-Valley,3.5,401,-117.9633179,33.7166901
+9,You Called It,Ricks White Light Diner,Frankfort,Kentucky,Ricks-White-Light-Diner-Frankfort,4,61,-84.8790817,38.1954994
+9,You Called It,Gordys Hi-Hat,Cloquet,Minnesota,Gordys-Hi-Hat-Cloquet,4,48,-92.4677373275,46.733638096
+9,Old Time Attitude,Arnolds Country Kitchen,Nashville,Tennessee,Arnolds-Country-Kitchen-Nashville,4.5,460,-86.7795791626,36.1514091492
+9,Old Time Attitude,Southern Soul Barbeque,Saint Simons Island,Georgia,Southern-Soul-Barbeque-Saint-Simons-Island,4.5,276,-81.3880093798,31.159623417
+9,Old Time Attitude,Maine Diner,Wells,Maine,Maine-Diner-Wells,4,291,-70.56304,43.34255
+10,Family Joints,Kramarczuks,Minneapolis,Minnesota,Kramarczuks-Sausage-Company-Minneapolis,4,192,-93.2573929,44.9878998
+10,Family Joints,Happy Gillis Cafe and Hangout,Kansas City,Missouri,Happy-Gillis-Cafe-and-Hangout-Kansas-City,4.5,261,-94.5702972,39.1090088
+10,Family Joints,Hillbilly Hot Dogs,Lesage,West Virginia,Hillbilly-Hot-Dogs-Lesage,4.5,47,-82.2984156758,38.5068594664
+10,Tried and True,Mama Cozzas,Anaheim,California,Mama-Cozzas-Anaheim,3,489,-117.958125025,33.8177351654
+10,Tried and True,Tune In Restaurant,Washington,DC,Tune-Inn-Washington,3.5,284,-77.00104,38.886431
+10,Tried and True,Bobs Clam Hut,Kittery,Maine,Bobs-Clam-Hut-Kittery,4,319,-70.733975,43.112388
+10,Timeless,Greek Corner Restaurant,Cambridge,Massachusetts,Greek-Corner-Restaurant-Cambridge,4,451,-71.1295624,42.3963585
+10,Timeless,Bros Cajun Cuisine,Nashville,Tennessee,Bros-Cajun-Cuisine-Nashville,3.5,75,-86.8234024,36.1532402
+10,Timeless,The General Store,Silver Spring,Maryland,The-General-Store-Silver-Spring,3,76,-77.055565,39.015202
+10,You Found ‘Em,Parkette Drive In,Lexington,Kentucky,Parkette-Drive-In-Lexington,3.5,50,-84.4538727,38.0309982
+10,You Found ‘Em,Metro Diner,Jacksonville,Florida,Metro-Diner-Jacksonville,4.5,240,-81.648758,30.291117
+10,You Found ‘Em,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2356491,44.9810104
+10,Wings Dogs and Claws,The Lobster Shanty,Salem,Massachusetts,The-Lobster-Shanty-Salem,3.5,212,-70.8947780728,42.5204808265
+10,Wings Dogs and Claws,The Brick,Kansas City,Missouri,The-Brick-Kansas-City,4,180,-94.5797577,39.0923195
+10,Wings Dogs and Claws,Oohhs and Aahhs Gourmet Deli,Washington ,DC,Oohhs-and-Aahhs-Washington,3.5,644,-77.0262375,38.9172096
+10,Sauced and Spiced,J.J. McBrewsters,Lexington,Kentucky,JJ-McBrewsters-Lexington,3.5,46,-84.545575,38.003013
+10,Sauced and Spiced,At Saras Table Chester Creek Cafe,Duluth,Minnesota,At-Saras-Table-Chester-Creek-Cafe-Duluth,4,91,-92.0827484131,46.8103904724
+10,Sauced and Spiced,Cafe Rakka,Hendersonville,Tennessee,Cafe-Rakka-Hendersonville,4.5,110,-86.6356810644,36.3043670074
+10,Made to Order,Rinos Place,East Boston,Massachusetts,Rinos-Place-Boston,4,454,-71.0321042135,42.3782945525
+10,Made to Order,The Blue Door Pub,Saint Paul,Minnesota,The-Blue-Door-Pub-Saint-Paul,4,505,-93.1765877781,44.9467005739
+10,Made to Order,Bay Way Diner,Linden,New Jersey,Bayway-Diner-Linden,3,9,-74.234977,40.620699
+10,Fresh Filled and Fried,Chaps Coffee Co.,Spokane,Washington,Chaps-Coffee-Spokane,4,152,-117.4304275513,47.6150093079
+10,Fresh Filled and Fried,Good Dog Bar and Restaurant,Philadelphia,Pennsylvania,Good-Dog-Bar-and-Restaurant-Philadelphia,4,811,-75.1662055,39.948793
+10,Fresh Filled and Fried,Porthole Restaurant,Portland,Maine,Porthole-Restaurant-Portland,3,76,-70.250061,43.656311
+10,Gone Global,LaCaraquena,Falls Church,Virginia,La-Caraquena-Latin-American-Cuisine-Falls-Church-4,4,282,-77.173696,38.8843673
+10,Gone Global,Savarinos Cucina,Nashville,Tennessee,Savarinos-Cucina-Nashville,3,89,-86.802704,36.136543
+10,Gone Global,Brats Brothers,Sherman Oaks,California,Brats-Brothers-Sherman-Oaks,4,679,-118.424433,34.147036
+10,A Triple D Thanksgiving,Georges Place,Cape May,New Jersey,Georges-Place-Cape-May,4,217,-74.9227742549,38.9304833361
+10,A Triple D Thanksgiving,Beckys Diner,Portland,Maine,Beckys-Diner-Portland,3.5,249,-70.256931,43.650615
+10,A Triple D Thanksgiving,Sammys Food Service and Deli,New Orleans,Louisiana,Sammys-Food-Service-and-Deli-New-Orleans,4,89,-90.0588150024,29.9889373779
+10,Sweet ‘n Savory,Meal Ticket,Berkeley,California,Meal-Ticket-Berkeley,4,316,-122.295639,37.8810806
+10,Sweet ‘n Savory,Metro 29 Diner,Arlington,Virginia,Metro-29-Diner-Arlington,3,366,-77.123062,38.89819
+10,Sweet ‘n Savory,Duluth Grill,Duluth,Minnesota,Duluth-Grill-Duluth,4.5,247,-92.1300495708,46.760744087
+10,Wings ‘n Things,10th Avenue Burrito,Belmar,New Jersey,10th-Avenue-Burrito-Co-Belmar,3.5,259,-74.0264733601,40.1814610715
+10,Wings ‘n Things,Capones Pub,Coeur dAlene,Idaho,Capones-Pub-and-Grill-Coeur-d-Alene,4,97,-116.7813262939,47.6800994873
+10,Wings ‘n Things,Jamaicaway,Nashville,Tennessee,Jamaicaway-Nashville,4,87,-86.7875754423,36.1709748618
+10,Sandwiches Plus,Elk Public House,Spokane,Washington,Elk-Public-House-Spokane,4,232,-117.441345,47.655281
+10,Sandwiches Plus,Colossal Cafe,Minneapolis,Minnesota,Colossal-Cafe-Minneapolis,4,144,-93.2465976,44.926887
+10,Sandwiches Plus,Mauis Dog House,Wildwood,New Jersey,Mauis-Dog-House-Wildwood,4,90,-74.799333,39.0006686
+11,From Pork to Tofu,Tortilla Cafe,Washington,DC,Tortilla-Cafe-Washington,4,401,-76.995811,38.886967
+11,From Pork to Tofu,Memphis Taproom,Philadelphia,Pennsylvania,Memphis-Taproom-Philadelphia,4,519,-75.122986,39.980373
+11,From Pork to Tofu,The Golden Bear,Sacramento,California,The-Golden-Bear-Sacramento,3.5,495,-121.4754493451,38.5741028243
+11,Po Boys Pasta and Pork,Mahoneys Po-Boy Shop,New Orleans,Louisiana,Mahonys-Po-Boy-Shop-New-Orleans,3.5,316,-90.0901436806,29.9225326544
+11,Po Boys Pasta and Pork,Hills Restaurant and Lounge,Spokane,Washington,Hills-Restaurant-and-Lounge-Spokane,3,63,-117.4182533473,47.6590139419
+11,Po Boys Pasta and Pork,Q Fanatic BBQ,Champlin,Minnesota,Q-Fanatic-Champlin,4,117,-93.3953424784,45.1880696625
+11,Funky Finds,Sage General Store,Queens,New York,Sage-General-Store-Long-Island-City-2,3.5,315,-73.9443628,40.7461408
+11,Funky Finds,Quahogs Seafood Shack,Stone Harbor,New Jersey,Quahogs-Seafood-Shack-Stone-Harbor,3.5,106,-74.7593688965,39.0532073975
+11,Funky Finds,W.O.W. - Worth Our Weight,Santa Rosa,California,Worth-Our-Weight-Santa-Rosa,4.5,159,-122.68557,38.441532
+11,Quirky Classics,Louie and The Red Head Lady,Mandeville,Louisiana,Louie-and-The-Red-Head-Lady-Mandeville,3,24,-90.0593185,30.3628006
+11,Quirky Classics,Honeys Sit-N-Eat,Philadelphia,Pennsylvania,Honeys-Sit-N-Eat-Philadelphia,4,959,-75.1445084,39.9639702
+11,Quirky Classics,Picabu Neighborhood Bistro,Spokane,Washington,Picabu-Neighborhood-Bistro-Spokane,4,101,-117.4241863936,47.6426450908
+11,A Little Twisted,The Pit Stop,Merrick,New York,The-Pit-Stop-Merrick,2.5,99,-73.5631790161,40.6601104736
+11,A Little Twisted,Gatsbys Diner,Sacramento,California,Gatsbys-Diner-Sacramento,3.5,625,-121.401909,38.599571
+11,A Little Twisted,Anchor Bar,Superior,Wisconsin,Anchor-Bar-Superior,4,79,-92.1043167,46.7332802
+11,Signature Sandwiches,La Pines Cafe,Slidell,Louisiana,La-Pines-Cafe-Slidell,3.5,33,-89.771087,30.289281
+11,Signature Sandwiches,Steubens Food Service,Denver,Colorado,Steubens-Food-Service-Denver,4,1521,-104.980178833,39.7434997559
+11,Signature Sandwiches,3 Sisters Cafe,Indianapolis,Indiana,3-Sisters-Cafe-Indianapolis,4,250,-86.143066,39.871941
+11,Favorites With A Twist,Jimmys Down the Street,Coeur dAlene,Idaho,Jimmys-Down-the-Street-Coeur-d-Alene,4.5,76,-116.7623596,47.6735687
+11,Favorites With A Twist,Aunt Marys Cafe,Oakland,California,Aunt-Marys-Cafe-Oakland,3.5,753,-122.2639349,37.8318337
+11,Favorites With A Twist,Coreys Catsup and Mustard,Manchester,Connecticut,Coreys-Catsup-and-Mustard-Manchester,4,274,-72.521072,41.773842
+11,Soup & Sandwiches,Pineville Tavern,Pineville,Pennsylvania,Pineville-Tavern-Pineville,3,86,-74.994593,40.2828
+11,Soup & Sandwiches,Indys Historic Steer-In Restaurant,Indianapolis,Indiana,Indys-Historic-Steer-In-Restaurant-Indianapolis,4,131,-86.08241,39.781795
+11,Soup & Sandwiches,Dads Kitchen,Sacramento,California,Dads-Kitchen-Sacramento,4,949,-121.489121,38.550892
+11,From Crepes to Kreplach,Bens Best Deli,Queens,New York,Bens-Best-Rego-Park-2,4,200,-73.8613715,40.7293762
+11,From Crepes to Kreplach,Foolish Craigs Cafe,Boulder,Colorado,Foolish-Craigs-Cafe-Boulder,4,249,-105.27449,40.019325
+11,From Crepes to Kreplach,Waddells Pub and Grille,Spokane,Washington,Waddells-Pub-and-Grill-Spokane,4,107,-117.3686163872,47.614326328
+11,Fully Loaded,Katies Restaurant,New Orleans,Louisiana,Katies-Restaurant-and-Bar-New-Orleans,4,360,-90.0959091187,29.9730854034
 11,Fully Loaded,Jersey Cafe,Carmel,Indiana,Jersey-Cafe-Carmel,Closed,Closed,-121.9232879,36.5552386
-11,Fully Loaded,Merritt Canteen Inc.,Bridgeport,Connecticut,Merritt-Canteen-Bridgeport,4,96,-73.1951767,41.1865478
-11,From Mozz to Matzo Balls,Sunflower Cafe,Sonoma,California,Sunflower-Caffe-Sonoma,4,552,-122.4580356,38.291859
-11,From Mozz to Matzo Balls,Hildebrandts,Williston Park,New York,Hildebrandts-Williston-Park,3.5,105,-73.6448513,40.75649
-11,From Mozz to Matzo Balls,The Bagel Delicatessen and Restaurant,Denver,Colorado,The-Bagel-Delicatessen-and-Restaurant-Denver,4,283,-104.990251,39.7392358
-11,Signature Twists,The Barking Dog,Indianapolis,Indiana,Barking-Dog-Cafe-Indianapolis,3,78,-86.158068,39.768403
-11,Signature Twists,Putah Creek Cafe,Winters,California,Putah-Creek-Cafe-Winters,3.5,317,-121.9708017,38.5249065
-11,Signature Twists,The Old Coffee Pot Restaurant,New Orleans,Louisiana,The-Old-Coffee-Pot-Restaurant-New-Orleans,3.5,398,-90.0715323,29.9510658
-11,Porktastic,Jimtown Store,Healdsburg,California,Jimtown-Store-Healdsburg,4,124,-122.8691609,38.6104658
-11,Porktastic,Dough Pizzeria Napoletana,San Antonio,Texas,Dough-Pizzeria-Napoletana-San-Antonio,4,778,-98.4936282,29.4241219
-11,Porktastic,Sams No. 3,Denver,Colorado,Sams-No-3-Denver,4,753,-104.990251,39.7392358
-12,Bar Food and Bon Bons,The Sparrow Tavern,Queens,New York,The-Sparrow-Tavern-Astoria,4,397,-73.7948516,40.7282239
-12,Bar Food and Bon Bons,Catellis,Geyserville,California,Catellis-Geyserville,4.5,248,-122.9027647,38.7074755
+11,Fully Loaded,Merritt Canteen Inc.,Bridgeport,Connecticut,Merritt-Canteen-Bridgeport,4,96,-73.2162017822,41.2191238403
+11,From Mozz to Matzo Balls,Sunflower Cafe,Sonoma,California,Sunflower-Caffe-Sonoma,4,552,-122.458831,38.29344
+11,From Mozz to Matzo Balls,Hildebrandts,Williston Park,New York,Hildebrandts-Williston-Park,3.5,105,-73.6428909,40.7573891
+11,From Mozz to Matzo Balls,The Bagel Delicatessen and Restaurant,Denver,Colorado,The-Bagel-Delicatessen-and-Restaurant-Denver,4,283,-104.913979,39.654198
+11,Signature Twists,The Barking Dog,Indianapolis,Indiana,Barking-Dog-Cafe-Indianapolis,3,78,-86.1540985,39.8425293
+11,Signature Twists,Putah Creek Cafe,Winters,California,Putah-Creek-Cafe-Winters,3.5,317,-121.969162,38.5220299
+11,Signature Twists,The Old Coffee Pot Restaurant,New Orleans,Louisiana,The-Old-Coffee-Pot-Restaurant-New-Orleans,3.5,398,-90.06517,29.95813
+11,Porktastic,Jimtown Store,Healdsburg,California,Jimtown-Store-Healdsburg,4,124,-122.8171770604,38.6688222413
+11,Porktastic,Dough Pizzeria Napoletana,San Antonio,Texas,Dough-Pizzeria-Napoletana-San-Antonio,4,778,-98.5069275,29.5195141
+11,Porktastic,Sams No. 3,Denver,Colorado,Sams-No-3-Denver,4,753,-104.995605,39.7462
+12,Bar Food and Bon Bons,The Sparrow Tavern,Queens,New York,The-Sparrow-Tavern-Astoria,4,397,-73.9164963,40.7727318
+12,Bar Food and Bon Bons,Catellis,Geyserville,California,Catellis-Geyserville,4.5,248,-122.9045375437,38.7067034841
 12,Bar Food and Bon Bons,Zest,Indianapolis,Indiana,Zest-Indianapolis,Closed,Closed,-86.158068,39.768403
-12,From Kraut to Couscous,Lauer-Krauts,Brighton,Colorado,Lauer-Krauts-Brighton,4,56,-104.820528,39.985262
-12,From Kraut to Couscous,Moroccan Bites,San Antonio,Texas,Moroccan-Bites-San-Antonio,4,181,-98.4936282,29.4241219
-12,From Kraut to Couscous,California Tacos To Go,Tampa,Florida,California-Tacos-To-Go-Tampa,4,184,-82.4571776,27.950575
-12,You Can Only Get It Here,HRD Coffee Shop,San Francisco,California,HRD-Coffee-Shop-San-Francisco,4.5,1549,-122.4194155,37.7749295
-12,You Can Only Get It Here,The Tamale Place,Indianapolis,Indiana,The-Tamale-Place-Indianapolis,4.5,301,-86.158068,39.768403
-12,You Can Only Get It Here,Garifuna Flava,Chicago,Illinois,Garifuna-Flava-Chicago,4.5,143,-87.6297982,41.8781136
-12,Grillin and Smokin,Bun ‘N Barrel,San Antonio,Texas,Bun-n-Barrel-Barrel-San-Antonio-2,3,102,-98.4936282,29.4241219
-12,Grillin and Smokin,Tocabe American Indian Eatery,Denver,Colorado,Tocabe-American-Indian-Eatery-Denver,4,459,-104.990251,39.7392358
-12,Grillin and Smokin,Munchs Restaurant and Sundries,Saint Petersburg,Florida,Munchs-Sundries-and-Restaurant-Saint-Petersburg,4,68,-82.64,27.773056
-12,Southern Flavor,Broken Record,San Francisco,California,Broken-Record-San-Francisco,4,1144,-122.4194155,37.7749295
-12,Southern Flavor,Bang!,Denver,Colorado,Bang-Denver,4,194,-104.990251,39.7392358
-12,Southern Flavor,Joses Real Cuban Food,Bradenton,Florida,Joses-Real-Cuban-Food-Bradenton,4.5,251,-82.5748194,27.4989278
-12,Gettin Fresh,The Sink,Boulder,Colorado,The-Sink-Boulder,3.5,205,-105.2705456,40.0149856
-12,Gettin Fresh,Nana Organic,Chicago,Illinois,Nana-Chicago,4,694,-87.6297982,41.8781136
-12,Gettin Fresh,Get Fresh Cafe,Norfolk,Virginia,Get-Fresh-Cafe-Norfolk,4.5,17,-76.2858726,36.8507689
-12,Homemade & Homebrewed,Tampa Bay Brewing Co.,Tampa,Florida,Tampa-Bay-Brewing-Company-Tampa,4,439,-82.4571776,27.950575
-12,Homemade & Homebrewed,Zydecos,Mooresville,Indiana,Zydecos-Mooresville,4.5,70,-80.8100724,35.5848596
-12,Homemade & Homebrewed,Chilam Balam,Chicago,Illinois,Chilam-Balam-Chicago,3.5,542,-87.6297982,41.8781136
-12,Latin Street Food,Irazu,Chicago,Illinois,Irazu-Costa-Rican-Dining-Chicago,4,1385,-87.6297982,41.8781136
-12,Latin Street Food,Betos Comida Latina,San Antonio,Texas,Betos-Comida-Latina-San-Antonio,3.5,217,-98.4936282,29.4241219
-12,Latin Street Food,Tortilleria Nixtamal,Queens,New York,Tortilleria-Nixtamal-Queens,4,527,-73.7948516,40.7282239
-12,Slammin Sammies,Taco Taco Mexican Restaurant,San Antonio,Texas,Taco-Taco-Cafe-San-Antonio,3,289,-98.4936282,29.4241219
-12,Slammin Sammies,Whitners Barbeque,Virginia Beach,Virginia,Whitners-Barbeque-Virginia-Beach,3.5,148,-75.977985,36.8529263
-12,Slammin Sammies,DMK Burger Bar,Chicago,Illinois,DMK-Burger-Bar-Chicago,4,1489,-87.6297982,41.8781136
-12,Global Comfort,Rigoletto Italian Bakery and Cafe,Virginia Beach,Virginia,Rigoletto-Italian-Bakery-Virginia-Beach,3.5,73,-75.977985,36.8529263
-12,Global Comfort,Chucks Southern Comforts Cafe,Burbank,Illinois,Chucks-Southern-Comforts-Cafe-Burbank,4,453,-118.3089661,34.1808392
-12,Global Comfort,El Bohio,San Antonio,Texas,El-Bohio-Sabor-Boricua-and-International-San-Antonio,3,40,-98.4936282,29.4241219
-12,Breakfast Lunch and Dinner,Magnolia Pancake Haus,San Antonio,Texas,Magnolia-Pancake-Haus-San-Antonio,4,597,-98.4936282,29.4241219
-12,Breakfast,Taco Bus,Tampa,Florida,Taco-Bus-Tampa,4,616,-82.4571776,27.950575
-12,Breakfast,Beach Pub,Virginia Beach,Virginia,Beach-Pub-Virginia-Beach,3,64,-75.977985,36.8529263
-12,Pizza Pancakes and Pork,Supino Pizzeria,Detroit,Michigan,Supino-Pizzeria-Detroit,4.5,424,-83.0457538,42.331427
-12,Pizza Pancakes and Pork,Big and Littles,Chicago,Illinois,Big-and-Littles-Chicago,4,838,-87.6297982,41.8781136
-12,Pizza Pancakes and Pork,Citrus Breakfast and Lunch,Virginia Beach,Virginia,Citrus-Virginia-Beach,4,378,-75.977985,36.8529263
-12,Old to New,Polish Village Cafe,Hamtramck,Michigan,Polish-Village-Cafe-Hamtramck,4.5,249,-83.0496438,42.3928151
-12,Old to New,Leaping Lizards Cafe,Virginia Beach,Virginia,Leaping-Lizard-Cafe-Virginia-Beach,4,124,-75.977985,36.8529263
-12,Old to New,Jethros Fine Grub,Vancouver,British Columbia,Jethros-Fine-Grub-Vancouver,3.5,178,-122.6614861,45.6387281
-13,Seafood & Sammies,Fresh Local Wild,Vancouver,British Columbia,Fresh-Local-Wild-Vancouver,4,92,-122.6614861,45.6387281
-13,Seafood & Sammies,Traffic Jam and Snug,Detroit,Michigan,Traffic-Jam-and-Snug-Detroit,3,281,-83.0457538,42.331427
-13,Seafood & Sammies,Panozzos Italian Market,Chicago,Illinois,Panozzos-Italian-Market-Chicago,4.5,316,-87.6297982,41.8781136
-13,Coast to Coast Classics,Tomahawk Restaurant,North Vancouver,British Columbia,Tomahawk-Barbeque-North-Vancouver,3.5,121,-123.0732801,49.3269904
-13,Coast to Coast Classics,Dannys All American Diner,Tampa,Florida,Dannys-All-American-Diner-Tampa,4,115,-82.4571776,27.950575
-13,Kid Rocks Detroit Tour,Clarkston Union Bar and Kitchen,Clarkston,Michigan,Clarkston-Union-Bar-and-Kitchen-Clarkston,4,167,-83.4192941,42.7351196
-13,Kid Rocks Detroit Tour,Union Woodshop,Clarkston,Michigan,Union-Woodshop-Clarkston,4.5,392,-83.4192941,42.7351196
+12,From Kraut to Couscous,Lauer-Krauts,Brighton,Colorado,Lauer-Krauts-Brighton,4,56,-104.815117,39.986195
+12,From Kraut to Couscous,Moroccan Bites,San Antonio,Texas,Moroccan-Bites-San-Antonio,4,181,-98.598883152,29.4889751201
+12,From Kraut to Couscous,California Tacos To Go,Tampa,Florida,California-Tacos-To-Go-Tampa,4,184,-82.443725,28.081645
+12,You Can Only Get It Here,HRD Coffee Shop,San Francisco,California,HRD-Coffee-Shop-San-Francisco,4.5,1549,-122.3952255,37.7812019
+12,You Can Only Get It Here,The Tamale Place,Indianapolis,Indiana,The-Tamale-Place-Indianapolis,4.5,301,-86.249054,39.765255
+12,You Can Only Get It Here,Garifuna Flava,Chicago,Illinois,Garifuna-Flava-Chicago,4.5,143,-87.6869354248,41.7794914246
+12,Grillin and Smokin,Tocabe American Indian Eatery,Denver,Colorado,Tocabe-American-Indian-Eatery-Denver,4,459,-105.0341201,39.7764633
+12,Grillin and Smokin,Munchs Restaurant and Sundries,Saint Petersburg,Florida,Munchs-Sundries-and-Restaurant-Saint-Petersburg,4,68,-82.6405411,27.7329693
+12,Southern Flavor,Broken Record,San Francisco,California,Broken-Record-San-Francisco,4,1144,-122.4369419056,37.7143873749
+12,Southern Flavor,Bang!,Denver,Colorado,Bang-Denver,4,194,-105.033913119,39.7620521445
+12,Southern Flavor,Joses Real Cuban Food,Bradenton,Florida,Joses-Real-Cuban-Food-Bradenton,4.5,251,-82.6497955322,27.4612388611
+12,Gettin Fresh,The Sink,Boulder,Colorado,The-Sink-Boulder,3.5,205,-105.2765749,40.008486
+12,Gettin Fresh,Nana Organic,Chicago,Illinois,Nana-Chicago,4,694,-87.6460771,41.8345744
+12,Gettin Fresh,Get Fresh Cafe,Norfolk,Virginia,Get-Fresh-Cafe-Norfolk,4.5,17,-76.2613449097,36.8627586365
+12,Homemade & Homebrewed,Tampa Bay Brewing Co.,Tampa,Florida,Tampa-Bay-Brewing-Company-Tampa,4,439,-82.441147,27.961543
+12,Homemade & Homebrewed,Zydecos,Mooresville,Indiana,Zydecos-Mooresville,4.5,70,-86.3743896484,39.6124649048
+12,Homemade & Homebrewed,Chilam Balam,Chicago,Illinois,Chilam-Balam-Chicago,3.5,542,-87.644012,41.937225
+12,Latin Street Food,Irazu,Chicago,Illinois,Irazu-Costa-Rican-Dining-Chicago,4,1385,-87.68515,41.915563
+12,Latin Street Food,Betos Comida Latina,San Antonio,Texas,Betos-Comida-Latina-San-Antonio,3.5,217,-98.4657516479,29.5112743378
+12,Latin Street Food,Tortilleria Nixtamal,Queens,New York,Tortilleria-Nixtamal-Queens,4,527,-73.8592682,40.7459297
+12,Slammin Sammies,Taco Taco Mexican Restaurant,San Antonio,Texas,Taco-Taco-Cafe-San-Antonio,3,289,-98.4922791,29.4667397
+12,Slammin Sammies,Whitners Barbeque,Virginia Beach,Virginia,Whitners-Barbeque-Virginia-Beach,3.5,148,-76.0710831,36.8116684
+12,Slammin Sammies,DMK Burger Bar,Chicago,Illinois,DMK-Burger-Bar-Chicago,4,1489,-87.6543274,41.9360809
+12,Global Comfort,Rigoletto Italian Bakery and Cafe,Virginia Beach,Virginia,Rigoletto-Italian-Bakery-Virginia-Beach,3.5,73,-76.0078964,36.7574692
+12,Global Comfort,Chucks Southern Comforts Cafe,Burbank,Illinois,Chucks-Southern-Comforts-Cafe-Burbank,4,453,-87.783691,41.748089
+12,Global Comfort,El Bohio,San Antonio,Texas,El-Bohio-Sabor-Boricua-and-International-San-Antonio,3,40,-98.437798,29.470733
+12,Breakfast Lunch and Dinner,Magnolia Pancake Haus,San Antonio,Texas,Magnolia-Pancake-Haus-San-Antonio,4,597,-98.4888851878,29.5642567428
+12,Breakfast,Taco Bus,Tampa,Florida,Taco-Bus-Tampa,4,616,-82.450292,27.995955
+12,Breakfast,Beach Pub,Virginia Beach,Virginia,Beach-Pub-Virginia-Beach,3,64,-75.9908577,36.8569291
+12,Pizza Pancakes and Pork,Supino Pizzeria,Detroit,Michigan,Supino-Pizzeria-Detroit,4.5,424,-83.0400648286,42.3454761749
+12,Pizza Pancakes and Pork,Big and Littles,Chicago,Illinois,Big-and-Littles-Chicago,4,838,-87.63726,41.898386
+12,Pizza Pancakes and Pork,Citrus Breakfast and Lunch,Virginia Beach,Virginia,Citrus-Virginia-Beach,4,378,-76.0714227999,36.9103568846
+12,Old to New,Polish Village Cafe,Hamtramck,Michigan,Polish-Village-Cafe-Hamtramck,4.5,249,-83.056671,42.398212
+12,Old to New,Leaping Lizards Cafe,Virginia Beach,Virginia,Leaping-Lizard-Cafe-Virginia-Beach,4,124,-76.1235275,36.9057007
+12,Old to New,Jethros Fine Grub,Vancouver,British Columbia,Jethros-Fine-Grub-Vancouver,3.5,178,-123.1847534,49.2562485
+13,Seafood & Sammies,Fresh Local Wild,Vancouver,British Columbia,Fresh-Local-Wild-Vancouver,4,92,-123.1194305,49.2817841
+13,Seafood & Sammies,Traffic Jam and Snug,Detroit,Michigan,Traffic-Jam-and-Snug-Detroit,3,281,-83.0661228307,42.351022406
+13,Seafood & Sammies,Panozzos Italian Market,Chicago,Illinois,Panozzos-Italian-Market-Chicago,4.5,316,-87.6237106,41.8656387
+13,Coast to Coast Classics,Tomahawk Restaurant,North Vancouver,British Columbia,Tomahawk-Barbeque-North-Vancouver,3.5,121,-123.1129684,49.3227615
+13,Coast to Coast Classics,Dannys All American Diner,Tampa,Florida,Dannys-All-American-Diner-Tampa,4,115,-82.3354034424,27.9855747223
+13,Kid Rocks Detroit Tour,Clarkston Union Bar and Kitchen,Clarkston,Michigan,Clarkston-Union-Bar-and-Kitchen-Clarkston,4,167,-83.4188843,42.7341499
+13,Kid Rocks Detroit Tour,Union Woodshop,Clarkston,Michigan,Union-Woodshop-Clarkston,4.5,392,-83.4186325,42.7353287
 13,Kid Rocks Detroit Tour,Michigan Brewing Co.,Webberville,Michigan,Michigan-Brewing-Co.-Webberville,Closed,Closed,-84.1741305,42.6669787
-13,Southern Staples,Red Wagon Cafe,Vancouver,British Columbia,Red-Wagon-Cafe-Vancouver,4,280,-122.6614861,45.6387281
-13,Southern Staples,Perfectly Franks,Summerville,South Carolina,Perfectly-Franks-Summerville,4.5,120,-80.1756481,33.0185039
+13,Southern Staples,Red Wagon Cafe,Vancouver,British Columbia,Red-Wagon-Cafe-Vancouver,4,280,-123.0580597,49.2810135
+13,Southern Staples,Perfectly Franks,Summerville,South Carolina,Perfectly-Franks-Summerville,4.5,120,-80.1748275757,33.0213928223
 13,Southern Staples,Mamas Food Shop,Manhattan,New York,Mamas-Food-Shop-Manhattan,Closed,Closed,-73.9712488,40.7830603
-13,Scratch Made Classics,Litos Mexican Restaurant,Santa Barbara,California,Litos-Take-Out-Santa-Barbara,4,121,-119.6981901,34.4208305
-13,Scratch Made Classics,Save On Meats,Vancouver,British Columbia,Save-On-Meats-Vancouver,3.5,246,-122.6614861,45.6387281
-13,Scratch Made Classics,The Redhead,Manhattan,New York,The-Redhead-New-York,4,565,-73.9712488,40.7830603
-13,Meat Madness,Rincon Criollo,Queens,New York,Rincon-Criollo-Queens,4.5,448,-73.7948516,40.7282239
-13,Meat Madness,Tattooed Moose,Charleston,South Carolina,Tattooed-Moose-Charleston,4,374,-79.9310512,32.7764749
-13,Meat Madness,Falconettis,Vancouver,British Columbia,Falconettis-East-Side-Grill-Vancouver,3,118,-122.6614861,45.6387281
-13,Global Traditions,Johns of 12th Street,Manhattan,New York,Johns-of-12th-Street-New-York-2,3.5,338,-73.9712488,40.7830603
-13,Global Traditions,Macs Fish and Chip Shop,Santa Barbara,California,Macs-Fish-and-Chip-Shop-Santa-Barbara,3.5,380,-119.6981901,34.4208305
-13,Multitaskers,The Early Bird Diner,Charleston,South Carolina,Early-Bird-Diner-Charleston,4.5,320,-79.9310512,32.7764749
-13,Multitaskers,Boulevard Diner,Dundalk,Maryland,Boulevard-Diner-Dundalk,3,28,-89.993702,34.823987
-13,Multitaskers,The Kitchen,Oxnard,California,The-Kitchen-Oxnard,3.5,189,-119.1770516,34.1975048
-13,Family Matters,Sidecar,Brooklyn,New York,Sidecar-Brooklyn,3.5,341,-73.9441579,40.6781784
-13,Family Matters,Peaceful Restaurant,Vancouver,British Columbia,Peaceful-Restaurant-Vancouver,4,318,-122.6614861,45.6387281
-13,Family Matters,Flip Flops Grill and Chill,Virginia Beach,Virginia,Flip-Flops-Grill-and-Chill-Virginia-Beach,4,99,-75.977985,36.8529263
-13,Old Faves New Craves,Nortons Pastrami and Deli,Santa Barbara,California,Nortons-Pastrami-and-Deli-Santa-Barbara,4,47,-119.6981901,34.4208305
-13,Old Faves New Craves,Meat and Bread,Vancouver,British Columbia,Meat-and-Bread-Vancouver,4,461,-122.6614861,45.6387281
-13,Old Faves New Craves,Fuel Cantina,Charleston,South Carolina,Fuel-Charleston-2,4,176,-79.9310512,32.7764749
-13,Long Standing Legacies,Defontes Sandwich Shop,Brooklyn,New York,Defontes-Sandwich-Shop-Brooklyn,4.5,157,-73.9441579,40.6781784
-13,Long Standing Legacies,The Glass Onion,Charleston,South Carolina,The-Glass-Onion-Charleston,4,185,-79.9310512,32.7764749
-13,Long Standing Legacies,Galway Bay Irish Pub,Annapolis,Maryland,Galway-Bay-Irish-Restaurant-and-Pub-Annapolis,4,194,-76.4921829,38.9784453
-13,Time Tested Treasures,RandR Taqueria,Elkridge,Maryland,R-and-R-Taqueria-Elkridge-2,4,317,-76.7135814,39.2126073
-13,Time Tested Treasures,Nyes Polonaise Room,Minneapolis,Minnesota,Nyes-Polonaise-Room-Minneapolis,4,266,-93.2650108,44.977753
-13,Time Tested Treasures,Moseberths Fried Chicken,Portsmouth,Virginia,Moseberths-Chicken-Place-Portsmouth,3.5,40,-76.298274,36.835426
-13,Outside the Box,Joe Squared Pizza,Baltimore,Maryland,Joe-Squared-Pizza-Baltimore,3.5,306,-76.6121893,39.2903848
-13,Outside the Box,Pepes and Mitos,Dallas,Texas,Pepes-and-Mitos-Mexican-Cafe-Dallas-2,4,272,-96.7969879,32.7766642
-13,Outside the Box,Savoy Cafe and Deli,Santa Barbara,California,Savoy-Cafe-and-Deli-Santa-Barbara,4,219,-119.6981901,34.4208305
-14,Triple D All Stars,Pizzeria Lola,Minneapolis,Minnesota,Pizzeria-Lola-Minneapolis,4.5,435,-93.2650108,44.977753
-14,Triple D All Stars,Monument Cafe,Georgetown,Texas,Monument-Cafe-Georgetown,4.5,10,-97.6779842,30.6332618
-14,Streamlined Sammies,Lukes Inside Out,Austin,Texas,Lukes-Inside-Out-Austin,4.5,186,-97.7430608,30.267153
-14,Streamlined Sammies,Smack Shack at The 1029 Bar,Minneapolis,Minnesota,The-1029-Bar-Minneapolis,4,130,-93.2650108,44.977753
-14,Streamlined Sammies,Maple and Motor,Dallas,Texas,Maple-and-Motor-Dallas,4,747,-96.7969879,32.7766642
-14,Crankin Up the Classics,Broders Cucina Italiana,Minneapolis,Minnesota,Broders-Cucina-Italiana-Minneapolis,4.5,97,-93.2650108,44.977753
-14,Crankin Up the Classics,Chop House Burgers,Arlington,Texas,Chop-House-Burgers-Arlington,3.5,210,-77.1067698,38.8799697
-14,Passin The Baton,Petes Breakfast House,Ventura,California,Petes-Breakfast-House-Restaurant-Ventura,4.5,528,-119.2290316,34.274646
-14,Passin The Baton,Sip and Bite Restaurant,Baltimore,Maryland,Sip-and-Bite-Restaurant-Baltimore,3.5,228,-76.6121893,39.2903848
-14,Big Time Flavor,Marlas Caribbean Cuisine,Minneapolis,Minnesota,Marlas-Caribbean-Cuisine-Minneapolis,4,122,-93.2650108,44.977753
-14,Big Time Flavor,Cane Rosso,Dallas,Texas,Cane-Rosso-Dallas,4,868,-96.7969879,32.7766642
-14,Big Time Flavor,Counter Cafe,Austin,Texas,Counter-Cafe-Austin,3.5,417,-97.7430608,30.267153
-14,Unexpected Eats,Smalleys Caribbean Barbeque,Stillwater,Minnesota,Smalleys-Caribbean-Barbeque-Stillwater,4,167,-92.8088443,45.056004
-14,Unexpected Eats,Johnny Garlics,Santa Rosa,California,Johnny-Garlics-Santa-Rosa,2.5,23,-122.7140548,38.440429
+13,Scratch Made Classics,Litos Mexican Restaurant,Santa Barbara,California,Litos-Take-Out-Santa-Barbara,4,121,-119.689194,34.42239
+13,Scratch Made Classics,Save On Meats,Vancouver,British Columbia,Save-On-Meats-Vancouver,3.5,246,-123.1060104,49.2820206
+13,Scratch Made Classics,The Redhead,Manhattan,New York,The-Redhead-New-York,4,565,-73.9833602905,40.7309379578
+13,Meat Madness,Rincon Criollo,Queens,New York,Rincon-Criollo-Queens,4.5,448,-73.869195655,40.7489233464
+13,Meat Madness,Tattooed Moose,Charleston,South Carolina,Tattooed-Moose-Charleston,4,374,-79.9493560791,32.8113632202
+13,Meat Madness,Falconettis,Vancouver,British Columbia,Falconettis-East-Side-Grill-Vancouver,3,118,-123.0695114,49.2684937
+13,Global Traditions,Johns of 12th Street,Manhattan,New York,Johns-of-12th-Street-New-York-2,3.5,338,-73.985527,40.7305984
+13,Global Traditions,Macs Fish and Chip Shop,Santa Barbara,California,Macs-Fish-and-Chip-Shop-Santa-Barbara,3.5,380,-119.6957458556,34.4168823212
+13,Multitaskers,The Early Bird Diner,Charleston,South Carolina,Early-Bird-Diner-Charleston,4.5,320,-80.0140228,32.7873192
+13,Multitaskers,Boulevard Diner,Dundalk,Maryland,Boulevard-Diner-Dundalk,3,28,-76.5038859844,39.2709275471
+13,Multitaskers,The Kitchen,Oxnard,California,The-Kitchen-Oxnard,3.5,189,-119.1787415,34.1968956
+13,Family Matters,Sidecar,Brooklyn,New York,Sidecar-Brooklyn,3.5,341,-73.989748,40.665421
+13,Family Matters,Peaceful Restaurant,Vancouver,British Columbia,Peaceful-Restaurant-Vancouver,4,318,-123.116143,49.263147
+13,Family Matters,Flip Flops Grill and Chill,Virginia Beach,Virginia,Flip-Flops-Grill-and-Chill-Virginia-Beach,4,99,-76.010196,36.756043
+13,Old Faves New Craves,Nortons Pastrami and Deli,Santa Barbara,California,Nortons-Pastrami-and-Deli-Santa-Barbara,4,47,-119.6750717,34.41856
+13,Old Faves New Craves,Meat and Bread,Vancouver,British Columbia,Meat-and-Bread-Vancouver,4,461,-123.1092758,49.2826614
+13,Old Faves New Craves,Fuel Cantina,Charleston,South Carolina,Fuel-Charleston-2,4,176,-79.9471817,32.7892685
+13,Long Standing Legacies,Defontes Sandwich Shop,Brooklyn,New York,Defontes-Sandwich-Shop-Brooklyn,4.5,157,-74.00575,40.67868
+13,Long Standing Legacies,The Glass Onion,Charleston,South Carolina,The-Glass-Onion-Charleston,4,185,-79.998131,32.783829
+13,Long Standing Legacies,Galway Bay Irish Pub,Annapolis,Maryland,Galway-Bay-Irish-Restaurant-and-Pub-Annapolis,4,194,-76.4899588,38.9797442
+13,Time Tested Treasures,RandR Taqueria,Elkridge,Maryland,R-and-R-Taqueria-Elkridge-2,4,317,-76.7848511,39.1725883
+13,Time Tested Treasures,Nyes Polonaise Room,Minneapolis,Minnesota,Nyes-Polonaise-Room-Minneapolis,4,266,-93.2584775984,44.987219274
+13,Time Tested Treasures,Moseberths Fried Chicken,Portsmouth,Virginia,Moseberths-Chicken-Place-Portsmouth,3.5,40,-76.347527,36.826172
+13,Outside the Box,Joe Squared Pizza,Baltimore,Maryland,Joe-Squared-Pizza-Baltimore,3.5,306,-76.6191496031,39.3107435962
+13,Outside the Box,Pepes and Mitos,Dallas,Texas,Pepes-and-Mitos-Mexican-Cafe-Dallas-2,4,272,-96.782043,32.785205
+13,Outside the Box,Savoy Cafe and Deli,Santa Barbara,California,Savoy-Cafe-and-Deli-Santa-Barbara,4,219,-119.7040336862,34.4218206813
+14,Triple D All Stars,Pizzeria Lola,Minneapolis,Minnesota,Pizzeria-Lola-Minneapolis,4.5,435,-93.3186925042,44.9018451517
+14,Triple D All Stars,Monument Cafe,Georgetown,Texas,Monument-Cafe-Georgetown,4.5,10,-97.678131,30.626032
+14,Streamlined Sammies,Lukes Inside Out,Austin,Texas,Lukes-Inside-Out-Austin,4.5,186,-97.7617722,30.2550201
+14,Streamlined Sammies,Smack Shack at The 1029 Bar,Minneapolis,Minnesota,The-1029-Bar-Minneapolis,4,130,-93.268135,44.998088
+14,Streamlined Sammies,Maple and Motor,Dallas,Texas,Maple-and-Motor-Dallas,4,747,-96.826988,32.815212
+14,Crankin Up the Classics,Broders Cucina Italiana,Minneapolis,Minnesota,Broders-Cucina-Italiana-Minneapolis,4.5,97,-93.3089286089,44.9124097824
+14,Crankin Up the Classics,Chop House Burgers,Arlington,Texas,Chop-House-Burgers-Arlington,3.5,210,-97.1337585,32.720829
+14,Passin The Baton,Petes Breakfast House,Ventura,California,Petes-Breakfast-House-Restaurant-Ventura,4.5,528,-119.2694473,34.2779808
+14,Passin The Baton,Sip and Bite Restaurant,Baltimore,Maryland,Sip-and-Bite-Restaurant-Baltimore,3.5,228,-76.5855017,39.283894
+14,Big Time Flavor,Marlas Caribbean Cuisine,Minneapolis,Minnesota,Marlas-Caribbean-Cuisine-Minneapolis,4,122,-93.252243,44.9342613
+14,Big Time Flavor,Cane Rosso,Dallas,Texas,Cane-Rosso-Dallas,4,868,-96.785507,32.782503
+14,Big Time Flavor,Counter Cafe,Austin,Texas,Counter-Cafe-Austin,3.5,417,-97.753714,30.2725857
+14,Unexpected Eats,Smalleys Caribbean Barbeque,Stillwater,Minnesota,Smalleys-Caribbean-Barbeque-Stillwater,4,167,-92.8042679,45.0539513
+14,Unexpected Eats,Johnny Garlics,Santa Rosa,California,Johnny-Garlics-Santa-Rosa,2.5,23,-122.7355603874,38.4720712155
 14,Unexpected Eats,Harveys Hot Dogs II,Portsmouth,Virginia,Harveys-Hot-Dogs-II-Portsmouth,Closed,Closed,-76.298274,36.835426
-14,BBQ Road Show,Pecan Lodge,Dallas,Texas,Pecan-Lodge-Dallas,4,352,-96.7969879,32.7766642
-14,BBQ Road Show,John Mulls Meats and Road Kill Grill,Las Vegas,Nevada,John-Mulls-Meats-and-Road-Kill-Grill-Las-Vegas,4.5,406,-115.1398296,36.1699412
-14,All Vegas All the Time,Naked City Pizza,Las Vegas,Nevada,Naked-City-Pizza-Las-Vegas,4,323,-115.1398296,36.1699412
-14,All Vegas All the Time,Forte European Tapas Bar and Bistro,Las Vegas,Nevada,Forte-European-Tapas-Bar-and-Bistro-Las-Vegas,4,245,-115.1398296,36.1699412
-14,All Vegas All the Time,UNLV,Las Vegas,Nevada,UNLV-Las-Vegas,4.5,44,-115.1398296,36.1699412
-14,Serious Sandwiches,Lolas - A Louisiana Kitchen,Las Vegas,Nevada,Lolas-A-Louisiana-Kitchen-Las-Vegas,4,86,-115.1398296,36.1699412
-14,Serious Sandwiches,Noble Pig Sandwiches,Austin,Texas,Noble-Pig-Sandwiches-Austin,4.5,478,-97.7430608,30.267153
-14,Serious Sandwiches,Casper and Runyons Nook,Saint Paul,Minnesota,Caspers-and-Runyons-Nook-Saint-Paul,4.5,517,-93.0899578,44.9537029
-14,International Eats,Bachi Burger,Las Vegas,Nevada,Bachi-Burger-Las-Vegas,4,2119,-115.1398296,36.1699412
-14,International Eats,Afrah,Richardson,Texas,Afrah-Mediterranean-Restaurant-and-Pastries-Richardson,4,412,-96.7298519,32.9483335
-14,International Eats,Gazalas Place,Manhattan,New York,Gazala-Place-New-York,3.5,219,-73.9712488,40.7830603
-14,Belly Up,Hopleaf Bar,Chicago,Illinois,Hopleaf-Bar-Chicago,4,1636,-87.6297982,41.8781136
-14,Belly Up,Foreign and Domestic,Austin,Texas,Foreign-and-Domestic-Austin,3.5,431,-97.7430608,30.267153
-14,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,Honolulu,Hawaii,Jawaiian-Irie-Jerk-Restaurant-Honolulu,4.5,312,-157.8583333,21.3069444
-14,Dynamic Dishes,Taste of Europe,Arlington,Virginia,Taste-of-Europe-Arlington-2,4.5,64,-77.1067698,38.8799697
-14,Dynamic Dishes,Yayo Taco,Las Vegas,Nevada,Yayo-Taco-Las-Vegas,3.5,216,-115.1398296,36.1699412
-14,Coast to Coast Chow,Camilles on Wheels,Kailua,Hawaii,Camilles-on-Wheels-Kailua,4.5,68,-157.7394444,21.4022222
-14,Coast to Coast Chow,Chicago Brauhaus,Chicago,Illinois,Chicago-Brauhaus-Chicago,3.5,488,-87.6297982,41.8781136
-14,Coast to Coast Chow,Dixie Supply Bakery and Cafe,Charleston,South Carolina,Dixie-Supply-Bakery-and-Cafe-Charleston,3.5,135,-79.9310512,32.7764749
-15,Unconventional Comforts,Heeia Kea Pier General Store and Deli,Kaneohe,Hawaii,Heeia-Kea-Pier-General-Store-and-Deli-Kaneohe,3.5,174,-157.7973653,21.3996475
-15,Unconventional Comforts,Rex Italian Foods,Norridge,Illinois,Rex-Italian-Foods-Norridge,4,146,-87.827284,41.9633641
-15,Unconventional Comforts,Memphis Street Cafe,Hernando,Mississippi,Memphis-Street-Cafe-Hernando,4.5,15,-89.993702,34.823987
-15,Goin the Extra Mile,bopNgrill,Chicago,Illinois,bopNgrill-Chicago,4,497,-87.6297982,41.8781136
-15,Goin the Extra Mile,Sweet Home Waimanalo,Waimanalo,Hawaii,Sweet-Home-Waimanalo-Waimanalo,4,280,-157.7219293,21.3461219
-15,Savory Standouts,90 Miles Cuban Cafe,Chicago,Illinois,90-Miles-Cuban-Cafe-Chicago,4,602,-87.6297982,41.8781136
-15,Savory Standouts,Davis Pub,Annapolis,Maryland,Davis-Pub-Annapolis,4,144,-76.4921829,38.9784453
-15,Surf N Turf Jackpot,Memphis Barbecue Co.,Horn Lake,Mississippi,Memphis-Barbecue-Company-Horn-Lake-2,4,203,-90.0348139,34.9553719
-15,Surf N Turf Jackpot,Fresh Catch,Honolulu,Hawaii,Fresh-Catch-Honolulu,4,373,-157.8583333,21.3069444
-15,Massachusetts Madness,Italian Express Pizzeria,East Boston,Massachusetts,Italian-Express-Pizzeria-Boston-2,4,167,-71.0388601,42.3702137
-15,Massachusetts Madness,Cuttys,Brookline,Massachusetts,Cuttys-Brookline,4,231,-71.1211635,42.3317642
-15,East Coast Comfort,Tupelo,Cambridge,Massachusetts,Tupelo-Cambridge,4,523,-71.1097335,42.3736158
-15,East Coast Comfort,Pattis Pierogis,Fall River,Massachusetts,Pattis-Pierogis-Fall-River,4.5,117,-71.1550451,41.7014912
-15,East Coast Comfort,Angelos Civito Farnese,Providence,Rhode Island,Angelos-Civita-Farnese-Providence,3.5,98,-71.4128343,41.8239891
-15,East Coast Comfort,Mediterraneo Caffe,Providence,Rhode Island,Mediterraneo-Caffe-Providence,3.5,191,-71.4128343,41.8239891
-15,Flavortown Medley,South Of Beale (SOB),Memphis,Tennessee,South-Of-Beale-Memphis,4,150,-90.0489801,35.1495343
-15,Flavortown Medley,Big Wave Shrimp Truck,Haleiwa,Hawaii,Big-Wave-Shrimp-Haleiwa,4,100,-158.1034112,21.5927614
-15,Flavortown Medley,Chaps Pit Beef,Baltimore,Maryland,Chaps-Pit-Beef-Baltimore,4,554,-76.6121893,39.2903848
-15,Burgers Noodles and Quahogs,Boston Burger Company,Boston,Massachusetts,Boston-Burger-Company-Boston,4,305,-71.0588801,42.3600825
-15,Burgers Noodles and Quahogs,Anthonys Seafood,Middletown,Rhode Island,Anthonys-Seafood-Middletown,4.5,388,-72.6506488,41.5623209
-15,Burgers Noodles and Quahogs,Guerilla Street Food,Saint Louis,Missouri,Guerilla-Street-Food-Saint-Louis,4.5,75,-90.1994042,38.6270025
-15,Handcrafted,The Elegant Farmer,Mukwonago,Wisconsin,The-Elegant-Farmer-Mukwonago,4,58,-88.3334274,42.8666803
-15,Handcrafted,Italian Corner,East Providence,Rhode Island,Italian-Corner-East-Providence,4.5,81,-71.3700545,41.8137116
-15,All Family All the Time,Anthoninos Taverna,Saint Louis,Missouri,Anthoninos-Taverna-Saint-Louis,4,254,-90.1994042,38.6270025
-15,All Family All the Time,Three Angels Diner,Memphis,Tennessee,Three-Angels-Diner-Memphis,3.5,74,-90.0489801,35.1495343
-15,All Family All the Time,Opal Thai Food,Haleiwa,Hawaii,Opal-Thai-Food-Haleiwa,4.5,730,-158.1034112,21.5927614
-15,Food Done Right,Aunt Carries,Narragansett,Rhode Island,Aunt-Carries-Restaurant-Narragansett,3,132,-71.449503,41.4500844
-15,Food Done Right,The Shaved Duck,Saint Louis,Missouri,The-Shaved-Duck-Saint-Louis,4.5,694,-90.1994042,38.6270025
-15,Food Done Right,Angelas Cafe,East Boston,Massachusetts,Angelas-Cafe-Boston-3,4,231,-71.0388601,42.3702137
-15,Pubs and Grub,Dressels Public House,Saint Louis,Missouri,Dressels-Public-House-Saint-Louis,4,221,-90.1994042,38.6270025
-15,Pubs and Grub,Outer Banks Brewing Station,Kill Devil Hills,North Carolina,Outer-Banks-Brewing-Station-Kill-Devil-Hills,3.5,380,-75.6760101,36.0307226
-15,Pubs and Grub,Edgewood Cafe,Cranston,Rhode Island,Edgewood-Cafe-Cranston,4.5,58,-71.4372796,41.7798226
-15,Turn On Traditional,Kitty Hoynes,Syracuse,New York,Kitty-Hoynes-Irish-Pub-and-restaurant-Syracuse,4,103,-76.1474244,43.0481221
-15,Turn On Traditional,Espinos Mexican Bar and Grill,Chesterfield,Missouri,Espinos-Mexican-Bar-and-Grill-Chesterfield,3,99,-90.577067,38.663108
-15,Turn On Traditional,Yankee Lobster Company,Boston,Massachusetts,Yankee-Lobster-Fish-Market-Boston,4,615,-71.0588801,42.3600825
-16,Authentic Eats,Highway 61 Roadhouse and Kitchen,Webster Groves,Missouri,Hwy-61-Roadhouse-and-Kitchen-Saint-Louis,3.5,174,-90.3573389,38.5925524
-16,Authentic Eats,Byblos Mediterranean Cafe,Syracuse,New York,Byblos-Mediterranean-Cafe-Syracuse,4,55,-76.1474244,43.0481221
-16,Fully Focused,Brine and Bottle,Nags Head,North Carolina,Brine-and-Bottle-Nags-Head,4.5,76,-75.6240619,35.9573922
-16,Fully Focused,Pastabilities,Syracuse,New York,Pastabilities-Syracuse,4,257,-76.1474244,43.0481221
-16,Far Out,La Isla Restaurant,Hoboken,New Jersey,La-Isla-Restaurant-Hoboken,4,552,-74.0323626,40.7439905
-16,Far Out,Funk n Waffles,Syracuse,New York,Funk-n-Waffles-Syracuse,3.5,150,-76.1474244,43.0481221
-16,Far Out,Cravings,Duck,North Carolina,Coastal-Cravings-Duck,4,122,-75.755185,36.169608
-16,Matches Made in Heaven,Ortegaz Southwestern Grill,Manteo,North Carolina,Ortegaz-Manteo-2,4,47,-75.6757302,35.9082256
-16,Matches Made in Heaven,The Smoke Joint,Brooklyn,New York,The-Smoke-Joint-Brooklyn,3.5,676,-73.9441579,40.6781784
-16,Savory Sensations,The Weeping Radish,Jarvisburg,North Carolina,Weeping-Radish-Farm-Brewery-Grandy,4,73,-75.8665816,36.202939
-16,Savory Sensations,Jimmys Diner,Brooklyn,New York,Jimmys-Diner-Brooklyn,4,438,-73.9441579,40.6781784
-16,Hometown Haunts,Maries Italian Specialties,Chatham,New Jersey,Maries-Italian-Specialties-Chatham,4,153,-74.383762,40.740934
-16,Hometown Haunts,Darbys Cafe,Olympia,Washington,Darbys-Cafe-Olympia,3,226,-122.9006951,47.0378741
-16,Land to Sea,Empire Brewing Company,Syracuse,New York,Empire-Brewing-Company-Syracuse,3.5,220,-76.1474244,43.0481221
-16,Land to Sea,Black Pelican Oceanfront Restaurant,Kitty Hawk,North Carolina,Black-Pelican-Kitty-Hawk,3.5,261,-75.7057346,36.0646102
-16,Land to Sea,Fish Tale Brew Pub,Olympia,Washington,Fish-Tale-Brew-Pub-Olympia,3.5,342,-122.9006951,47.0378741
-16,Decadent Dishes,Crocketts Public House,Puyallup,Washington,Crocketts-Public-House-Puyallup,4,460,-122.2928974,47.1853785
-16,Decadent Dishes,Pies N Thighs,Brooklyn,New York,Pies-N-Thighs-Brooklyn,4,1661,-73.9441579,40.6781784
-16,Eurocentric,Evas European Sweets,Syracuse,New York,Evas-European-Sweets-Syracuse,5,55,-76.1474244,43.0481221
-16,Eurocentric,Brunos European Restaurant,Tacoma,Washington,Brunos-European-Restaurant-Tacoma,4,127,-122.4442906,47.2528768
-16,Eurocentric,Hey Meatball,Toronto,Ontario,Hey-Meatball-Toronto,4,138,-79.3831843,43.653226
-16,Hittin the Grill,Crown Bar,Tacoma,Washington,Crown-Bar-Tacoma,3.5,76,-122.4442906,47.2528768
-16,Hittin the Grill,The Golden State,Los Angeles,California,The-Golden-State-Los-Angeles,4,1107,-118.2436849,34.0522342
-16,Unlikely Partners,Beer Belly,Los Angeles,California,Beer-Belly-Los-Angeles,4,1497,-118.2436849,34.0522342
-16,Unlikely Partners,Lakeview Restaurant,Toronto,Ontario,The-Lakeview-Toronto,3.5,247,-79.3831843,43.653226
-16,Layers of Flavor,Tortugas Lie,Nags Head,North Carolina,Tortugas-Lie-Nags-Head,4,277,-75.6240619,35.9573922
-16,Layers of Flavor,The Ace,Toronto,Ontario,The-Ace-Toronto,4,88,-79.3831843,43.653226
-16,Real Deal Roots,Chomp Chomp Nation,Irvine,California,Chomp-Chomp-Nation-Irvine,3.5,183,-117.7946942,33.6839473
-16,Real Deal Roots,Caplanskys,Toronto,Ontario,Caplanskys-Delicatessen-Toronto,3.5,289,-79.3831843,43.653226
-17,Tacos and Tots,Dirty Oscars Annex,Tacoma,Washington,Dirty-Oscars-Annex-Tacoma,4,458,-122.4442906,47.2528768
-17,Tacos and Tots,Highland Tavern,Denver,Colorado,Highland-Tavern-Denver,4,297,-104.990251,39.7392358
-17,Chicken Chili and Chowder,Sidecar Bar and Grille,Philadelphia,Pennsylvania,The-Sidecar-Bar-and-Grille-Philadelphia,4,447,-75.1652215,39.9525839
-17,Chicken Chili and Chowder,Chili Johns,Burbank,California,Chili-Johns-Burbank,4,351,-118.3089661,34.1808392
-17,Chicken Chili and Chowder,Stockyards Smokehouse and Larder,Toronto,Ontario,Stockyards-Smokehouse-and-Larder-Toronto,4,466,-79.3831843,43.653226
-17,Dynamic Duos,Atomic Cowboy,Denver,Colorado,Atomic-Cowboy-Denver,4,230,-104.990251,39.7392358
-17,Dynamic Duos,Perk Eatery,Scottsdale,Arizona,Perk-Eatery-Scottsdale,4,251,-111.9260519,33.4941704
-17,Traditional Gone Wild,South Philadelphia Tap Room,Philadelphia,Pennsylvania,South-Philadelphia-Tap-Room-Philadelphia,4,380,-75.1652215,39.9525839
-17,Traditional Gone Wild,St. Francis,Phoenix,Arizona,St-Francis-Restaurant-Phoenix,4,932,-112.0740373,33.4483771
-17,Peppers Pork and Poutine,Barrio Cafe,Phoenix,Arizona,Barrio-Cafe-Phoenix,4,724,-112.0740373,33.4483771
-17,Peppers Pork and Poutine,Rosedale Diner,Toronto,Ontario,Rosedale-Diner-Toronto,3,51,-79.3831843,43.653226
-17,Kings and Queens of Cue,Hops and Pie,Denver,Colorado,Hops-and-Pie-Denver,4,465,-104.990251,39.7392358
-17,Kings and Queens of Cue,Bludsos BBQ,Compton,California,Bludsos-BBQ-Compton,4.5,1397,-118.2200712,33.8958492
-17,Kings and Queens of Cue,Percy Street Barbecue,Philadelphia,Pennsylvania,Percy-Street-Barbecue-Philadelphia,4,619,-75.1652215,39.9525839
-17,A Festival of Flavor,Standard Tap,Philadelphia,Pennsylvania,Standard-Tap-Philadelphia,4,546,-75.1652215,39.9525839
-17,A Festival of Flavor,Curry Corner,Tempe,Arizona,Curry-Corner-Tempe,3.5,273,-111.9400054,33.4255104
-17,A Festival of Flavor,Prohibition,Denver,Colorado,Prohibition-Denver,4,262,-104.990251,39.7392358
-17,Timeless Traditions,Jamaican Jerk Hut,Philadelphia,Pennsylvania,Jamaican-Jerk-Hut-Philadelphia,3,187,-75.1652215,39.9525839
-17,Timeless Traditions,DeFalcos Italian Grocery,Scottsdale,Arizona,DeFalcos-Italian-Grocery-Scottsdale,4.5,619,-111.9260519,33.4941704
-17,Timeless Traditions,CoraFayes Cafe,Denver,Colorado,CoraFayes-Cafe-Denver,4,134,-104.990251,39.7392358
-17,From Pound Cake to Pot Pie,Geechee Girl Rice Cafe,Philadelphia,Pennsylvania,Geechee-Girl-Rice-Cafe-Philadelphia,3.5,48,-75.1652215,39.9525839
-17,From Pound Cake to Pot Pie,Haggos Organic Taco,Leucadia,California,Haggos-Organic-Taco-Leucadia,4.5,239,-117.3033709,33.0680967
-17,From Pound Cake to Pot Pie,The Duce,Phoenix,Arizona,The-Duce-Phoenix,3.5,352,-112.0740373,33.4483771
-17,L.A. Eats,The Parks Finest BBQ,Los Angeles,California,The-Parks-Finest-BBQ-Los-Angeles,4,909,-118.2436849,34.0522342
-17,L.A. Eats,Eastside Market Italian Deli,Los Angeles,California,Eastside-Market-Italian-Deli-Los-Angeles,4.5,641,-118.2436849,34.0522342
-17,All San Diego All the Time,Hodads,Ocean Beach,California,Hodads-Ocean-Beach,4,3962,-117.2470353,32.7494988
-17,All San Diego All the Time,OB Noodle House,Ocean Beach,California,OB-Noodle-House-Ocean-San-Diego,4,1681,-117.2470353,32.7494988
-17,All San Diego All the Time,Pizzeria Luigi,North Park,California,Pizzeria-Luigi-San-Diego-2,4,606,-117.129417,32.745648
-17,From the Heart,Shirleys Tippy Canoe,Troutdale,Oregon,Shirleys-Tippy-Canoe-Troutdale,3.5,151,-122.3873133,45.5392862
-17,From the Heart,Spiritos Italian Diner,Carlsbad,California,Spiritos-Italian-Diner-Carlsbad,4,176,-117.3505939,33.1580933
-17,From the Heart,Nopalito,San Francisco,California,Nopalito-San-Francisco,4,1341,-122.4194155,37.7749295
-17,Thats Fresh,Pica Pica,San Francisco,California,Pica-Pica-San-Francisco,3.5,59,-122.4194155,37.7749295
-17,Thats Fresh,Edelweiss Sausage and Delicatessen,Portland,Oregon,Edelweiss-Sausage-and-Delicatessen-Portland,4,114,-122.6764816,45.5230622
-18,Neighborhood Knockouts,Crest Cafe,San Diego,California,Crest-Cafe-San-Diego,3.5,722,-117.1610838,32.715738
-18,Neighborhood Knockouts,Show Dogs,San Francisco,California,Show-Dogs-San-Francisco,4,633,-122.4194155,37.7749295
-18,Neighborhood Knockouts,Industrial Cafe and Saloon,Portland,Oregon,Industrial-Cafe-and-Saloon-Portland,4,118,-122.6764816,45.5230622
-18,Meat Lovers Paradise,The Country Cat,Portland,Oregon,The-Country-Cat-Portland,4,18,-122.6764816,45.5230622
-18,Servin Up San Francisco,Millers East Coast Deli,San Francisco,California,Millers-East-Coast-Deli-San-Francisco,4,1117,-122.4194155,37.7749295
-18,Servin Up San Francisco,The Front Porch,San Francisco,California,The-Front-Porch-San-Francisco,4,1878,-122.4194155,37.7749295
-18,Cannoli Fritters and Wings,Senor Sisig Food Truck,San Francisco,California,Senor-Sisig-San-Francisco-3,4,893,-122.4194155,37.7749295
-18,Cannoli Fritters and Wings,A Taste of Home Cooking,Wheat Ridge,Colorado,A-Taste-of-Home-Cooking-Wheat-Ridge,3,9,-105.0772063,39.766098
-18,Cannoli Fritters and Wings,PDX671 Food Trailer,Portland,Oregon,PDX-Six-Seven-One-Portland,4.5,50,-122.6764816,45.5230622
-18,Aces of Authenticity,Casa Chimayo Restaurant,Santa Fe,New Mexico,Casa-Chimayo-Restaurant-Santa-Fe,4,245,-105.937799,35.6869752
-18,Aces of Authenticity,Franks Noodle House,Portland,Oregon,Franks-Noodle-House-Portland,4,554,-122.6764816,45.5230622
-18,Aces of Authenticity,Torinos,Albuquerque,New Mexico,Torinos-Home-Albuquerque,4,112,-106.6055534,35.0853336
-18,Sammies and Stew,Jambo Cafe,Santa Fe,New Mexico,Jambo-Cafe-Santa-Fe,4.5,277,-105.937799,35.6869752
-18,Sammies and Stew,Bocadillos,Albuquerque,New Mexico,Bocadillos-Albuquerque,4.5,61,-106.6055534,35.0853336
-18,All Kinds of Gobble Gobble,Back Street Bistro,Santa Fe,New Mexico,Back-Street-Bistro-Santa-Fe,4,30,-105.937799,35.6869752
-18,All Kinds of Gobble Gobble,Golden Crown Panaderia,Albuquerque,New Mexico,Golden-Crown-Panaderia-Albuquerque,4.5,180,-106.6055534,35.0853336
-18,All Kinds of Gobble Gobble,Danny Edwards BBQ,Kansas City,Missouri,Danny-Edwards-BBQ-Kansas-City,4,108,-94.5785667,39.0997265
-18,Comfort and Soul,Tin Shed Garden Cafe,Portland,Oregon,Tin-Shed-Portland,4,884,-122.6764816,45.5230622
-18,Comfort and Soul,Nexus Brewery,Albuquerque,New Mexico,Nexus-Brewery-Albuquerque,4,243,-106.6055534,35.0853336
-18,Comfort and Soul,BBs Lawnside BBQ,Kansas City,Missouri,B-B-s-Lawnside-BBQ-Kansas-City,4,132,-94.5785667,39.0997265
-18,Pork Pasta and Barbecue,Succotash,Kansas City,Missouri,Succotash-Kansas-City,3.5,300,-94.5785667,39.0997265
-18,Pork Pasta and Barbecue,Cupinis,Kansas City,Missouri,Cupinis-Kansas-City,4,140,-94.5785667,39.0997265
-18,Pork Pasta and Barbecue,The Cube,Albuquerque,New Mexico,The-Cube-Albuquerque,3.5,177,-106.6055534,35.0853336
-18,South of the Border,Asi y Asado,Cabo San Lucas,Mexico,Asi-y-Asado-Cabo-San-Lucas,3.5,6,-109.9167371,22.8905327
-18,South of the Border,Solomons Landing,Cabo San Lucas,Mexico,Solomons-Landing-Restaurant-Cabo-San-Lucas,4,39,-109.9167371,22.8905327
-18,South of the Border,Tiki Bar,Cabo San Lucas,Mexico,Tiki-Bar-Cabo-San-Lucas,4.5,7,-109.9167371,22.8905327
-18,Tennessee Holiday Traditions,Center Point Pit Barbecue,Hendersonville,Tennessee,Center-Point-Barbecue-Hendersonville,3.5,59,-82.4609528,35.3187279
-18,Tennessee Holiday Traditions,Mas Tacos por Favor,Nashville,Tennessee,Mas-Tacos-Nashville,4.5,375,-86.7816016,36.1626638
-18,Family Time,The Grilled Cheeserie,Nashville,Tennessee,The-Grilled-Cheeserie-Nashville,4,107,-86.7816016,36.1626638
-18,Family Time,Caffe Nonna,Nashville,Tennessee,Caffe-Nonna-Nashville,4,115,-86.7816016,36.1626638
-18,Family Time,Blue Koi,Kansas City,Missouri,Blue-Koi-Kansas-City,4,240,-94.5785667,39.0997265
-18,Soup Salad and Seafood,Pot Pie,Kansas City,Missouri,PotPie-Kansas-City,4,226,-94.5785667,39.0997265
-18,Soup Salad and Seafood,55 South,Franklin,Tennessee,55-South-Franklin,3.5,160,-86.8688899,35.9250637
-18,Soup Salad and Seafood,Phat Bites,Nashville,Tennessee,Phat-Bites-Nashville,4,75,-86.7816016,36.1626638
-19,Guys Hometown Tour,Clendenens Cider Works,Fortuna,California,Clendenens-Cider-Works-Fortuna,4.5,10,-124.1572756,40.5981867
-19,Guys Hometown Tour,Loleta Cheese Shop,Loleta,California,Loleta-Cheese-Factory-Loleta,4,70,-124.2263437,40.6411002
-19,Guys Hometown Tour,Ferndale Meat Co.,Ferndale,California,Ferndale-Meat-Ferndale,4,7,-83.1346478,42.4605917
-19,Guys Hometown Tour,Ivanhoe,Ferndale,California,Hotel-Ivanhoe-Ferndale,4.5,52,-83.1346478,42.4605917
-19,Guys Hometown Tour,Humboldt Sweets,Ferndale,California,Humboldt-Sweets-Ferndale,4.5,37,-83.1346478,42.4605917
-19,All Things NY,Black Tree,Manhattan,New York,Black-Tree-New-York,4,214,-73.9712488,40.7830603
-19,All Things NY,Queens Comfort,Queens,New York,Queens-Comfort-Queens,4,887,-73.7948516,40.7282239
-19,All Things NY,Pauls Live From New York,Eureka,California,Pauls-Live-From-New-York-Eureka,3.5,101,-124.1636729,40.8020712
-19,Big Time Bites,Bun-Ker Vietnamese,Queens,New York,Bunker-Vietnamese-Ridgewood,4,355,-73.7948516,40.7282239
-19,Big Time Bites,Brindle Room,Manhattan,New York,Brindle-Room-New-York,4,518,-73.9712488,40.7830603
-19,Big Time Bites,Brick and Fire,Eureka,California,Brick-and-Fire-Bistro-Eureka,4.5,355,-124.1636729,40.8020712
-19,Keepin It Real,Sakaya Kitchen,Miami,Florida,Sakaya-Kitchen-Miami,3.5,413,-80.1917902,25.7616798
-19,Keepin It Real,Don Antonio By Starita,Manhattan,New York,Don-Antonio-New-York-2,4,524,-73.9712488,40.7830603
-19,Keepin It Real,Bless My Soul,Eureka,California,Bless-My-Soul-Cafe-Eureka,4,200,-124.1636729,40.8020712
-19,Dynamite Duos,Ducks Eatery,Manhattan,New York,Ducks-Eatery-New-York-2,4,302,-73.9712488,40.7830603
-19,Dynamite Duos,Whisk Gourmet,Miami,Florida,Whisk-Gourmet-Miami,4,617,-80.1917902,25.7616798
-19,Dynamite Duos,Cafe Nooner,Eureka,California,Cafe-Nooner-Eureka,4,112,-124.1636729,40.8020712
-19,Kickin It in Key West,Garbos Grill,Key West,Florida,Garbos-Grill-Key-West,5,1,-81.7799871,24.5550593
-19,Kickin It in Key West,Djs Clam Shack,Key West,Florida,Djs-Clam-Shack-Key-West,4.5,472,-81.7799871,24.5550593
-19,Kickin It in Key West,Badboy Burrito,Key West,Florida,Bad-boy-Burrito-Key-West,3.5,93,-81.7799871,24.5550593
-19,From Meatballs to Lollipops,Maxwells East Coast Eatery,Salt Lake City,Utah,Maxwells-East-Coast-Eatery-Salt-Lake-City,3.5,158,-111.8910474,40.7607793
-19,From Meatballs to Lollipops,Tin Roof Grill,Sandy,Utah,Tin-Roof-Grill-Sandy,3.5,124,-111.8389726,40.5649781
-19,From Meatballs to Lollipops,The Latin House,Miami,Florida,Latin-House-Miami,3.5,388,-80.1917902,25.7616798
-19,Cross Country Comfort Food,The Silver Star Cafe,Park City,Utah,Silver-Star-Cafe-Park-City,4,96,-111.4979729,40.6460622
-19,Cross Country Comfort Food,Sammys Bistro,Park City,Utah,Sammys-Bistro-Park-City-2,4,162,-111.4979729,40.6460622
-19,Cross Country Comfort Food,Blue Collar,Miami,Florida,Blue-Collar-Miami,4.5,719,-80.1917902,25.7616798
-19,International Family Style,Artisos,Salt Lake City,Utah,Artisos-Greek-Restaurant-and-Cafe-Salt-Lake-City-2,4,167,-111.8910474,40.7607793
-19,International Family Style,Boots and Kimos Homestyle Kitchen,Kailua,Hawaii,Boots-and-Kimos-Homestyle-Kitchen-Kailua,3.5,1798,-157.7394444,21.4022222
-19,International Family Style,Oh Mai,Holladay,Utah,Oh-Mai-Sandwich-Sandwich-Kitchen-Holladay,4.5,179,-111.8246557,40.6688363
-19,Island Flavor,Deans Drive Inn,Kaneohe,Hawaii,Deans-Drive-Inn-Kaneohe,4.5,165,-157.7973653,21.3996475
-19,Island Flavor,The Alley Restaurant At Aiea Bowl,Aiea,Hawaii,The-Alley-Restaurant-At-Aiea-Bowl-Aiea,4,660,-157.9255357,21.386338
-19,Island Flavor,Elenas Restaurant,Waipahu,Hawaii,Elenas-Restaurant-Waipahu,4,1,-158.0091667,21.3866667
-19,Grillin Chillin and Huli Huli Chicken,The Federal,Miami,Florida,The-Federal-Miami,3.5,483,-80.1917902,25.7616798
-19,Grillin Chillin and Huli Huli Chicken,Mikes Huli Huli Chicken,Kaneohe,Hawaii,Mikes-Huli-Chicken-Kaneohe,4,324,-157.7973653,21.3996475
-19,Grillin Chillin and Huli Huli Chicken,Tamarindo Truck,Orange County,California,Tamarindo-Truck-Orange-County,4,73,-117.8311428,33.7174708
-19,Righteous Bites,Loulous Griddle In The Middle,Monterey,California,Loulous-Griddle-In-The-Middle-Monterey,4,585,-121.8946761,36.6002378
-19,Righteous Bites,Fat Sals Deli,Los Angeles,California,Fat-Sals-Deli-Los-Angeles,4,668,-118.2436849,34.0522342
-19,Righteous Bites,The Alley Restaurant At Aiea Bowl,Aiea,Hawaii,The-Alley-Restaurant-At-Aiea-Bowl-Aiea,4,660,-157.9255357,21.386338
-19,Vegas Greats,Bachi Burger,Las Vegas,Nevada,Bachi-Burger-Las-Vegas,4,2119,-115.1398296,36.1699412
-19,Vegas Greats,John Mulls Road Kill Grill,Las Vegas,Nevada,John-Mulls-Meats-and-Road-Kill-Grill-Las-Vegas-2,4.5,406,-115.1398296,36.1699412
-19,Vegas Greats,Naked City Pizza,Las Vegas,Nevada,Naked-City-Pizza-Las-Vegas,4,323,-115.1398296,36.1699412
-19,Vegas Greats,Forte European Tapas Bar and Bistro,Las Vegas,Nevada,Forte-European-Tapas-Bar-and-Bistro-Las-Vegas,4,245,-115.1398296,36.1699412
-19,Vegas Greats,UNLV,Las Vegas,Nevada,UNLV-Las-Vegas,4.5,44,-115.1398296,36.1699412
-19,Crazy for Chicken,Uncle Lous,Memphis,Tennessee,Uncle-Lous-Fried-Chicken-Memphis,4.5,186,-90.0489801,35.1495343
-19,Crazy for Chicken,Tortugas Lie,Nags Head,North Carolina,Tortugas-Lie-Nags-Head,4,277,-75.6240619,35.9573922
-19,Crazy for Chicken,90 Miles Cuban Cafe,Chicago,Illinois,90-Miles-Cuban-Cafe-Chicago,4,602,-87.6297982,41.8781136
-19,Crazy for Chicken,Taco Taco Cafe,San Antonio,Texas,Taco-Taco-Cafe-San-Antonio,3,289,-98.4936282,29.4241219
-19,Crazy for Chicken,Rincon Criollo,Queens,New York,Rincon-Criollo-Queens,4.5,448,-73.7948516,40.7282239
-19,Crazy for Chicken,Tocabe American Indian Eatery,Denver,Colorado,Tocabe-American-Indian-Eatery-Denver,4,459,-104.990251,39.7392358
-19,Crazy for Chicken,The Glass Onion,Charleston,South Carolina,The-Glass-Onion-Charleston,4,185,-79.9310512,32.7764749
-19,Crazy for Chicken,Opal Thai Food,Haleiwa,Hawaii,Opal-Thai-Food-Haleiwa,4.5,730,-158.1034112,21.5927614
-19,Crazy for Chicken,PotPie,Kansas City,Missouri,PotPie-Kansas-City,4,226,-94.5785667,39.0997265
-19,Crazy for Chicken,Smalleys Caribbean Barbeque,Stillwater,Minnesota,Smalleys-Caribbean-Barbeque-Stillwater,4,167,-92.8088443,45.056004
-19,Grilling Greats,Toms Bar-B-Q,Memphis,Tennessee,Toms-Barbecue-and-Deli-Memphis-3,4.5,165,-90.0489801,35.1495343
-19,Grilling Greats,Lukes Inside Out,Austin,Texas,Lukes-Inside-Out-Austin,4.5,186,-97.7430608,30.267153
-19,Grilling Greats,Caplanskys Deli,Toronto,Ontario,Caplanskys-Deli-Toronto,3.5,289,-79.3831843,43.653226
-19,Grilling Greats,Dannys All-American Diner and Dairy Bar,Tampa,Florida,Dannys-All-American-Diner-and-Dairy-Bar-Tampa,4,115,-82.4571776,27.950575
-19,Grilling Greats,Ricks Press Room Grill and Bar,Meridian,Idaho,Ricks-Press-Room-Grill-and-Bar-Meridian,4.5,44,-116.3915131,43.6121087
-19,Grilling Greats,Maple and Motor,Dallas,Texas,Maple-and-Motor-Dallas,4,747,-96.7969879,32.7766642
-19,Grilling Greats,Jawaiian Irie Jerk Restaurant,Honolulu,Hawaii,Jawaiian-Irie-Jerk-Restaurant-Honolulu,4.5,312,-157.8583333,21.3069444
-20,California Cruisin,Sabroso Mexican Grill,Garden Grove,California,Sabroso-Mexican-Grill-Garden-Grove,4.5,1053,-117.9414477,33.7739053
-20,California Cruisin,Monterey Fish House,Monterey,California,Monterey-Fish-House-Monterey,4,1016,-121.8946761,36.6002378
-20,California Cruisin,Rutts Hawaiian Cafe,Los Angeles,California,Rutts-Hawaiian-Cafe-Los-Angeles,4,925,-118.2436849,34.0522342
-20,Stuffed and Twisted,Sidewinders American Grill,Jackson,Wyoming,Sidewinders-Smokehouse-and-Tavern-Jackson,3.5,57,-90.1848103,32.2987573
-20,Stuffed and Twisted,Rosines Restaurant,Monterey,California,Rosines-Restaurant-Monterey,4,544,-121.8946761,36.6002378
-20,Stuffed and Twisted,Blunch,Boston,Massachusetts,Blunch-Boston,4.5,245,-71.0588801,42.3600825
-20,Old Standards New Styles,Pinky Gs Pizzeria,Jackson,Wyoming,Pinky-Gs-Pizzeria-Jackson,4,109,-90.1848103,32.2987573
-20,Old Standards New Styles,The Starling Diner,Long Beach,California,Starling-Diner-Long-Beach,4,1001,-118.1937395,33.7700504
-20,Old Standards New Styles,Cannery Row Brewing Company,Monterey,California,Cannery-Row-Brewing-Company-Monterey,3.5,927,-121.8946761,36.6002378
-20,From Standards to Standouts,Factory Gastrobar,Long Beach,California,The-Factory-Gastrobar-Long-Beach,3.5,398,-118.1937395,33.7700504
-20,From Standards to Standouts,Picas Mexican Taqueria,Jackson,Wyoming,Picas-Mexican-Taqueria-Jackson,3,42,-90.1848103,32.2987573
-20,From Standards to Standouts,Little Napoli,Carmel,California,Little-Napoli-Carmel,4,693,-121.9232879,36.5552386
-20,All Day Dining,Wild Plum Cafe and Bistro,Monterey,California,The-Wild-Plum-Cafe-and-Bakery-Monterey,3.5,452,-121.8946761,36.6002378
-20,All Day Dining,Noras Fish Creek Inn,Wilson,Wyoming,Noras-Fish-Creek-Inn-Wilson,3.5,83,-77.9155395,35.7212689
-20,All Day Dining,Tavern on 2,Long Beach,California,Tavern-on-2-Long-Beach,4,666,-118.1937395,33.7700504
-21,Roadtrippin in Beantown,Cafe Polonia,Boston,Massachusetts,Cafe-Polonia-Boston,4.5,256,-71.0588801,42.3600825
-21,Roadtrippin in Beantown,Lone Star Taco Bar,Allston,Massachusetts,Lone-Star-Taco-Bar-Allston,4,252,-71.1337112,42.3539038
-21,Roadtrippin in Beantown,Deep Ellum,Allston,Massachusetts,Deep-Ellum-Allston,4,854,-71.1337112,42.3539038
-21,Seriously Saucy,Saus,Boston,Massachusetts,Saus-Boston,4,658,-71.0588801,42.3600825
-21,Seriously Saucy,Cafe Genevieve,Jackson,Wyoming,Cafe-Genevieve-Jackson,4,195,-90.1848103,32.2987573
-21,Seriously Saucy,Melt Eclectic Cafe,Cincinnati,Ohio,Melt-Cincinnati,4.5,333,-84.5120196,39.1031182
-21,Cross-Country Classics,Trinas Starlite Lounge,Somerville,Massachusetts,Trinas-Starlite-Lounge-Somerville,4,351,-71.0994968,42.3875968
-21,Cross-Country Classics,Shortys Pizza and Smoked Meat,Superior,Wisconsin,Shortys-Pizza-and-Smoked-Meat-Superior,4.5,16,-92.1040796,46.7207737
-21,Cross-Country Classics,From Scratch Restaurant,Carmel,California,From-Scratch-Restaurant-Carmel,4,392,-121.9232879,36.5552386
-21,Worldwide Flavorfest,Casa Razdora,Boston,Massachusetts,Casa-Razdora-Boston,4.5,198,-71.0588801,42.3600825
-21,Worldwide Flavorfest,Island Frydays,Cincinnati,Ohio,Island-Frydays-Cincinnati,3.5,45,-84.5120196,39.1031182
-21,Worldwide Flavorfest,Paks Green Corner,Duluth,Minnesota,Paks-Green-Corner-Duluth,3.5,22,-92.1004852,46.7866719
-21,Small Town Standouts,Kounty Quarthouse,South Range,Wisconsin,Kounty-Quarthouse-South-Range,4.5,11,-91.983523,46.607996
-21,Small Town Standouts,Junkyard Extreme Burgers and Brats,Junction City,Oregon,Junkyard-Extreme-Burgers-and-Brats-Junction-City,4,33,-96.8313978,39.0286093
-21,Small Town Standouts,Lotus Cafe,Jackson,Wyoming,Lotus-Cafe-Jackson,4,184,-90.1848103,32.2987573
-21,One Street Wonders,Taste of Belgium,Cincinnati,Ohio,Taste-of-Belgium-Cincinnati,4.5,119,-84.5120196,39.1031182
-21,One Street Wonders,Senate Pub,Cincinnati,Ohio,Senate-Restaurant-Cincinnati,4,457,-84.5120196,39.1031182
-21,One Street Wonders,Bakersfield OTR,Cincinnati,Ohio,Bakersfield-OTR-Cincinnati,4.5,523,-84.5120196,39.1031182
-21,Old School Joints,Cornbread Cafe,Eugene,Oregon,Cornbread-Cafe-Eugene,4.5,220,-123.0867536,44.0520691
-21,Old School Joints,Gannuccis Italian Market,Duluth,Minnesota,Gannuccis-Italian-Market-Duluth,4,12,-92.1004852,46.7866719
-21,Old School Joints,Delta Diner,Delta,Washington,Delta-Diner-Delta,5,28,-123.0264759,49.0952155
-21,Meat In The Middle,The Sandwich League,Eugene,Oregon,The-Sandwich-League-Eugene,4.5,56,-123.0867536,44.0520691
-21,Meat In The Middle,The Brick House Cafe and Catering,Cable,Wisconsin,Brick-House-Cafe-and-Catering-Cable,4.5,8,-91.2932572,46.2079443
-21,Meat In The Middle,Granos Pasta Bar,Baltimore,Maryland,Grano-Pasta-Bar-Baltimore,4,115,-76.6121893,39.2903848
-21,Soup-Centric,Soup Nation,Eugene,Oregon,Soup-Nation-Eugene,4,46,-123.0867536,44.0520691
-21,Soup-Centric,Slainte Irish Pub and Restaurant,Baltimore,Maryland,Slainte-Irish-Pub-and-Restaurant-Baltimore,3.5,172,-76.6121893,39.2903848
-21,Soup-Centric,Pho Lang Thang,Cincinnati,Ohio,Pho-Lang-Thang-Cincinnati,4,254,-84.5120196,39.1031182
-21,All Baltimore All The Time,Jimmys Famous Seafood,Baltimore,Maryland,Jimmys-Famous-Seafood-Baltimore,3.5,135,-76.6121893,39.2903848
-21,All Baltimore All The Time,Clementine,Baltimore,Maryland,Clementine-Baltimore,3.5,258,-76.6121893,39.2903848
-21,Chicken Chowfest,Pattons Restaurant and Catering,Des Moines,Iowa,Pattons-Des-Moines,4.5,22,-93.6091064,41.6005448
-21,Chicken Chowfest,Papas Soul Food Kitchen and BBQ,Eugene,Oregon,Papas-Soul-Food-Kitchen-Eugene,4,348,-123.0867536,44.0520691
-21,Chicken Chowfest,Swallow at the Hollow,Baltimore,Maryland,Swallow-at-the-Hollow-Baltimore,4,31,-76.6121893,39.2903848
-21,Fresh Fish & Funky Chicken,Fishermans Market,Eugene,Oregon,Fishermans-Market-Eugene,4,172,-123.0867536,44.0520691
-21,Fresh Fish & Funky Chicken,Mi Patria Ecuadorian Restaurant,West Des Moines,Iowa,Mi-Patria-West-Des-Moines,4.5,97,-93.711332,41.5772115
-21,Fresh Fish & Funky Chicken,Smokey Ds BBQ,Des Moines,Iowa,Smokey-Ds-BBQ-Des-Moines,3.5,10,-93.6091064,41.6005448
-21,Oldies But Goodies,Ernest and Son,Brigantine,New Jersey,Ernest-and-Son-Meat-Market-Brigantine,4,15,-74.3645906,39.4101171
-21,Oldies But Goodies,Oyster Creek Inn,Leeds Point,New Jersey,Oyster-Creek-Inn-Leeds-Point,4,61,-74.4290379,39.4920619
-21,Oldies But Goodies,George The Chili King Drive-In,Des Moines,Iowa,George-The-Chili-King-Drive-In-Des-Moines,3.5,19,-93.6091064,41.6005448
-21,Southern Spectacular,Farmers Shed,Lexington,Kentucky,The-Farmers-Shed-Garden-Lexington,2,3,-84.5037164,38.0405837
-21,Southern Spectacular,Pine State Biscuits,Portland,Oregon,Pine-State-Biscuits-Portland,4,790,-122.6764816,45.5230622
-21,Southern Spectacular,Sweetie Pies,Saint Louis,Missouri,Sweetie-Pies-Saint-Louis,3.5,19,-90.1994042,38.6270025
-21,Southern Spectacular,Ricks White Light Diner,Frankfort,Kentucky,Ricks-White-Light-Diner-Frankfort,4,61,-84.8732835,38.2009055
-21,Southern Spectacular,Zydecos,Mooresville,Indiana,Zydecos-Mooresville,4.5,70,-80.8100724,35.5848596
-21,Best of Breakfast,Ruths Diner,Salt Lake City,Utah,Ruths-Diner-Salt-Lake-City,4,343,-111.8910474,40.7607793
-21,Best of Breakfast,Lake Effect Diner,Buffalo,New York,Lake-Effect-Diner-Buffalo,3.5,137,-78.8783689,42.8864468
-21,Best of Breakfast,Mustache Bills,Barnegat Light,New Jersey,Mustache-Bills-Diner-Barnegat-Light,4,47,-74.1062466,39.7576202
-21,Best of Breakfast,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2650108,44.977753
-21,Best of Breakfast,Louie and the Red Head Lady,Mandeville,Louisiana,Louie-and-the-Red-Head-Lady-Mandeville,3,24,-90.0656311,30.3582506
-21,Best of Breakfast,Grampas Bakery and Restaurant,Dania Beach,Florida,Grampas-Bakery-and-Restaurant-Dania-Beach,3.5,240,-80.1439343,26.052311
-21,Best of Breakfast,W.O.W – Worth Our Weight,Santa Rosa,California,Worth-Our-Weight-Santa-Rosa,4.5,159,-122.7140548,38.440429
-21,Best of Breakfast,Schooner or Later,Long Beach,California,Schooner-or-Later-Long-Beach,3.5,1025,-118.1937395,33.7700504
-21,Best of Breakfast,Matts Big Breakfast,Phoenix,Arizona,Matts-Big-Breakfast-Phoenix,4,728,-112.0740373,33.4483771
-21,Memorable Moms,Rigoletto Italian Bakery and Cafe,Virginia Beach,Virginia,Rigoletto-Italian-Bakery-Virginia-Beach,3.5,73,-75.977985,36.8529263
-21,Memorable Moms,Voulas Offshore Cafe,Seattle,Washington,Voulas-Offshore-Cafe-Seattle,4,420,-122.3320708,47.6062095
-21,Memorable Moms,Nadines Restaurant,Pittsburgh,Pennsylvania,Nadines-Pittsburgh,4,45,-79.9958864,40.4406248
-21,Memorable Moms,Kelly Os Diner,Pittsburgh,Pennsylvania,Kelly-Os-Diner-Pittsburgh,3,37,-79.9958864,40.4406248
-21,Memorable Moms,Monte Carlo Steak House,Albuquerque,New Mexico,Monte-Carlo-Steak-House-Albuquerque,3.5,95,-106.6055534,35.0853336
-21,Memorable Moms,Emilys Lebanese Deli,Minneapolis,Minnesota,Emilys-Lebanese-Delicatessen-Minneapolis,4,124,-93.2650108,44.977753
-21,Hometown Heroes,Eischens Bar,Okarche,Oklahoma,Eischens-Bar-Okarche,4,91,-97.9764411,35.7258795
-21,Hometown Heroes,Ottos Sausage,Portland,Oregon,Ottos-Sausage-Kitchen-and-Meat-Market-Portland,4.5,303,-122.6764816,45.5230622
-21,Hometown Heroes,South 21 Drive In,Charlotte,North Carolina,South-21-Drive-In-Charlotte-2,4,34,-80.8431267,35.2270869
-21,Hometown Heroes,Kramarczuk Sausage Company,Minneapolis,Minnesota,Kramarczuk-Sausage-Company-Minneapolis,4,192,-93.2650108,44.977753
-21,Hometown Heroes,Bobs Clam Hut,Kittery,Maine,Bobs-Clam-Hut-Kittery,4,319,-70.736137,43.0881256
-21,Hometown Heroes,Rainbow Drive-In,Honolulu,Hawaii,Rainbow-Drive-In-Honolulu,4,1989,-157.8583333,21.3069444
-21,Hometown Heroes,Tommys Joynt,San Francisco,California,Tommys-Joynt-San-Francisco,4,2116,-122.4194155,37.7749295
-21,Pork Hall of Fame,Union Wood Shop,Clarkston,Michigan,Union-Woodshop-Clarkston,4.5,392,-83.4192941,42.7351196
-21,Pork Hall of Fame,Dough Pizzeria Napoletana,San Antonio,Texas,Dough-Pizzeria-Napoletana-San-Antonio,4,778,-98.4936282,29.4241219
-21,Pork Hall of Fame,Marias Taco Express,Austin,Texas,Marias-Taco-Express-Austin,3.5,17,-97.7430608,30.267153
-21,Pork Hall of Fame,Bar Gernika,Boise,Idaho,Bar-Gernika-Boise,4,160,-116.2146068,43.6187102
-21,Pork Hall of Fame,Valencia Luncheria,Norwalk,Connecticut,Valencia-Luncheria-Norwalk,4,451,-73.4081575,41.117744
-21,Pork Hall of Fame,Santa Cruz Diner,Santa Cruz,California,Santa-Cruz-Diner-Santa-Cruz,2.5,830,-122.0307963,36.9741171
-21,Pork Hall of Fame,North End Caffe,Manhattan Beach,California,North-End-Caffe-Manhattan-Beach,4,590,-118.4109089,33.8847361
-21,Pork Hall of Fame,The Oinkster,Eagle Rock,California,The-Oinkster-Eagle-Rock,4,2845,-118.2117257,34.1322469
-21,Pork Hall of Fame,Haus Murphys,Glendale,Arizona,Haus-Murphys-Glendale,4,342,-118.255075,34.1425078
-22,Fish Fries and Feet,Flying Mango,Des Moines,Iowa,Flying-Mango-Des-Moines,4.5,157,-93.6091064,41.6005448
-22,Fish Fries and Feet,Kelsey and Kims Southern Cafe,Atlantic City,New Jersey,Kelsey-and-Kims-Southern-Cafe-Atlantic-City,4,131,-74.4229266,39.3642834
-22,Fish Fries and Feet,Tacopocalypse,Des Moines,Iowa,Tacopocalypse-Des-Moines,3.5,98,-93.6091064,41.6005448
-22,Arizona All Stars,Toms Thumb Fresh Market,Scottsdale,Arizona,Toms-Thumb-Fresh-Market-Scottsdale,4,361,-111.9260519,33.4941704
-22,Arizona All Stars,Paradise Valley Burger Company,Phoenix,Arizona,Paradise-Valley-Burger-Company-Phoenix,4.5,419,-112.0740373,33.4483771
-22,Roadtrippin,The Anchorage Tavern,Somers Point,New Jersey,Anchorage-Tavern-Restaurant-Somers-Point,3.5,71,-74.6053047,39.3160641
-22,Roadtrippin,Saltys BBQ and Catering,Bakersfield,California,Saltys-BBQ-and-Catering-Bakersfield,4,158,-119.0187125,35.3732921
-22,Roadtrippin,Sals Gilbert Pizza,Gilbert,Arizona,Sals-Gilbert-Pizza-Gilbert,4,154,-111.789027,33.3528264
-22,From Atlantic to Pacific,KC Steakhouse,Bakersfield,California,KC-Steakhouse-Bakersfield,3.5,71,-119.0187125,35.3732921
-22,From Atlantic to Pacific,Grilled Cheese and Crab Cake Co.,Somers Point,New Jersey,The-Grilled-Cheese-and-Crab-Cake-Co-Somers-Point,3.5,64,-74.6053047,39.3160641
-22,From Atlantic to Pacific,Mama Roomba,Bakersfield,California,Mama-Roomba-Bakersfield,4,237,-119.0187125,35.3732921
-22,Globe Tasting,The Wild Thaiger,Phoenix,Arizona,Wild-Thaiger-Phoenix,4,380,-112.0740373,33.4483771
-22,Globe Tasting,Muertos Kitchen and Lounge,Bakersfield,California,Muertos-Kitchen-and-Lounge-Bakersfield,4,220,-119.0187125,35.3732921
-22,Globe Tasting,Carluccios Coal Fired Pizza,Northfield,New Jersey,Carluccios-Coal-Fired-Pizza-Northfield,4,97,-93.161604,44.4582983
-22,Sweet Savory and Saucy,La Santisima Gourmet Taco Shop,Bakersfield,California,La-Santisima-Gourmet-Taco-Shop-Phoenix,4.5,724,-119.0187125,35.3732921
-22,Sweet Savory and Saucy,Moo Creamery,Bakersfield,California,Moo-Creamery-Bakersfield,4,625,-119.0187125,35.3732921
-22,Sweet Savory and Saucy,24th Street Cafe,Bakersfield,California,24th-Street-Cafe-Bakersfield,4,297,-119.0187125,35.3732921
-22,Food TruckAPalooza,Tamarindo Truck,Orange County,California,Tamarindo-Truck-Orange-County,4,73,-117.8311428,33.7174708
-22,Food TruckAPalooza,Garbos Grill,Key West,Florida,Garbos-Grill-Key-West,5,1,-81.7799871,24.5550593
-22,Food TruckAPalooza,The Grilled Cheeserie,Nashville,Tennessee,The-Grilled-Cheeserie-Nashville,4,107,-86.7816016,36.1626638
-22,Food TruckAPalooza,Don Chow Tacos,Los Angeles,California,Don-Chow-Tacos-Los-Angeles,3,274,-118.2436849,34.0522342
-22,All Beefed Up,Terrys Turf Club,Cincinnati,Ohio,Terrys-Turf-Club-Cincinnati,4,461,-84.5120196,39.1031182
-22,All Beefed Up,Smokin Guns BBQ and Catering,Kansas City,Missouri,Smokin-Guns-BBQ-and-Catering-Kansas-City,3.5,150,-94.5785667,39.0997265
-22,All Beefed Up,Schellville Grill,Sonoma,California,Schellville-Grill-Sonoma,3.5,310,-122.4580356,38.291859
-22,All Beefed Up,Pauls Coffee Shop,Fountain Valley,California,Pauls-Coffee-Shop-Fountain-Valley,3.5,401,-117.9536697,33.7091847
+14,BBQ Road Show,Pecan Lodge,Dallas,Texas,Pecan-Lodge-Dallas,4,352,-96.7895377267,32.7771154154
+14,BBQ Road Show,John Mulls Meats and Road Kill Grill,Las Vegas,Nevada,John-Mulls-Meats-and-Road-Kill-Grill-Las-Vegas,4.5,406,-115.211555,36.227154
+14,All Vegas All the Time,Naked City Pizza,Las Vegas,Nevada,Naked-City-Pizza-Las-Vegas,4,323,-115.198971,36.130804
+14,All Vegas All the Time,Forte European Tapas Bar and Bistro,Las Vegas,Nevada,Forte-European-Tapas-Bar-and-Bistro-Las-Vegas,4,245,-115.242389,36.112856
+14,All Vegas All the Time,UNLV,Las Vegas,Nevada,UNLV-Las-Vegas,4.5,44,-115.1419519169,36.1017978838
+14,Serious Sandwiches,Lolas - A Louisiana Kitchen,Las Vegas,Nevada,Lolas-A-Louisiana-Kitchen-Las-Vegas,4,86,-115.308823,36.183144
+14,Serious Sandwiches,Noble Pig Sandwiches,Austin,Texas,Noble-Pig-Sandwiches-Austin,4.5,478,-97.822340826,30.4583710941
+14,Serious Sandwiches,Casper and Runyons Nook,Saint Paul,Minnesota,Caspers-and-Runyons-Nook-Saint-Paul,4.5,517,-93.1567078,44.9265518
+14,International Eats,Bachi Burger,Las Vegas,Nevada,Bachi-Burger-Las-Vegas,4,2119,-115.1532250351,36.0427979056
+14,International Eats,Afrah,Richardson,Texas,Afrah-Mediterranean-Restaurant-and-Pastries-Richardson,4,412,-96.728409,32.948048
+14,International Eats,Gazalas Place,Manhattan,New York,Gazala-Place-New-York,3.5,219,-73.989906,40.762707
+14,Belly Up,Hopleaf Bar,Chicago,Illinois,Hopleaf-Bar-Chicago,4,1636,-87.668739,41.975814
+14,Belly Up,Foreign and Domestic,Austin,Texas,Foreign-and-Domestic-Austin,3.5,431,-97.7196383,30.3171071
+14,Dynamic Dishes,Jawaiian Irie Jerk Restaurant,Honolulu,Hawaii,Jawaiian-Irie-Jerk-Restaurant-Honolulu,4.5,312,-157.8001251,21.2825203
+14,Dynamic Dishes,Taste of Europe,Arlington,Virginia,Taste-of-Europe-Arlington-2,4.5,64,-97.1368144459,32.70945308
+14,Dynamic Dishes,Yayo Taco,Las Vegas,Nevada,Yayo-Taco-Las-Vegas,3.5,216,-115.136177063,36.1051597595
+14,Coast to Coast Chow,Camilles on Wheels,Kailua,Hawaii,Camilles-on-Wheels-Kailua,4.5,68,-157.74007,21.39658
+14,Coast to Coast Chow,Chicago Brauhaus,Chicago,Illinois,Chicago-Brauhaus-Chicago,3.5,488,-87.6879606987,41.9674879926
+14,Coast to Coast Chow,Dixie Supply Bakery and Cafe,Charleston,South Carolina,Dixie-Supply-Bakery-and-Cafe-Charleston,3.5,135,-79.928291738,32.7804531902
+15,Unconventional Comforts,Heeia Kea Pier General Store and Deli,Kaneohe,Hawaii,Heeia-Kea-Pier-General-Store-and-Deli-Kaneohe,3.5,174,-157.8098249,21.4442549
+15,Unconventional Comforts,Rex Italian Foods,Norridge,Illinois,Rex-Italian-Foods-Norridge,4,146,-87.8068466187,41.961643219
+15,Unconventional Comforts,Memphis Street Cafe,Hernando,Mississippi,Memphis-Street-Cafe-Hernando,4.5,15,-89.994627,34.823739
+15,Goin the Extra Mile,bopNgrill,Chicago,Illinois,bopNgrill-Chicago,4,497,-87.6611204067,42.0028402135
+15,Goin the Extra Mile,Sweet Home Waimanalo,Waimanalo,Hawaii,Sweet-Home-Waimanalo-Waimanalo,4,280,-157.7038269,21.3401604
+15,Savory Standouts,90 Miles Cuban Cafe,Chicago,Illinois,90-Miles-Cuban-Cafe-Chicago,4,602,-87.685814,41.938057
+15,Savory Standouts,Davis Pub,Annapolis,Maryland,Davis-Pub-Annapolis,4,144,-76.4803238,38.9691887
+15,Surf N Turf Jackpot,Memphis Barbecue Co.,Horn Lake,Mississippi,Memphis-Barbecue-Company-Horn-Lake-2,4,203,-90.002365,34.963364
+15,Surf N Turf Jackpot,Fresh Catch,Honolulu,Hawaii,Fresh-Catch-Honolulu,4,373,-157.8101206,21.288045
+15,Massachusetts Madness,Italian Express Pizzeria,East Boston,Massachusetts,Italian-Express-Pizzeria-Boston-2,4,167,-71.035738157,42.3672738793
+15,Massachusetts Madness,Cuttys,Brookline,Massachusetts,Cuttys-Brookline,4,231,-71.1193453521,42.3332123458
+15,East Coast Comfort,Tupelo,Cambridge,Massachusetts,Tupelo-Cambridge,4,523,-71.0971909,42.3733482
+15,East Coast Comfort,Pattis Pierogis,Fall River,Massachusetts,Pattis-Pierogis-Fall-River,4.5,117,-71.165977,41.690776
+15,East Coast Comfort,Angelos Civito Farnese,Providence,Rhode Island,Angelos-Civita-Farnese-Providence,3.5,98,-71.4228287,41.8234444
+15,East Coast Comfort,Mediterraneo Caffe,Providence,Rhode Island,Mediterraneo-Caffe-Providence,3.5,191,-71.422321,41.8231775
+15,Flavortown Medley,South Of Beale (SOB),Memphis,Tennessee,South-Of-Beale-Memphis,4,150,-90.0577698,35.1366196
+15,Flavortown Medley,Big Wave Shrimp Truck,Haleiwa,Hawaii,Big-Wave-Shrimp-Haleiwa,4,100,-158.1054188311,21.5794316679
+15,Flavortown Medley,Chaps Pit Beef,Baltimore,Maryland,Chaps-Pit-Beef-Baltimore,4,554,-76.5482788086,39.3012313843
+15,Burgers Noodles and Quahogs,Boston Burger Company,Boston,Massachusetts,Boston-Burger-Company-Boston,4,305,-71.08847,42.346813
+15,Burgers Noodles and Quahogs,Anthonys Seafood,Middletown,Rhode Island,Anthonys-Seafood-Middletown,4.5,388,-71.2872479804,41.5177171923
+15,Burgers Noodles and Quahogs,Guerilla Street Food,Saint Louis,Missouri,Guerilla-Street-Food-Saint-Louis,4.5,75,-90.2424427682,38.602897865
+15,Handcrafted,The Elegant Farmer,Mukwonago,Wisconsin,The-Elegant-Farmer-Mukwonago,4,58,-88.344335151,42.8417731339
+15,Handcrafted,Italian Corner,East Providence,Rhode Island,Italian-Corner-East-Providence,4.5,81,-71.3486862,41.8080215
+15,All Family All the Time,Anthoninos Taverna,Saint Louis,Missouri,Anthoninos-Taverna-Saint-Louis,4,254,-90.2779617,38.6143913
+15,All Family All the Time,Three Angels Diner,Memphis,Tennessee,Three-Angels-Diner-Memphis,3.5,74,-89.9720751,35.1476742
+15,All Family All the Time,Opal Thai Food,Haleiwa,Hawaii,Opal-Thai-Food-Haleiwa,4.5,730,-158.1032663584,21.5884192143
+15,Food Done Right,Aunt Carries,Narragansett,Rhode Island,Aunt-Carries-Restaurant-Narragansett,3,132,-71.4854802936,41.3730418682
+15,Food Done Right,The Shaved Duck,Saint Louis,Missouri,The-Shaved-Duck-Saint-Louis,4.5,694,-90.2358704,38.6036301
+15,Food Done Right,Angelas Cafe,East Boston,Massachusetts,Angelas-Cafe-Boston-3,4,231,-71.034996,42.378532
+15,Pubs and Grub,Dressels Public House,Saint Louis,Missouri,Dressels-Public-House-Saint-Louis,4,221,-90.2611389,38.6491318
+15,Pubs and Grub,Outer Banks Brewing Station,Kill Devil Hills,North Carolina,Outer-Banks-Brewing-Station-Kill-Devil-Hills,3.5,380,-75.6594543457,36.0094795227
+15,Pubs and Grub,Edgewood Cafe,Cranston,Rhode Island,Edgewood-Cafe-Cranston,4.5,58,-71.3983306885,41.7749404907
+15,Turn On Traditional,Kitty Hoynes,Syracuse,New York,Kitty-Hoynes-Irish-Pub-and-restaurant-Syracuse,4,103,-76.1557693,43.0485001
+15,Turn On Traditional,Espinos Mexican Bar and Grill,Chesterfield,Missouri,Espinos-Mexican-Bar-and-Grill-Chesterfield,3,99,-90.608116,38.668884
+15,Turn On Traditional,Yankee Lobster Company,Boston,Massachusetts,Yankee-Lobster-Fish-Market-Boston,4,615,-71.0359879434,42.3479215837
+16,Authentic Eats,Highway 61 Roadhouse and Kitchen,Webster Groves,Missouri,Hwy-61-Roadhouse-and-Kitchen-Saint-Louis,3.5,174,-90.3386230469,38.5899047852
+16,Authentic Eats,Byblos Mediterranean Cafe,Syracuse,New York,Byblos-Mediterranean-Cafe-Syracuse,4,55,-76.1536789,43.0521851
+16,Fully Focused,Brine and Bottle,Nags Head,North Carolina,Brine-and-Bottle-Nags-Head,4.5,76,-75.6067621708,35.902208683
+16,Fully Focused,Pastabilities,Syracuse,New York,Pastabilities-Syracuse,4,257,-76.1553497,43.0483932
+16,Far Out,La Isla Restaurant,Hoboken,New Jersey,La-Isla-Restaurant-Hoboken,4,552,-74.0309753,40.7377281
+16,Far Out,Funk n Waffles,Syracuse,New York,Funk-n-Waffles-Syracuse,3.5,150,-76.1358619198,43.04211295
+16,Far Out,Cravings,Duck,North Carolina,Coastal-Cravings-Duck,4,122,-75.75359,36.166532
+16,Matches Made in Heaven,Ortegaz Southwestern Grill,Manteo,North Carolina,Ortegaz-Manteo-2,4,47,-75.670403,35.909515
+16,Matches Made in Heaven,The Smoke Joint,Brooklyn,New York,The-Smoke-Joint-Brooklyn,3.5,676,-73.9753571,40.6869011
+16,Savory Sensations,The Weeping Radish,Jarvisburg,North Carolina,Weeping-Radish-Farm-Brewery-Grandy,4,73,-75.8699417,36.2196198
+16,Savory Sensations,Jimmys Diner,Brooklyn,New York,Jimmys-Diner-Brooklyn,4,438,-73.952415,40.717747
+16,Hometown Haunts,Maries Italian Specialties,Chatham,New Jersey,Maries-Italian-Specialties-Chatham,4,153,-74.43169,40.74581
+16,Hometown Haunts,Darbys Cafe,Olympia,Washington,Darbys-Cafe-Olympia,3,226,-122.8999683198,47.0440716996
+16,Land to Sea,Empire Brewing Company,Syracuse,New York,Empire-Brewing-Company-Syracuse,3.5,220,-76.154579,43.048134
+16,Land to Sea,Black Pelican Oceanfront Restaurant,Kitty Hawk,North Carolina,Black-Pelican-Kitty-Hawk,3.5,261,-75.6907588043,36.0665897465
+16,Land to Sea,Fish Tale Brew Pub,Olympia,Washington,Fish-Tale-Brew-Pub-Olympia,3.5,342,-122.8966231072,47.0438409332
+16,Decadent Dishes,Crocketts Public House,Puyallup,Washington,Crocketts-Public-House-Puyallup,4,460,-122.29274,47.192776
+16,Decadent Dishes,Pies N Thighs,Brooklyn,New York,Pies-N-Thighs-Brooklyn,4,1661,-73.961424,40.711191
+16,Eurocentric,Evas European Sweets,Syracuse,New York,Evas-European-Sweets-Syracuse,5,55,-76.199611,43.0596117
+16,Eurocentric,Brunos European Restaurant,Tacoma,Washington,Brunos-European-Restaurant-Tacoma,4,127,-122.4319610596,47.1595230103
+16,Eurocentric,Hey Meatball,Toronto,Ontario,Hey-Meatball-Toronto,4,138,-79.4185181,43.6550484
+16,Hittin the Grill,Crown Bar,Tacoma,Washington,Crown-Bar-Tacoma,3.5,76,-122.4717865,47.2555733
+16,Hittin the Grill,The Golden State,Los Angeles,California,The-Golden-State-Los-Angeles,4,1107,-118.3611374,34.0790482
+16,Unlikely Partners,Beer Belly,Los Angeles,California,Beer-Belly-Los-Angeles,4,1497,-118.3085479215,34.0643324934
+16,Unlikely Partners,Lakeview Restaurant,Toronto,Ontario,The-Lakeview-Toronto,3.5,247,-79.4203415,43.6495781
+16,Layers of Flavor,Tortugas Lie,Nags Head,North Carolina,Tortugas-Lie-Nags-Head,4,277,-75.6363201141,35.97885333
+16,Layers of Flavor,The Ace,Toronto,Ontario,The-Ace-Toronto,4,88,-79.4486465,43.6461296
+16,Real Deal Roots,Chomp Chomp Nation,Irvine,California,Chomp-Chomp-Nation-Irvine,3.5,183,-117.828541,33.662639
+16,Real Deal Roots,Caplanskys,Toronto,Ontario,Caplanskys-Delicatessen-Toronto,3.5,289,-79.4042482642,43.6572066092
+17,Tacos and Tots,Dirty Oscars Annex,Tacoma,Washington,Dirty-Oscars-Annex-Tacoma,4,458,-122.4677884637,47.2555809241
+17,Tacos and Tots,Highland Tavern,Denver,Colorado,Highland-Tavern-Denver,4,297,-105.0040207,39.7645302
+17,Chicken Chili and Chowder,Sidecar Bar and Grille,Philadelphia,Pennsylvania,The-Sidecar-Bar-and-Grille-Philadelphia,4,447,-75.179482,39.941826
+17,Chicken Chili and Chowder,Chili Johns,Burbank,California,Chili-Johns-Burbank,4,351,-118.3336563,34.1800842
+17,Chicken Chili and Chowder,Stockyards Smokehouse and Larder,Toronto,Ontario,Stockyards-Smokehouse-and-Larder-Toronto,4,466,-79.4263016999,43.6814848281
+17,Dynamic Duos,Atomic Cowboy,Denver,Colorado,Atomic-Cowboy-Denver,4,230,-104.949045,39.740373
+17,Dynamic Duos,Perk Eatery,Scottsdale,Arizona,Perk-Eatery-Scottsdale,4,251,-111.9413185,33.6256847
+17,Traditional Gone Wild,South Philadelphia Tap Room,Philadelphia,Pennsylvania,South-Philadelphia-Tap-Room-Philadelphia,4,380,-75.171478,39.927312
+17,Traditional Gone Wild,St. Francis,Phoenix,Arizona,St-Francis-Restaurant-Phoenix,4,932,-112.0709839,33.5091667
+17,Peppers Pork and Poutine,Barrio Cafe,Phoenix,Arizona,Barrio-Cafe-Phoenix,4,724,-112.0478897,33.4790306
+17,Peppers Pork and Poutine,Rosedale Diner,Toronto,Ontario,Rosedale-Diner-Toronto,3,51,-79.391037,43.6802177
+17,Kings and Queens of Cue,Hops and Pie,Denver,Colorado,Hops-and-Pie-Denver,4,465,-105.0439551473,39.7715049237
+17,Kings and Queens of Cue,Bludsos BBQ,Compton,California,Bludsos-BBQ-Compton,4.5,1397,-118.207474,33.889352
+17,Kings and Queens of Cue,Percy Street Barbecue,Philadelphia,Pennsylvania,Percy-Street-Barbecue-Philadelphia,4,619,-75.1572453976,39.9425829202
+17,A Festival of Flavor,Standard Tap,Philadelphia,Pennsylvania,Standard-Tap-Philadelphia,4,546,-75.1404724,39.9641418
+17,A Festival of Flavor,Curry Corner,Tempe,Arizona,Curry-Corner-Tempe,3.5,273,-111.9199829,33.4151993
+17,A Festival of Flavor,Prohibition,Denver,Colorado,Prohibition-Denver,4,262,-104.9809036,39.7398682
+17,Timeless Traditions,Jamaican Jerk Hut,Philadelphia,Pennsylvania,Jamaican-Jerk-Hut-Philadelphia,3,187,-75.166787,39.944275
+17,Timeless Traditions,DeFalcos Italian Grocery,Scottsdale,Arizona,DeFalcos-Italian-Grocery-Scottsdale,4.5,619,-111.9270096,33.4741783
+17,Timeless Traditions,CoraFayes Cafe,Denver,Colorado,CoraFayes-Cafe-Denver,4,134,-104.9409040028,39.7575634175
+17,From Pound Cake to Pot Pie,Geechee Girl Rice Cafe,Philadelphia,Pennsylvania,Geechee-Girl-Rice-Cafe-Philadelphia,3.5,48,-75.1867599,40.0550003
+17,From Pound Cake to Pot Pie,Haggos Organic Taco,Leucadia,California,Haggos-Organic-Taco-Leucadia,4.5,239,-117.303958,33.070542
+17,From Pound Cake to Pot Pie,The Duce,Phoenix,Arizona,The-Duce-Phoenix,3.5,352,-112.073577,33.442485
+17,L.A. Eats,The Parks Finest BBQ,Los Angeles,California,The-Parks-Finest-BBQ-Los-Angeles,4,909,-118.254266053,34.0665313022
+17,L.A. Eats,Eastside Market Italian Deli,Los Angeles,California,Eastside-Market-Italian-Deli-Los-Angeles,4.5,641,-118.2465973,34.0651321
+17,All San Diego All the Time,Hodads,Ocean Beach,California,Hodads-Ocean-Beach,4,3962,-117.2512891889,32.7470690757
+17,All San Diego All the Time,Pizzeria Luigi,North Park,California,Pizzeria-Luigi-San-Diego-2,4,606,-117.141991,32.754875
+17,From the Heart,Shirleys Tippy Canoe,Troutdale,Oregon,Shirleys-Tippy-Canoe-Troutdale,3.5,151,-122.3696213,45.5166893
+17,From the Heart,Spiritos Italian Diner,Carlsbad,California,Spiritos-Italian-Diner-Carlsbad,4,176,-117.3265533,33.1800385
+17,From the Heart,Nopalito,San Francisco,California,Nopalito-San-Francisco,4,1341,-122.438993048,37.773435301
+17,Thats Fresh,Pica Pica,San Francisco,California,Pica-Pica-San-Francisco,3.5,59,-122.4341929,37.7625512
+17,Thats Fresh,Edelweiss Sausage and Delicatessen,Portland,Oregon,Edelweiss-Sausage-and-Delicatessen-Portland,4,114,-122.6534576,45.5005608
+18,Neighborhood Knockouts,Crest Cafe,San Diego,California,Crest-Cafe-San-Diego,3.5,722,-117.1608935,32.7469172
+18,Neighborhood Knockouts,Show Dogs,San Francisco,California,Show-Dogs-San-Francisco,4,633,-122.4110107,37.7820091
+18,Neighborhood Knockouts,Industrial Cafe and Saloon,Portland,Oregon,Industrial-Cafe-and-Saloon-Portland,4,118,-122.7042923,45.5365906
+18,Meat Lovers Paradise,The Country Cat,Portland,Oregon,The-Country-Cat-Portland,4,18,-122.592806887,45.5903259233
+18,Servin Up San Francisco,Millers East Coast Deli,San Francisco,California,Millers-East-Coast-Deli-San-Francisco,4,1117,-122.4211612344,37.7926656604
+18,Servin Up San Francisco,The Front Porch,San Francisco,California,The-Front-Porch-San-Francisco,4,1878,-122.4219818115,37.7437210083
+18,Cannoli Fritters and Wings,Senor Sisig Food Truck,San Francisco,California,Senor-Sisig-San-Francisco-3,4,893,-122.3994115852,37.7876319281
+18,Cannoli Fritters and Wings,A Taste of Home Cooking,Wheat Ridge,Colorado,A-Taste-of-Home-Cooking-Wheat-Ridge,3,9,-105.110051,39.773637
+18,Cannoli Fritters and Wings,PDX671 Food Trailer,Portland,Oregon,PDX-Six-Seven-One-Portland,4.5,50,-122.6092873514,45.5404054374
+18,Aces of Authenticity,Casa Chimayo Restaurant,Santa Fe,New Mexico,Casa-Chimayo-Restaurant-Santa-Fe,4,245,-105.944046,35.687988
+18,Aces of Authenticity,Franks Noodle House,Portland,Oregon,Franks-Noodle-House-Portland,4,554,-122.6570041,45.5348612
+18,Aces of Authenticity,Torinos,Albuquerque,New Mexico,Torinos-Home-Albuquerque,4,112,-106.591081,35.165868
+18,Sammies and Stew,Jambo Cafe,Santa Fe,New Mexico,Jambo-Cafe-Santa-Fe,4.5,277,-105.977716,35.660487
+18,Sammies and Stew,Bocadillos,Albuquerque,New Mexico,Bocadillos-Albuquerque,4.5,61,-106.6621170044,35.110912323
+18,All Kinds of Gobble Gobble,Back Street Bistro,Santa Fe,New Mexico,Back-Street-Bistro-Santa-Fe,4,30,-105.949943,35.673919
+18,All Kinds of Gobble Gobble,Golden Crown Panaderia,Albuquerque,New Mexico,Golden-Crown-Panaderia-Albuquerque,4.5,180,-106.6581105441,35.0956682861
+18,All Kinds of Gobble Gobble,Danny Edwards BBQ,Kansas City,Missouri,Danny-Edwards-BBQ-Kansas-City,4,108,-94.5985418179,39.081739468
+18,Comfort and Soul,Tin Shed Garden Cafe,Portland,Oregon,Tin-Shed-Portland,4,884,-122.6509171,45.5589409
+18,Comfort and Soul,Nexus Brewery,Albuquerque,New Mexico,Nexus-Brewery-Albuquerque,4,243,-106.6059169501,35.1337979558
+18,Comfort and Soul,BBs Lawnside BBQ,Kansas City,Missouri,B-B-s-Lawnside-BBQ-Kansas-City,4,132,-94.5753098,38.973278
+18,Pork Pasta and Barbecue,Succotash,Kansas City,Missouri,Succotash-Kansas-City,3.5,300,-94.575805,39.079051
+18,Pork Pasta and Barbecue,Cupinis,Kansas City,Missouri,Cupinis-Kansas-City,4,140,-94.6069565,39.0499992
+18,Pork Pasta and Barbecue,The Cube,Albuquerque,New Mexico,The-Cube-Albuquerque,3.5,177,-106.629501,35.081409
+18,South of the Border,Asi y Asado,Cabo San Lucas,Mexico,Asi-y-Asado-Cabo-San-Lucas,3.5,6,-109.8770053185,22.9035988879
+18,South of the Border,Solomons Landing,Cabo San Lucas,Mexico,Solomons-Landing-Restaurant-Cabo-San-Lucas,4,39,-109.911476858,22.8803734655
+18,South of the Border,Tiki Bar,Cabo San Lucas,Mexico,Tiki-Bar-Cabo-San-Lucas,4.5,7,-109.9124527,22.8841896
+18,Tennessee Holiday Traditions,Center Point Pit Barbecue,Hendersonville,Tennessee,Center-Point-Barbecue-Hendersonville,3.5,59,-86.6665421,36.3096695
+18,Tennessee Holiday Traditions,Mas Tacos por Favor,Nashville,Tennessee,Mas-Tacos-Nashville,4.5,375,-86.7546254542,36.1847629336
+18,Family Time,The Grilled Cheeserie,Nashville,Tennessee,The-Grilled-Cheeserie-Nashville,4,107,-86.7839126587,36.1675605774
+18,Family Time,Caffe Nonna,Nashville,Tennessee,Caffe-Nonna-Nashville,4,115,-86.8400803,36.1408539
+18,Family Time,Blue Koi,Kansas City,Missouri,Blue-Koi-Kansas-City,4,240,-94.6062131971,39.0572601557
+18,Soup Salad and Seafood,Pot Pie,Kansas City,Missouri,PotPie-Kansas-City,4,226,-94.5970535,39.0507393
+18,Soup Salad and Seafood,55 South,Franklin,Tennessee,55-South-Franklin,3.5,160,-86.870369,35.9243622
+18,Soup Salad and Seafood,Phat Bites,Nashville,Tennessee,Phat-Bites-Nashville,4,75,-86.6655731,36.1509895
+19,Guys Hometown Tour,Clendenens Cider Works,Fortuna,California,Clendenens-Cider-Works-Fortuna,4.5,10,-124.155365,40.589767
+19,Guys Hometown Tour,Loleta Cheese Shop,Loleta,California,Loleta-Cheese-Factory-Loleta,4,70,-124.223648,40.641094
+19,Guys Hometown Tour,Ferndale Meat Co.,Ferndale,California,Ferndale-Meat-Ferndale,4,7,-124.2638092041,40.5760231018
+19,Guys Hometown Tour,Ivanhoe,Ferndale,California,Hotel-Ivanhoe-Ferndale,4.5,52,-124.2649231,40.5759392
+19,Guys Hometown Tour,Humboldt Sweets,Ferndale,California,Humboldt-Sweets-Ferndale,4.5,37,-124.262619,40.5775064
+19,All Things NY,Black Tree,Manhattan,New York,Black-Tree-New-York,4,214,-73.989647,40.719761
+19,All Things NY,Queens Comfort,Queens,New York,Queens-Comfort-Queens,4,887,-73.91458,40.763788
+19,All Things NY,Pauls Live From New York,Eureka,California,Pauls-Live-From-New-York-Eureka,3.5,101,-124.1659927368,40.8009223938
+19,Big Time Bites,Bun-Ker Vietnamese,Queens,New York,Bunker-Vietnamese-Ridgewood,4,355,-73.9213486,40.7139702
+19,Big Time Bites,Brindle Room,Manhattan,New York,Brindle-Room-New-York,4,518,-73.982696,40.728286
+19,Big Time Bites,Brick and Fire,Eureka,California,Brick-and-Fire-Bistro-Eureka,4.5,355,-124.163800478,40.7926058024
+19,Keepin It Real,Sakaya Kitchen,Miami,Florida,Sakaya-Kitchen-Miami,3.5,413,-80.193964,25.808169
+19,Keepin It Real,Don Antonio By Starita,Manhattan,New York,Don-Antonio-New-York-2,4,524,-73.986708,40.762711
+19,Keepin It Real,Bless My Soul,Eureka,California,Bless-My-Soul-Cafe-Eureka,4,200,-124.1705933,40.8015289
+19,Dynamite Duos,Ducks Eatery,Manhattan,New York,Ducks-Eatery-New-York-2,4,302,-73.9846268,40.7306252
+19,Dynamite Duos,Whisk Gourmet,Miami,Florida,Whisk-Gourmet-Miami,4,617,-80.2846603,25.7028904
+19,Dynamite Duos,Cafe Nooner,Eureka,California,Cafe-Nooner-Eureka,4,112,-124.1672245995,40.8039160305
+19,Kickin It in Key West,Garbos Grill,Key West,Florida,Garbos-Grill-Key-West,5,1,-81.604035,30.354718
+19,Kickin It in Key West,Djs Clam Shack,Key West,Florida,Djs-Clam-Shack-Key-West,4.5,472,-81.8012542725,24.5540733337
+19,Kickin It in Key West,Badboy Burrito,Key West,Florida,Bad-boy-Burrito-Key-West,3.5,93,-81.7961121,24.5491791
+19,From Meatballs to Lollipops,Maxwells East Coast Eatery,Salt Lake City,Utah,Maxwells-East-Coast-Eatery-Salt-Lake-City,3.5,158,-111.8909152597,40.7615572214
+19,From Meatballs to Lollipops,Tin Roof Grill,Sandy,Utah,Tin-Roof-Grill-Sandy,3.5,124,-111.8726272583,40.5828323364
+19,From Meatballs to Lollipops,The Latin House,Miami,Florida,Latin-House-Miami,3.5,388,-80.3482700139,25.7018166035
+19,Cross Country Comfort Food,The Silver Star Cafe,Park City,Utah,Silver-Star-Cafe-Park-City,4,96,-111.516724,40.658715
+19,Cross Country Comfort Food,Sammys Bistro,Park City,Utah,Sammys-Bistro-Park-City-2,4,162,-111.50106,40.66124
+19,Cross Country Comfort Food,Blue Collar,Miami,Florida,Blue-Collar-Miami,4.5,719,-80.1846160889,25.8378200531
+19,International Family Style,Boots and Kimos Homestyle Kitchen,Kailua,Hawaii,Boots-and-Kimos-Homestyle-Kitchen-Kailua,3.5,1798,-157.7412769134,21.3917594253
+19,Island Flavor,Deans Drive Inn,Kaneohe,Hawaii,Deans-Drive-Inn-Kaneohe,4.5,165,-157.7986908,21.41045
+19,Island Flavor,The Alley Restaurant At Aiea Bowl,Aiea,Hawaii,The-Alley-Restaurant-At-Aiea-Bowl-Aiea,4,660,-157.9296469688,21.3789972657
+19,Island Flavor,Elenas Restaurant,Waipahu,Hawaii,Elenas-Restaurant-Waipahu,4,1,-157.856048584,21.3046207428
+19,Grillin Chillin and Huli Huli Chicken,The Federal,Miami,Florida,The-Federal-Miami,3.5,483,-80.1872025,25.8233185
+19,Grillin Chillin and Huli Huli Chicken,Mikes Huli Huli Chicken,Kaneohe,Hawaii,Mikes-Huli-Chicken-Kaneohe,4,324,-157.8385162354,21.457941483
+19,Grillin Chillin and Huli Huli Chicken,Tamarindo Truck,Orange County,California,Tamarindo-Truck-Orange-County,4,73,-117.722745,33.581204
+19,Righteous Bites,Loulous Griddle In The Middle,Monterey,California,Loulous-Griddle-In-The-Middle-Monterey,4,585,-121.8896949291,36.6025284576
+19,Righteous Bites,Fat Sals Deli,Los Angeles,California,Fat-Sals-Deli-Los-Angeles,4,668,-118.4480106782,34.0625164549
+19,Righteous Bites,The Alley Restaurant At Aiea Bowl,Aiea,Hawaii,The-Alley-Restaurant-At-Aiea-Bowl-Aiea,4,660,-157.9296469688,21.3789972657
+19,Vegas Greats,Bachi Burger,Las Vegas,Nevada,Bachi-Burger-Las-Vegas,4,2119,-115.1532250351,36.0427979056
+19,Vegas Greats,John Mulls Road Kill Grill,Las Vegas,Nevada,John-Mulls-Meats-and-Road-Kill-Grill-Las-Vegas-2,4.5,406,-115.211555,36.227154
+19,Vegas Greats,Naked City Pizza,Las Vegas,Nevada,Naked-City-Pizza-Las-Vegas,4,323,-115.198971,36.130804
+19,Vegas Greats,Forte European Tapas Bar and Bistro,Las Vegas,Nevada,Forte-European-Tapas-Bar-and-Bistro-Las-Vegas,4,245,-115.242389,36.112856
+19,Vegas Greats,UNLV,Las Vegas,Nevada,UNLV-Las-Vegas,4.5,44,-115.1419519169,36.1017978838
+19,Crazy for Chicken,Uncle Lous,Memphis,Tennessee,Uncle-Lous-Fried-Chicken-Memphis,4.5,186,-90.0078964,35.0490303
+19,Crazy for Chicken,Tortugas Lie,Nags Head,North Carolina,Tortugas-Lie-Nags-Head,4,277,-75.6363201141,35.97885333
+19,Crazy for Chicken,90 Miles Cuban Cafe,Chicago,Illinois,90-Miles-Cuban-Cafe-Chicago,4,602,-87.685814,41.938057
+19,Crazy for Chicken,Taco Taco Cafe,San Antonio,Texas,Taco-Taco-Cafe-San-Antonio,3,289,-98.4922791,29.4667397
+19,Crazy for Chicken,Rincon Criollo,Queens,New York,Rincon-Criollo-Queens,4.5,448,-73.869195655,40.7489233464
+19,Crazy for Chicken,Tocabe American Indian Eatery,Denver,Colorado,Tocabe-American-Indian-Eatery-Denver,4,459,-105.0341201,39.7764633
+19,Crazy for Chicken,The Glass Onion,Charleston,South Carolina,The-Glass-Onion-Charleston,4,185,-79.998131,32.783829
+19,Crazy for Chicken,Opal Thai Food,Haleiwa,Hawaii,Opal-Thai-Food-Haleiwa,4.5,730,-158.1032663584,21.5884192143
+19,Crazy for Chicken,PotPie,Kansas City,Missouri,PotPie-Kansas-City,4,226,-94.5970535,39.0507393
+19,Crazy for Chicken,Smalleys Caribbean Barbeque,Stillwater,Minnesota,Smalleys-Caribbean-Barbeque-Stillwater,4,167,-92.8042679,45.0539513
+19,Grilling Greats,Toms Bar-B-Q,Memphis,Tennessee,Toms-Barbecue-and-Deli-Memphis-3,4.5,165,-89.9373398,35.037075
+19,Grilling Greats,Lukes Inside Out,Austin,Texas,Lukes-Inside-Out-Austin,4.5,186,-97.7617722,30.2550201
+19,Grilling Greats,Caplanskys Deli,Toronto,Ontario,Caplanskys-Deli-Toronto,3.5,289,-79.4042482642,43.6572066092
+19,Grilling Greats,Dannys All-American Diner and Dairy Bar,Tampa,Florida,Dannys-All-American-Diner-and-Dairy-Bar-Tampa,4,115,-82.3354034424,27.9855747223
+19,Grilling Greats,Ricks Press Room Grill and Bar,Meridian,Idaho,Ricks-Press-Room-Grill-and-Bar-Meridian,4.5,44,-116.3906173706,43.6113014221
+19,Grilling Greats,Maple and Motor,Dallas,Texas,Maple-and-Motor-Dallas,4,747,-96.826988,32.815212
+19,Grilling Greats,Jawaiian Irie Jerk Restaurant,Honolulu,Hawaii,Jawaiian-Irie-Jerk-Restaurant-Honolulu,4.5,312,-157.8001251,21.2825203
+20,California Cruisin,Sabroso Mexican Grill,Garden Grove,California,Sabroso-Mexican-Grill-Garden-Grove,4.5,1053,-117.920858413,33.7728437017
+20,California Cruisin,Monterey Fish House,Monterey,California,Monterey-Fish-House-Monterey,4,1016,-121.8656082,36.6018791
+20,California Cruisin,Rutts Hawaiian Cafe,Los Angeles,California,Rutts-Hawaiian-Cafe-Los-Angeles,4,925,-118.4247971,33.9972191
+20,Stuffed and Twisted,Sidewinders American Grill,Jackson,Wyoming,Sidewinders-Smokehouse-and-Tavern-Jackson,3.5,57,-110.783997,43.474602
+20,Stuffed and Twisted,Rosines Restaurant,Monterey,California,Rosines-Restaurant-Monterey,4,544,-121.894928,36.5991898
+20,Stuffed and Twisted,Blunch,Boston,Massachusetts,Blunch-Boston,4.5,245,-71.0747301579,42.3354929991
+20,Old Standards New Styles,Pinky Gs Pizzeria,Jackson,Wyoming,Pinky-Gs-Pizzeria-Jackson,4,109,-110.763039,43.479267
+20,Old Standards New Styles,The Starling Diner,Long Beach,California,Starling-Diner-Long-Beach,4,1001,-118.144367,33.768169
+20,Old Standards New Styles,Cannery Row Brewing Company,Monterey,California,Cannery-Row-Brewing-Company-Monterey,3.5,927,-121.9008255,36.6155319
+20,From Standards to Standouts,Factory Gastrobar,Long Beach,California,The-Factory-Gastrobar-Long-Beach,3.5,398,-118.184742,33.831371
+20,From Standards to Standouts,Picas Mexican Taqueria,Jackson,Wyoming,Picas-Mexican-Taqueria-Jackson,3,42,-110.7876816,43.4717216
+20,From Standards to Standouts,Little Napoli,Carmel,California,Little-Napoli-Carmel,4,693,-121.9225144386,36.5542234017
+20,All Day Dining,Wild Plum Cafe and Bistro,Monterey,California,The-Wild-Plum-Cafe-and-Bakery-Monterey,3.5,452,-121.8931791186,36.5948655456
+20,All Day Dining,Noras Fish Creek Inn,Wilson,Wyoming,Noras-Fish-Creek-Inn-Wilson,3.5,83,-110.8746663086,43.4979495327
+20,All Day Dining,Tavern on 2,Long Beach,California,Tavern-on-2-Long-Beach,4,666,-118.1356964,33.7604141
+21,Roadtrippin in Beantown,Cafe Polonia,Boston,Massachusetts,Cafe-Polonia-Boston,4.5,256,-71.0569974035,42.3289228231
+21,Roadtrippin in Beantown,Lone Star Taco Bar,Allston,Massachusetts,Lone-Star-Taco-Bar-Allston,4,252,-71.1370889224,42.3537870975
+21,Roadtrippin in Beantown,Deep Ellum,Allston,Massachusetts,Deep-Ellum-Allston,4,854,-71.1370251328,42.3537889123
+21,Seriously Saucy,Saus,Boston,Massachusetts,Saus-Boston,4,658,-71.0570718851,42.3610800092
+21,Seriously Saucy,Cafe Genevieve,Jackson,Wyoming,Cafe-Genevieve-Jackson,4,195,-110.759941,43.479961
+21,Seriously Saucy,Melt Eclectic Cafe,Cincinnati,Ohio,Melt-Cincinnati,4.5,333,-84.5400524139,39.1632093701
+21,Cross-Country Classics,Trinas Starlite Lounge,Somerville,Massachusetts,Trinas-Starlite-Lounge-Somerville,4,351,-71.1015308441,42.3746190711
+21,Cross-Country Classics,Shortys Pizza and Smoked Meat,Superior,Wisconsin,Shortys-Pizza-and-Smoked-Meat-Superior,4.5,16,-92.1040513,46.7260509
+21,Cross-Country Classics,From Scratch Restaurant,Carmel,California,From-Scratch-Restaurant-Carmel,4,392,-121.9077427762,36.5409813342
+21,Worldwide Flavorfest,Casa Razdora,Boston,Massachusetts,Casa-Razdora-Boston,4.5,198,-71.0546112,42.3580513
+21,Worldwide Flavorfest,Island Frydays,Cincinnati,Ohio,Island-Frydays-Cincinnati,3.5,45,-84.508911,39.132591
+21,Worldwide Flavorfest,Paks Green Corner,Duluth,Minnesota,Paks-Green-Corner-Duluth,3.5,22,-92.1540527,46.750061
+21,Small Town Standouts,Kounty Quarthouse,South Range,Wisconsin,Kounty-Quarthouse-South-Range,4.5,11,-91.9839052856,46.6144430637
+21,Small Town Standouts,Junkyard Extreme Burgers and Brats,Junction City,Oregon,Junkyard-Extreme-Burgers-and-Brats-Junction-City,4,33,-123.195403,44.25309
+21,Small Town Standouts,Lotus Cafe,Jackson,Wyoming,Lotus-Cafe-Jackson,4,184,-110.7639846802,43.4807662964
+21,One Street Wonders,Taste of Belgium,Cincinnati,Ohio,Taste-of-Belgium-Cincinnati,4.5,119,-84.5184402,39.1153984
+21,One Street Wonders,Senate Pub,Cincinnati,Ohio,Senate-Restaurant-Cincinnati,4,457,-84.514587,39.108742
+21,One Street Wonders,Bakersfield OTR,Cincinnati,Ohio,Bakersfield-OTR-Cincinnati,4.5,523,-84.5149686,39.1087163
+21,Old School Joints,Cornbread Cafe,Eugene,Oregon,Cornbread-Cafe-Eugene,4.5,220,-123.1122665,44.0517883
+21,Old School Joints,Gannuccis Italian Market,Duluth,Minnesota,Gannuccis-Italian-Market-Duluth,4,12,-92.166736398,46.7377870479
+21,Old School Joints,Delta Diner,Delta,Washington,Delta-Diner-Delta,5,28,-91.274292,46.4745369
+21,Meat In The Middle,The Sandwich League,Eugene,Oregon,The-Sandwich-League-Eugene,4.5,56,-123.1092529,44.0573196
+21,Meat In The Middle,The Brick House Cafe and Catering,Cable,Wisconsin,Brick-House-Cafe-and-Catering-Cable,4.5,8,-91.291263,46.207539
+21,Meat In The Middle,Granos Pasta Bar,Baltimore,Maryland,Grano-Pasta-Bar-Baltimore,4,115,-76.6330719,39.3309326
+21,Soup-Centric,Soup Nation,Eugene,Oregon,Soup-Nation-Eugene,4,46,-123.0880051,44.0538292
+21,Soup-Centric,Slainte Irish Pub and Restaurant,Baltimore,Maryland,Slainte-Irish-Pub-and-Restaurant-Baltimore,3.5,172,-76.5925537,39.2820013
+21,Soup-Centric,Pho Lang Thang,Cincinnati,Ohio,Pho-Lang-Thang-Cincinnati,4,254,-84.518959,39.1155281
+21,All Baltimore All The Time,Jimmys Famous Seafood,Baltimore,Maryland,Jimmys-Famous-Seafood-Baltimore,3.5,135,-76.5346374512,39.2727851868
+21,All Baltimore All The Time,Clementine,Baltimore,Maryland,Clementine-Baltimore,3.5,258,-76.5624473,39.3513668
+21,Chicken Chowfest,Pattons Restaurant and Catering,Des Moines,Iowa,Pattons-Des-Moines,4.5,22,-93.5930709839,41.5947227478
+21,Chicken Chowfest,Papas Soul Food Kitchen and BBQ,Eugene,Oregon,Papas-Soul-Food-Kitchen-Eugene,4,348,-123.109363,44.055256
+21,Chicken Chowfest,Swallow at the Hollow,Baltimore,Maryland,Swallow-at-the-Hollow-Baltimore,4,31,-76.6097183228,39.36485672
+21,Fresh Fish & Funky Chicken,Fishermans Market,Eugene,Oregon,Fishermans-Market-Eugene,4,172,-123.1054611206,44.0519638062
+21,Fresh Fish & Funky Chicken,Mi Patria Ecuadorian Restaurant,West Des Moines,Iowa,Mi-Patria-West-Des-Moines,4.5,97,-93.7379050854,41.5956969051
+21,Fresh Fish & Funky Chicken,Smokey Ds BBQ,Des Moines,Iowa,Smokey-Ds-BBQ-Des-Moines,3.5,10,-93.6254272461,41.5870018005
+21,Oldies But Goodies,Ernest and Son,Brigantine,New Jersey,Ernest-and-Son-Meat-Market-Brigantine,4,15,-74.3867258728,39.3934455514
+21,Oldies But Goodies,Oyster Creek Inn,Leeds Point,New Jersey,Oyster-Creek-Inn-Leeds-Point,4,61,-74.4164695066,39.5048274975
+21,Oldies But Goodies,George The Chili King Drive-In,Des Moines,Iowa,George-The-Chili-King-Drive-In-Des-Moines,3.5,19,-93.697006,41.614524
+21,Southern Spectacular,Farmers Shed,Lexington,Kentucky,The-Farmers-Shed-Garden-Lexington,2,3,-81.3119965,33.9791374
+21,Southern Spectacular,Pine State Biscuits,Portland,Oregon,Pine-State-Biscuits-Portland,4,790,-122.6262665,45.5162392
+21,Southern Spectacular,Sweetie Pies,Saint Louis,Missouri,Sweetie-Pies-Saint-Louis,3.5,19,-90.2795210481,38.74633044
+21,Southern Spectacular,Ricks White Light Diner,Frankfort,Kentucky,Ricks-White-Light-Diner-Frankfort,4,61,-84.8790817,38.1954994
+21,Southern Spectacular,Zydecos,Mooresville,Indiana,Zydecos-Mooresville,4.5,70,-86.3743896484,39.6124649048
+21,Best of Breakfast,Ruths Diner,Salt Lake City,Utah,Ruths-Diner-Salt-Lake-City,4,343,-111.78038,40.76168
+21,Best of Breakfast,Lake Effect Diner,Buffalo,New York,Lake-Effect-Diner-Buffalo,3.5,137,-78.826393,42.950214
+21,Best of Breakfast,Mustache Bills,Barnegat Light,New Jersey,Mustache-Bills-Diner-Barnegat-Light,4,47,-74.1066132,39.7578087
+21,Best of Breakfast,Als Breakfast,Minneapolis,Minnesota,Als-Breakfast-Minneapolis,4.5,309,-93.2356491,44.9810104
+21,Best of Breakfast,Louie and the Red Head Lady,Mandeville,Louisiana,Louie-and-the-Red-Head-Lady-Mandeville,3,24,-90.0593185,30.3628006
+21,Best of Breakfast,Grampas Bakery and Restaurant,Dania Beach,Florida,Grampas-Bakery-and-Restaurant-Dania-Beach,3.5,240,-80.1441955566,26.0507068634
+21,Best of Breakfast,W.O.W – Worth Our Weight,Santa Rosa,California,Worth-Our-Weight-Santa-Rosa,4.5,159,-122.68557,38.441532
+21,Best of Breakfast,Schooner or Later,Long Beach,California,Schooner-or-Later-Long-Beach,3.5,1025,-118.1084460124,33.7520965701
+21,Best of Breakfast,Matts Big Breakfast,Phoenix,Arizona,Matts-Big-Breakfast-Phoenix,4,728,-112.072327137,33.4566960574
+21,Memorable Moms,Rigoletto Italian Bakery and Cafe,Virginia Beach,Virginia,Rigoletto-Italian-Bakery-Virginia-Beach,3.5,73,-76.0078964,36.7574692
+21,Memorable Moms,Voulas Offshore Cafe,Seattle,Washington,Voulas-Offshore-Cafe-Seattle,4,420,-122.3213662952,47.6545346528
+21,Memorable Moms,Nadines Restaurant,Pittsburgh,Pennsylvania,Nadines-Pittsburgh,4,45,-79.967209,40.426388
+21,Memorable Moms,Kelly Os Diner,Pittsburgh,Pennsylvania,Kelly-Os-Diner-Pittsburgh,3,37,-80.0351028442,40.5478057861
+21,Memorable Moms,Monte Carlo Steak House,Albuquerque,New Mexico,Monte-Carlo-Steak-House-Albuquerque,3.5,95,-106.683487,35.086136
+21,Memorable Moms,Emilys Lebanese Deli,Minneapolis,Minnesota,Emilys-Lebanese-Delicatessen-Minneapolis,4,124,-93.261192,44.995689
+21,Hometown Heroes,Eischens Bar,Okarche,Oklahoma,Eischens-Bar-Okarche,4,91,-97.9753875732,35.7255415356
+21,Hometown Heroes,Ottos Sausage,Portland,Oregon,Ottos-Sausage-Kitchen-and-Meat-Market-Portland,4.5,303,-122.619766,45.478952
+21,Hometown Heroes,South 21 Drive In,Charlotte,North Carolina,South-21-Drive-In-Charlotte-2,4,34,-80.790367,35.203331
+21,Hometown Heroes,Kramarczuk Sausage Company,Minneapolis,Minnesota,Kramarczuk-Sausage-Company-Minneapolis,4,192,-93.2573929,44.9878998
+21,Hometown Heroes,Bobs Clam Hut,Kittery,Maine,Bobs-Clam-Hut-Kittery,4,319,-70.733975,43.112388
+21,Hometown Heroes,Rainbow Drive-In,Honolulu,Hawaii,Rainbow-Drive-In-Honolulu,4,1989,-157.8148913383,21.2760181782
+21,Hometown Heroes,Tommys Joynt,San Francisco,California,Tommys-Joynt-San-Francisco,4,2116,-122.421806,37.785495
+21,Pork Hall of Fame,Union Wood Shop,Clarkston,Michigan,Union-Woodshop-Clarkston,4.5,392,-83.4186325,42.7353287
+21,Pork Hall of Fame,Dough Pizzeria Napoletana,San Antonio,Texas,Dough-Pizzeria-Napoletana-San-Antonio,4,778,-98.5069275,29.5195141
+21,Pork Hall of Fame,Marias Taco Express,Austin,Texas,Marias-Taco-Express-Austin,3.5,17,-97.778358,30.245953
+21,Pork Hall of Fame,Bar Gernika,Boise,Idaho,Bar-Gernika-Boise,4,160,-116.2029588,43.6140596
+21,Pork Hall of Fame,Valencia Luncheria,Norwalk,Connecticut,Valencia-Luncheria-Norwalk,4,451,-73.4190063,41.1258507
+21,Pork Hall of Fame,Santa Cruz Diner,Santa Cruz,California,Santa-Cruz-Diner-Santa-Cruz,2.5,830,-122.0220489502,36.980594635
+21,Pork Hall of Fame,North End Caffe,Manhattan Beach,California,North-End-Caffe-Manhattan-Beach,4,590,-118.4173203,33.8994522
+21,Pork Hall of Fame,The Oinkster,Eagle Rock,California,The-Oinkster-Eagle-Rock,4,2845,-118.210518,34.139511
+21,Pork Hall of Fame,Haus Murphys,Glendale,Arizona,Haus-Murphys-Glendale,4,342,-112.1829681396,33.5382728577
+22,Fish Fries and Feet,Flying Mango,Des Moines,Iowa,Flying-Mango-Des-Moines,4.5,157,-93.677612,41.615264
+22,Fish Fries and Feet,Kelsey and Kims Southern Cafe,Atlantic City,New Jersey,Kelsey-and-Kims-Southern-Cafe-Atlantic-City,4,131,-74.4164963,39.3722992
+22,Fish Fries and Feet,Tacopocalypse,Des Moines,Iowa,Tacopocalypse-Des-Moines,3.5,98,-93.6112359803,41.5900546021
+22,Arizona All Stars,Toms Thumb Fresh Market,Scottsdale,Arizona,Toms-Thumb-Fresh-Market-Scottsdale,4,361,-111.8792572021,33.6393699646
+22,Arizona All Stars,Paradise Valley Burger Company,Phoenix,Arizona,Paradise-Valley-Burger-Company-Phoenix,4.5,419,-111.9957034773,33.6399134922
+22,Roadtrippin,The Anchorage Tavern,Somers Point,New Jersey,Anchorage-Tavern-Restaurant-Somers-Point,3.5,71,-74.5946960449,39.3108444214
+22,Roadtrippin,Saltys BBQ and Catering,Bakersfield,California,Saltys-BBQ-and-Catering-Bakersfield,4,158,-119.1089248657,35.3833618164
+22,Roadtrippin,Sals Gilbert Pizza,Gilbert,Arizona,Sals-Gilbert-Pizza-Gilbert,4,154,-111.7906120319,33.3290136355
+22,From Atlantic to Pacific,KC Steakhouse,Bakersfield,California,KC-Steakhouse-Bakersfield,3.5,71,-119.023849,35.382266
+22,From Atlantic to Pacific,Grilled Cheese and Crab Cake Co.,Somers Point,New Jersey,The-Grilled-Cheese-and-Crab-Cake-Co-Somers-Point,3.5,64,-74.6094987541,39.3185555935
+22,From Atlantic to Pacific,Mama Roomba,Bakersfield,California,Mama-Roomba-Bakersfield,4,237,-119.0198135,35.3756905
+22,Globe Tasting,The Wild Thaiger,Phoenix,Arizona,Wild-Thaiger-Phoenix,4,380,-112.073417,33.477939
+22,Globe Tasting,Muertos Kitchen and Lounge,Bakersfield,California,Muertos-Kitchen-and-Lounge-Bakersfield,4,220,-119.019394,35.375881
+22,Globe Tasting,Carluccios Coal Fired Pizza,Northfield,New Jersey,Carluccios-Coal-Fired-Pizza-Northfield,4,97,-74.5531387,39.3750496
+22,Sweet Savory and Saucy,La Santisima Gourmet Taco Shop,Bakersfield,California,La-Santisima-Gourmet-Taco-Shop-Phoenix,4.5,724,-112.047393,33.4692
+22,Sweet Savory and Saucy,Moo Creamery,Bakersfield,California,Moo-Creamery-Bakersfield,4,625,-119.0558472,35.3706093
+22,Sweet Savory and Saucy,24th Street Cafe,Bakersfield,California,24th-Street-Cafe-Bakersfield,4,297,-119.017906189,35.380771637
+22,Food TruckAPalooza,Tamarindo Truck,Orange County,California,Tamarindo-Truck-Orange-County,4,73,-117.722745,33.581204
+22,Food TruckAPalooza,Garbos Grill,Key West,Florida,Garbos-Grill-Key-West,5,1,-81.604035,30.354718
+22,Food TruckAPalooza,The Grilled Cheeserie,Nashville,Tennessee,The-Grilled-Cheeserie-Nashville,4,107,-86.7839126587,36.1675605774
